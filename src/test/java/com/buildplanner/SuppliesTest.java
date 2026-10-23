@@ -85,7 +85,7 @@ public class SuppliesTest
     {
         SwingUtilities.invokeAndWait(() -> {
             Planner p=Planner.fresh(Catalogue.load(new Gson()));p.add("oak-larder",1,false);
-            PlannerView view=new PlannerView(Catalogue.load(new Gson()),p,()->{},u->{});
+            PlannerView view=new PlannerView(new Gson(), Catalogue.load(new Gson()),p,()->{},u->{});
             view.updateSupplies(snapshot(Map.of(8778,5L),Map.of(8778,1L),Map.of(8778,500L)));
             String copied=view.shoppingListText();assertTrue(copied.contains("Missing 2"));assertTrue(copied.contains("1,000 gp"));
             assertFalse(copied.contains("Manual counts; not a bank scan"));

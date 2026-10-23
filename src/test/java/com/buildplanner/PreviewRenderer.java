@@ -28,7 +28,7 @@ public final class PreviewRenderer
                 String recipeId = args.length > 1 ? args[1] : "mahogany-cargo-hold";
                 BufferedImage suppliedImage = args.length > 2 ? ImageIO.read(new File(args[2])) : null;
                 p.add("oak-chair",1,false);p.complete(p.current().entries.get(p.current().entries.size()-1),true);
-                PlannerView v=new PlannerView(c,p,()->{},s->{}, (recipe, ready) -> {
+                PlannerView v=new PlannerView(new Gson(), c,p,()->{},s->{}, (recipe, ready) -> {
                     if (recipe.id.equals(recipeId) && suppliedImage != null) ready.accept(suppliedImage);
                 });
                 v.updateLevels(53,58);

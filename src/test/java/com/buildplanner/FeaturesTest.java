@@ -63,7 +63,7 @@ public class FeaturesTest
     @Test public void levelsAreUnknownOfflineAndUpdateWithoutChangingSelection() throws Exception
     {
         SwingUtilities.invokeAndWait(() -> {
-            PlannerView v=new PlannerView(catalogue,Planner.fresh(catalogue),()->{},s->{});
+            PlannerView v=new PlannerView(new Gson(), catalogue,Planner.fresh(catalogue),()->{},s->{});
             v.searchFor("Oak chair");v.chooseRecipe("oak-chair");
             assertTrue(v.levelText().contains("?"));
             v.updateLevels(18,1);assertTrue(v.levelText().contains("✗"));
@@ -78,7 +78,7 @@ public class FeaturesTest
     {
         SwingUtilities.invokeAndWait(() -> {
             Planner p=Planner.fresh(catalogue);
-            PlannerView v=new PlannerView(catalogue,p,()->{},s->{});
+            PlannerView v=new PlannerView(new Gson(), catalogue,p,()->{},s->{});
             v.searchFor("Oak chair");v.selectShortcut(2);
             assertEquals(0,v.recipeList().getModel().getSize());
             v.updateSupplies(new Supplies.Snapshot(Map.of(8778,2L),Map.of(),true,1,Map.of(),Set.of(),0,"Test"));

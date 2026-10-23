@@ -40,7 +40,7 @@ public final class PlannerView extends JPanel
     private final JTabbedPane tabs = new JTabbedPane();
     private final JButton add;
     private final JButton wiki;
-    private final Supplies supplyCalculator = new Supplies(new com.google.gson.Gson());
+    private final Supplies supplyCalculator;
     private Supplies.Snapshot supplies = Supplies.Snapshot.empty();
     private final JLabel levels = new JLabel();
     private final JComboBox<String> shortcut = new JComboBox<>(new String[]{"All recipes", "Within my levels", "Have materials"});
@@ -49,16 +49,17 @@ public final class PlannerView extends JPanel
     private boolean refreshing;
     private boolean updatingResults;
 
-    public PlannerView(Catalogue catalogue, Planner planner, Runnable persist, Consumer<String> openLink)
+    public PlannerView(com.google.gson.Gson gson, Catalogue catalogue, Planner planner, Runnable persist, Consumer<String> openLink)
     {
-        this(catalogue, planner, persist, openLink, (recipe, ready) -> {});
+        this(gson, catalogue, planner, persist, openLink, (recipe, ready) -> {});
     }
 
-    public PlannerView(Catalogue catalogue, Planner planner, Runnable persist, Consumer<String> openLink,
+    public PlannerView(com.google.gson.Gson gson, Catalogue catalogue, Planner planner, Runnable persist, Consumer<String> openLink,
         BiConsumer<Recipe, Consumer<BufferedImage>> loadPicture)
     {
         this.catalogue = catalogue; this.planner = planner; this.persist = persist;
         this.loadPicture = loadPicture;
+        this.supplyCalculator = new Supplies(gson);
         setLayout(new BorderLayout(0, 6));
         setBorder(BorderFactory.createEmptyBorder(8, 6, 8, 6));
         setPreferredSize(new Dimension(225, 720));

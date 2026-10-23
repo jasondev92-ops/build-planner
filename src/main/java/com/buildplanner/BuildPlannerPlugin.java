@@ -92,7 +92,7 @@ public final class BuildPlannerPlugin extends Plugin
     {
         Planner planner = Planner.decode(catalogue, gson, config.getConfiguration(GROUP, STATE));
         panel.removeAll();
-        view = new PlannerView(catalogue, planner,
+        view = new PlannerView(gson, catalogue, planner,
             () -> { config.setConfiguration(GROUP, STATE, planner.encode(gson)); publishPlan(planner); }, LinkBrowser::browse,
             (recipe, ready) -> {
                 net.runelite.client.util.AsyncBufferedImage image = itemManager.getImage(recipe.iconItemId);

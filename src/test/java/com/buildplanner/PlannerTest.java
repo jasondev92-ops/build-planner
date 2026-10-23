@@ -104,7 +104,7 @@ public class PlannerTest
     {
         SwingUtilities.invokeAndWait(() -> {
             Planner p=p(); AtomicInteger saves=new AtomicInteger();
-            PlannerView view=new PlannerView(c,p,saves::incrementAndGet,s -> {});
+            PlannerView view=new PlannerView(new Gson(), c,p,saves::incrementAndGet,s -> {});
             view.searchFor("mahogany magic wardrobe"); view.chooseRecipe("mahogany-magic-wardrobe");
             assertTrue(view.detailText().contains("Already built: Carved teak magic wardrobe"));
             view.includeEarlierSteps(true); assertTrue(view.detailText().contains("10 × Oak plank"));
@@ -115,7 +115,7 @@ public class PlannerTest
     @Test public void clearingSearchBatchesResultsAndReusesRenderer() throws Exception
     {
         SwingUtilities.invokeAndWait(() -> {
-            PlannerView view = new PlannerView(c, p(), () -> {}, s -> {});
+            PlannerView view = new PlannerView(new Gson(), c, p(), () -> {}, s -> {});
             view.searchFor("zzzzzz");
             javax.swing.JList<Recipe> list = view.recipeList();
             AtomicInteger additions = new AtomicInteger();
@@ -143,7 +143,7 @@ public class PlannerTest
     {
         SwingUtilities.invokeAndWait(() -> {
             java.util.List<String> links = new java.util.ArrayList<>();
-            PlannerView view = new PlannerView(c, p(), () -> {}, links::add);
+            PlannerView view = new PlannerView(new Gson(), c, p(), () -> {}, links::add);
             view.searchFor("mahogany cargo hold");
             assertTrue(view.detailText().contains("Raft: 60 slots"));
             assertTrue(view.detailText().contains("Skiff: 90 slots"));
@@ -188,7 +188,7 @@ public class PlannerTest
         java.util.Map<String, java.util.function.Consumer<java.awt.image.BufferedImage>> ready = new java.util.HashMap<>();
         PlannerView[] holder = new PlannerView[1];
         SwingUtilities.invokeAndWait(() -> {
-            PlannerView view = new PlannerView(c, p(), () -> {}, s -> {}, (r, callback) -> ready.put(r.id, callback));
+            PlannerView view = new PlannerView(new Gson(), c, p(), () -> {}, s -> {}, (r, callback) -> ready.put(r.id, callback));
             holder[0] = view;
             view.searchFor("mahogany cargo hold");
             view.searchFor("oak cargo hold");
