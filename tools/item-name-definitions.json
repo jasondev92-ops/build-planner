@@ -1,0 +1,3686 @@
+{
+  "elenaportrait": [
+    [
+      7996,
+      "POH_UNFRAMED_PAINTING_ELENA"
+    ]
+  ],
+  "isafdarpainting": [
+    [
+      8000,
+      "POH_UNFRAMED_PAINTING_ISTAFAR"
+    ]
+  ],
+  "karamjapainting": [
+    [
+      8001,
+      "POH_UNFRAMED_PAINTING_KARAMJA"
+    ]
+  ],
+  "lumbridgepainting": [
+    [
+      8002,
+      "POH_UNFRAMED_PAINTING_LUMBRIDGE"
+    ]
+  ],
+  "morytaniapainting": [
+    [
+      8003,
+      "POH_UNFRAMED_PAINTING_MORYTANIA"
+    ]
+  ],
+  "smallmap": [
+    [
+      8004,
+      "POH_UNFRAMED_PAINTING_SMALL_MAP"
+    ],
+    [
+      8294,
+      "POH_MAP_1"
+    ]
+  ],
+  "mediummap": [
+    [
+      8005,
+      "POH_UNFRAMED_PAINTING_MEDIUM_MAP"
+    ],
+    [
+      8295,
+      "POH_MAP_2"
+    ]
+  ],
+  "largemap": [
+    [
+      8006,
+      "POH_UNFRAMED_PAINTING_LARGE_MAP"
+    ],
+    [
+      8296,
+      "POH_MAP_3"
+    ]
+  ],
+  "boxingring": [
+    [
+      8023,
+      "POH_COMBAT_RING_1"
+    ]
+  ],
+  "fencingring": [
+    [
+      8024,
+      "POH_COMBAT_RING_2"
+    ]
+  ],
+  "combatring": [
+    [
+      8025,
+      "POH_COMBAT_RING_3"
+    ]
+  ],
+  "rangingpedestals": [
+    [
+      8026,
+      "POH_COMBAT_RING_4"
+    ]
+  ],
+  "balancebeam": [
+    [
+      8027,
+      "POH_COMBAT_RING_5"
+    ]
+  ],
+  "gloverack": [
+    [
+      8028,
+      "POH_WEAPON_RACK_1"
+    ]
+  ],
+  "weaponsrack": [
+    [
+      8029,
+      "POH_WEAPON_RACK_2"
+    ]
+  ],
+  "extraweaponsrack": [
+    [
+      8030,
+      "POH_WEAPON_RACK_3"
+    ]
+  ],
+  "woodenbed": [
+    [
+      8031,
+      "POH_BED_1"
+    ],
+    [
+      8576,
+      "POH_FLATPACK_BED1"
+    ],
+    [
+      24918,
+      "CON_CONTRACT_MEDIUM_BED_REGULAR"
+    ],
+    [
+      24922,
+      "CON_CONTRACT_LARGE_BED_REGULAR"
+    ]
+  ],
+  "oakbed": [
+    [
+      8032,
+      "POH_BED_2"
+    ],
+    [
+      8578,
+      "POH_FLATPACK_BED2"
+    ],
+    [
+      24919,
+      "CON_CONTRACT_MEDIUM_BED_OAK"
+    ],
+    [
+      24923,
+      "CON_CONTRACT_LARGE_BED_OAK"
+    ]
+  ],
+  "largeoakbed": [
+    [
+      8033,
+      "POH_BED_3"
+    ],
+    [
+      8580,
+      "POH_FLATPACK_BED3"
+    ]
+  ],
+  "teakbed": [
+    [
+      8034,
+      "POH_BED_4"
+    ],
+    [
+      8582,
+      "POH_FLATPACK_BED4"
+    ],
+    [
+      24920,
+      "CON_CONTRACT_MEDIUM_BED_TEAK"
+    ],
+    [
+      24924,
+      "CON_CONTRACT_LARGE_BED_TEAK"
+    ]
+  ],
+  "largeteakbed": [
+    [
+      8035,
+      "POH_BED_5"
+    ],
+    [
+      8584,
+      "POH_FLATPACK_BED5"
+    ]
+  ],
+  "4poster": [
+    [
+      8036,
+      "POH_BED_6"
+    ]
+  ],
+  "gilded4poster": [
+    [
+      8037,
+      "POH_BED_7"
+    ]
+  ],
+  "shoebox": [
+    [
+      8038,
+      "POH_WARDROBE_1"
+    ],
+    [
+      8610,
+      "POH_FLATPACK_WARDROBE1"
+    ]
+  ],
+  "oakdrawers": [
+    [
+      8039,
+      "POH_WARDROBE_2"
+    ],
+    [
+      8612,
+      "POH_FLATPACK_WARDROBE2"
+    ]
+  ],
+  "oakwardrobe": [
+    [
+      8040,
+      "POH_WARDROBE_3"
+    ],
+    [
+      8614,
+      "POH_FLATPACK_WARDROBE3"
+    ],
+    [
+      9829,
+      "POH_COS_ROOM_MAGIC_WARDROBE_OAK"
+    ],
+    [
+      24907,
+      "CON_CONTRACT_WARDROBE_OAK"
+    ]
+  ],
+  "teakdrawers": [
+    [
+      8041,
+      "POH_WARDROBE_4"
+    ],
+    [
+      8616,
+      "POH_FLATPACK_WARDROBE4"
+    ]
+  ],
+  "teakwardrobe": [
+    [
+      8042,
+      "POH_WARDROBE_5"
+    ],
+    [
+      8618,
+      "POH_FLATPACK_WARDROBE5"
+    ],
+    [
+      9831,
+      "POH_COS_ROOM_MAGIC_WARDROBE_TEAK"
+    ],
+    [
+      24908,
+      "CON_CONTRACT_WARDROBE_TEAK"
+    ]
+  ],
+  "mahoganywardrobe": [
+    [
+      8043,
+      "POH_WARDROBE_6"
+    ],
+    [
+      8620,
+      "POH_FLATPACK_WARDROBE6"
+    ],
+    [
+      9833,
+      "POH_COS_ROOM_MAGIC_WARDROBE_MAHOGANY"
+    ],
+    [
+      24909,
+      "CON_CONTRACT_WARDROBE_MAHOGANY"
+    ]
+  ],
+  "gildedwardrobe": [
+    [
+      8044,
+      "POH_WARDROBE_7"
+    ],
+    [
+      8622,
+      "POH_FLATPACK_WARDROBE7"
+    ],
+    [
+      9834,
+      "POH_COS_ROOM_MAGIC_WARDROBE_MAHOGANY_GILDED"
+    ]
+  ],
+  "shavingstand": [
+    [
+      8045,
+      "POH_MIRROR_1"
+    ],
+    [
+      8596,
+      "POH_FLATPACK_DRESSER1"
+    ]
+  ],
+  "oakshavingstand": [
+    [
+      8046,
+      "POH_MIRROR_2"
+    ],
+    [
+      8598,
+      "POH_FLATPACK_DRESSER2"
+    ]
+  ],
+  "oakdresser": [
+    [
+      8047,
+      "POH_MIRROR_3"
+    ],
+    [
+      8600,
+      "POH_FLATPACK_DRESSER3"
+    ],
+    [
+      24911,
+      "CON_CONTRACT_DRESSER_OAK"
+    ]
+  ],
+  "teakdresser": [
+    [
+      8048,
+      "POH_MIRROR_4"
+    ],
+    [
+      8602,
+      "POH_FLATPACK_DRESSER4"
+    ],
+    [
+      24912,
+      "CON_CONTRACT_DRESSER_TEAK"
+    ]
+  ],
+  "fancyteakdresser": [
+    [
+      8049,
+      "POH_MIRROR_5"
+    ],
+    [
+      8604,
+      "POH_FLATPACK_DRESSER5"
+    ]
+  ],
+  "mahoganydresser": [
+    [
+      8050,
+      "POH_MIRROR_6"
+    ],
+    [
+      8606,
+      "POH_FLATPACK_DRESSER6"
+    ],
+    [
+      24913,
+      "CON_CONTRACT_DRESSER_MAHOGANY"
+    ]
+  ],
+  "gildeddresser": [
+    [
+      8051,
+      "POH_MIRROR_7"
+    ],
+    [
+      8608,
+      "POH_FLATPACK_DRESSER7"
+    ]
+  ],
+  "oakclock": [
+    [
+      8052,
+      "POH_CLOCK_1"
+    ],
+    [
+      8590,
+      "POH_FLATPACK_CLOCK1"
+    ]
+  ],
+  "teakclock": [
+    [
+      8053,
+      "POH_CLOCK_2"
+    ],
+    [
+      8592,
+      "POH_FLATPACK_CLOCK2"
+    ]
+  ],
+  "gildedclock": [
+    [
+      8054,
+      "POH_CLOCK_3"
+    ],
+    [
+      8594,
+      "POH_FLATPACK_CLOCK3"
+    ]
+  ],
+  "saradominsymbol": [
+    [
+      8055,
+      "POH_SYMBOL_SARADOMIN"
+    ]
+  ],
+  "zamoraksymbol": [
+    [
+      8056,
+      "POH_SYMBOL_ZAMORAK"
+    ]
+  ],
+  "guthixsymbol": [
+    [
+      8057,
+      "POH_SYMBOL_GUTHIX"
+    ]
+  ],
+  "saradominicon": [
+    [
+      8058,
+      "POH_ICON_SARADOMIN"
+    ]
+  ],
+  "zamorakicon": [
+    [
+      8059,
+      "POH_ICON_ZAMORAK"
+    ]
+  ],
+  "guthixicon": [
+    [
+      8060,
+      "POH_ICON_GUTHIX"
+    ]
+  ],
+  "bobicon": [
+    [
+      8061,
+      "POH_ICON_BOB"
+    ]
+  ],
+  "oakaltar": [
+    [
+      8062,
+      "POH_ALTAR_OAK"
+    ]
+  ],
+  "teakaltar": [
+    [
+      8063,
+      "POH_ALTAR_TEAK"
+    ]
+  ],
+  "mahoganyaltar": [
+    [
+      8065,
+      "POH_ALTAR_MAHOGANY"
+    ]
+  ],
+  "limestonealtar": [
+    [
+      8066,
+      "POH_ALTAR_LIMESTONE"
+    ]
+  ],
+  "marblealtar": [
+    [
+      8067,
+      "POH_ALTAR_MARBLE"
+    ]
+  ],
+  "gildedaltar": [
+    [
+      8068,
+      "POH_ALTAR_MARBLE_GILT"
+    ]
+  ],
+  "woodentorches": [
+    [
+      8069,
+      "POH_TORCHES_WOODEN"
+    ]
+  ],
+  "steeltorches": [
+    [
+      8070,
+      "POH_TORCHES_STEEL"
+    ]
+  ],
+  "steelcandlesticks": [
+    [
+      8071,
+      "POH_CANDLESTICKS_STEEL"
+    ]
+  ],
+  "goldcandlesticks": [
+    [
+      8072,
+      "POH_CANDLESTICKS_GILT"
+    ]
+  ],
+  "shutteredwindow": [
+    [
+      8076,
+      "POH_CHAPEL_WINDOW_SHUTTERS"
+    ]
+  ],
+  "decorativewindow": [
+    [
+      8077,
+      "POH_CHAPEL_WINDOW_DECORATIVE"
+    ]
+  ],
+  "stainedglass": [
+    [
+      8078,
+      "POH_CHAPEL_WINDOW_STAINEDGLASS"
+    ]
+  ],
+  "windchimes": [
+    [
+      8079,
+      "POH_WINDCHIMES"
+    ]
+  ],
+  "bells": [
+    [
+      8080,
+      "POH_BELLS"
+    ]
+  ],
+  "organ": [
+    [
+      8081,
+      "POH_ORGAN"
+    ]
+  ],
+  "ropebellpull": [
+    [
+      8099,
+      "POH_BELLPULL_1"
+    ]
+  ],
+  "bellpull": [
+    [
+      8100,
+      "POH_BELLPULL_2"
+    ]
+  ],
+  "poshbellpull": [
+    [
+      8101,
+      "POH_BELLPULL_3"
+    ]
+  ],
+  "gildeddecoration": [
+    [
+      8104,
+      "POH_WALL_CREST_3"
+    ]
+  ],
+  "woodenbench": [
+    [
+      8108,
+      "POH_DINING_CHAIRS_1"
+    ],
+    [
+      8562,
+      "POH_FLATPACK_DININGCHAIR1"
+    ]
+  ],
+  "oakbench": [
+    [
+      8109,
+      "POH_DINING_CHAIRS_2"
+    ],
+    [
+      8564,
+      "POH_FLATPACK_DININGCHAIR2"
+    ]
+  ],
+  "carvedoakbench": [
+    [
+      8110,
+      "POH_DINING_CHAIRS_3"
+    ],
+    [
+      8566,
+      "POH_FLATPACK_DININGCHAIR3"
+    ]
+  ],
+  "teakdiningbench": [
+    [
+      8111,
+      "POH_DINING_CHAIRS_4"
+    ],
+    [
+      8568,
+      "POH_FLATPACK_DININGCHAIR4"
+    ]
+  ],
+  "carvedteakbench": [
+    [
+      8112,
+      "POH_DINING_CHAIRS_5"
+    ],
+    [
+      8570,
+      "POH_FLATPACK_DININGCHAIR5"
+    ]
+  ],
+  "mahoganybench": [
+    [
+      8113,
+      "POH_DINING_CHAIRS_6"
+    ],
+    [
+      8572,
+      "POH_FLATPACK_DININGCHAIR6"
+    ]
+  ],
+  "gildedbench": [
+    [
+      8114,
+      "POH_DINING_CHAIRS_7"
+    ],
+    [
+      8574,
+      "POH_FLATPACK_DININGCHAIR7"
+    ]
+  ],
+  "wooddiningtable": [
+    [
+      8115,
+      "POH_DINING_TABLE_1"
+    ],
+    [
+      8548,
+      "POH_FLATPACK_DININGTABLE1"
+    ]
+  ],
+  "oakdiningtable": [
+    [
+      8116,
+      "POH_DINING_TABLE_2"
+    ],
+    [
+      8550,
+      "POH_FLATPACK_DININGTABLE2"
+    ]
+  ],
+  "carvedoaktable": [
+    [
+      8117,
+      "POH_DINING_TABLE_3"
+    ],
+    [
+      8552,
+      "POH_FLATPACK_DININGTABLE3"
+    ]
+  ],
+  "teaktable": [
+    [
+      8118,
+      "POH_DINING_TABLE_4"
+    ],
+    [
+      8554,
+      "POH_FLATPACK_DININGTABLE4"
+    ],
+    [
+      24888,
+      "CON_CONTRACT_TABLE_SMALL_TEAK"
+    ],
+    [
+      24892,
+      "CON_CONTRACT_TABLE_MEDIUM_TEAK"
+    ],
+    [
+      24896,
+      "CON_CONTRACT_TABLE_LARGE_TEAK"
+    ]
+  ],
+  "carvedteaktable": [
+    [
+      8119,
+      "POH_DINING_TABLE_5"
+    ],
+    [
+      8556,
+      "POH_FLATPACK_DININGTABLE5"
+    ]
+  ],
+  "mahoganytable": [
+    [
+      8120,
+      "POH_DINING_TABLE_6"
+    ],
+    [
+      8558,
+      "POH_FLATPACK_DININGTABLE6"
+    ],
+    [
+      24889,
+      "CON_CONTRACT_TABLE_SMALL_MAHOGANY"
+    ],
+    [
+      24893,
+      "CON_CONTRACT_TABLE_MEDIUM_MAHOGANY"
+    ],
+    [
+      24897,
+      "CON_CONTRACT_TABLE_LARGE_MAHOGANY"
+    ]
+  ],
+  "opulenttable": [
+    [
+      8121,
+      "POH_DINING_TABLE_7"
+    ],
+    [
+      8560,
+      "POH_FLATPACK_DININGTABLE7"
+    ]
+  ],
+  "oakdoor": [
+    [
+      8122,
+      "POH_DUNGEON_DOOR_OAK"
+    ]
+  ],
+  "steelplateddoor": [
+    [
+      8123,
+      "POH_DUNGEON_DOOR_STEEL"
+    ]
+  ],
+  "marbledoor": [
+    [
+      8124,
+      "POH_DUNGEON_DOOR_MARBLE"
+    ]
+  ],
+  "decorativeblood": [
+    [
+      8125,
+      "POH_DUNGEON_BLOODSTAIN"
+    ]
+  ],
+  "decorativepipe": [
+    [
+      8126,
+      "POH_DUNGEON_PIPE"
+    ]
+  ],
+  "hangingskeleton": [
+    [
+      8127,
+      "POH_DUNGEON_SKELETON_DECORATIVE"
+    ]
+  ],
+  "skulltorches": [
+    [
+      8130,
+      "POH_DUNGEON_SKULLTORCH"
+    ]
+  ],
+  "skeletonguard": [
+    [
+      8131,
+      "POH_SKELETON_GUARD"
+    ]
+  ],
+  "hobgoblinguard": [
+    [
+      8133,
+      "POH_HOBGOBLIN"
+    ]
+  ],
+  "hugespider": [
+    [
+      8135,
+      "POH_SPIDER"
+    ]
+  ],
+  "spiketrap": [
+    [
+      8143,
+      "POH_SPIKE_TRAP"
+    ]
+  ],
+  "mantrap": [
+    [
+      8144,
+      "POH_MAN_TRAP"
+    ]
+  ],
+  "tanglevine": [
+    [
+      8145,
+      "POH_VINE_TRAP"
+    ]
+  ],
+  "marbletrap": [
+    [
+      8146,
+      "POH_MARBLE_TRAP"
+    ]
+  ],
+  "teleporttrap": [
+    [
+      8147,
+      "POH_TELEPORT_TRAP"
+    ]
+  ],
+  "woodencrate": [
+    [
+      8148,
+      "POH_TREASURE_WOOD"
+    ]
+  ],
+  "oakchest": [
+    [
+      8149,
+      "POH_TREASURE_OAK"
+    ]
+  ],
+  "teakchest": [
+    [
+      8150,
+      "POH_TREASURE_TEAK"
+    ]
+  ],
+  "mahoganychest": [
+    [
+      8151,
+      "POH_TREASURE_MAHOGANY"
+    ],
+    [
+      8167,
+      "POH_PRIZE_CHEST_3"
+    ]
+  ],
+  "magicchest": [
+    [
+      8152,
+      "POH_TREASURE_MAGIC"
+    ]
+  ],
+  "clayattackstone": [
+    [
+      8153,
+      "POH_ATTACK_STONE_1"
+    ]
+  ],
+  "jester": [
+    [
+      8159,
+      "POH_PARTY_GAME_1"
+    ]
+  ],
+  "treasurehunt": [
+    [
+      8160,
+      "POH_PARTY_GAME_2"
+    ]
+  ],
+  "hoopandstick": [
+    [
+      8162,
+      "POH_RANGING_GAME_1"
+    ]
+  ],
+  "dartboard": [
+    [
+      8163,
+      "POH_RANGING_GAME_2"
+    ]
+  ],
+  "archerytarget": [
+    [
+      8164,
+      "POH_RANGING_GAME_3"
+    ]
+  ],
+  "oakprizechest": [
+    [
+      8165,
+      "POH_PRIZE_CHEST_1"
+    ]
+  ],
+  "teakprizechest": [
+    [
+      8166,
+      "POH_PRIZE_CHEST_2"
+    ]
+  ],
+  "exitportal": [
+    [
+      8168,
+      "POH_GARDEN_CENTREPIECE_1"
+    ],
+    [
+      33132,
+      "POH_GARDEN_CENTREPIECE_6"
+    ]
+  ],
+  "decorativerock": [
+    [
+      8169,
+      "POH_GARDEN_CENTREPIECE_2"
+    ]
+  ],
+  "pond": [
+    [
+      8170,
+      "POH_GARDEN_CENTREPIECE_3"
+    ]
+  ],
+  "impstatue": [
+    [
+      8171,
+      "POH_GARDEN_CENTREPIECE_4"
+    ]
+  ],
+  "dungeonentrance": [
+    [
+      8172,
+      "POH_GARDEN_CENTREPIECE_5"
+    ],
+    [
+      30992,
+      "POH_GARDEN_CENTREPIECE_5_DUMMY"
+    ]
+  ],
+  "nicetree": [
+    [
+      8174,
+      "POH_TREE_2"
+    ]
+  ],
+  "plant": [
+    [
+      8180,
+      "POH_PLANTSMALL1A"
+    ]
+  ],
+  "smallfern": [
+    [
+      8181,
+      "POH_PLANTSMALL1B"
+    ]
+  ],
+  "dockleaf": [
+    [
+      8183,
+      "POH_PLANTSMALL2A"
+    ]
+  ],
+  "reeds": [
+    [
+      8185,
+      "POH_PLANTSMALL2C"
+    ]
+  ],
+  "bush": [
+    [
+      8187,
+      "POH_PLANTBIG1B"
+    ]
+  ],
+  "tallplant": [
+    [
+      8188,
+      "POH_PLANTBIG1C"
+    ]
+  ],
+  "shortplant": [
+    [
+      8189,
+      "POH_PLANTBIG2A"
+    ]
+  ],
+  "hugeplant": [
+    [
+      8191,
+      "POH_PLANTBIG2C"
+    ]
+  ],
+  "gazebo": [
+    [
+      8192,
+      "POH_FORMAL_GARDEN_CENTREPIECE_2"
+    ]
+  ],
+  "smallfountain": [
+    [
+      8193,
+      "POH_FORMAL_GARDEN_CENTREPIECE_3"
+    ]
+  ],
+  "largefountain": [
+    [
+      8194,
+      "POH_FORMAL_GARDEN_CENTREPIECE_4"
+    ]
+  ],
+  "poshfountain": [
+    [
+      8195,
+      "POH_FORMAL_GARDEN_CENTREPIECE_5"
+    ]
+  ],
+  "boundarystones": [
+    [
+      8196,
+      "POH_FENCING1"
+    ]
+  ],
+  "woodenfence": [
+    [
+      8197,
+      "POH_FENCING2"
+    ]
+  ],
+  "stonewall": [
+    [
+      8198,
+      "POH_FENCING3"
+    ]
+  ],
+  "ironrailings": [
+    [
+      8199,
+      "POH_FENCING4"
+    ]
+  ],
+  "picketfence": [
+    [
+      8200,
+      "POH_FENCING5"
+    ]
+  ],
+  "gardenfence": [
+    [
+      8201,
+      "POH_FENCING6"
+    ]
+  ],
+  "marblewall": [
+    [
+      8202,
+      "POH_FENCING7"
+    ]
+  ],
+  "thornyhedge": [
+    [
+      8203,
+      "POH_HEDGE1"
+    ],
+    [
+      8437,
+      "POH_SAPLING_HEDGE1"
+    ]
+  ],
+  "nicehedge": [
+    [
+      8204,
+      "POH_HEDGE2"
+    ],
+    [
+      8439,
+      "POH_SAPLING_HEDGE2"
+    ]
+  ],
+  "smallboxhedge": [
+    [
+      8205,
+      "POH_HEDGE3"
+    ],
+    [
+      8441,
+      "POH_SAPLING_HEDGE3"
+    ]
+  ],
+  "topiaryhedge": [
+    [
+      8206,
+      "POH_HEDGE4"
+    ],
+    [
+      8443,
+      "POH_SAPLING_HEDGE4"
+    ]
+  ],
+  "fancyhedge": [
+    [
+      8207,
+      "POH_HEDGE5"
+    ],
+    [
+      8445,
+      "POH_SAPLING_HEDGE5"
+    ]
+  ],
+  "tallfancyhedge": [
+    [
+      8208,
+      "POH_HEDGE6"
+    ],
+    [
+      8447,
+      "POH_SAPLING_HEDGE6"
+    ]
+  ],
+  "tallboxhedge": [
+    [
+      8209,
+      "POH_HEDGE7"
+    ],
+    [
+      8449,
+      "POH_SAPLING_HEDGE7"
+    ]
+  ],
+  "daffodils": [
+    [
+      8211,
+      "POH_FLOWERB2"
+    ]
+  ],
+  "bluebells": [
+    [
+      8212,
+      "POH_FLOWERB3"
+    ]
+  ],
+  "sunflower": [
+    [
+      8213,
+      "POH_FLOWERA1"
+    ]
+  ],
+  "roses": [
+    [
+      8215,
+      "POH_FLOWERA3"
+    ]
+  ],
+  "firepit": [
+    [
+      8216,
+      "POH_STOVE_1"
+    ]
+  ],
+  "firepitwithhook": [
+    [
+      8217,
+      "POH_STOVE_2"
+    ]
+  ],
+  "firepitwithpot": [
+    [
+      8218,
+      "POH_STOVE_3"
+    ]
+  ],
+  "smalloven": [
+    [
+      8219,
+      "POH_STOVE_4"
+    ]
+  ],
+  "largeoven": [
+    [
+      8220,
+      "POH_STOVE_5"
+    ]
+  ],
+  "steelrange": [
+    [
+      8221,
+      "POH_STOVE_6"
+    ]
+  ],
+  "fancyrange": [
+    [
+      8222,
+      "POH_STOVE_7"
+    ]
+  ],
+  "woodenshelves1": [
+    [
+      8223,
+      "POH_KITCHEN_SHELVES_1"
+    ]
+  ],
+  "woodenshelves2": [
+    [
+      8224,
+      "POH_KITCHEN_SHELVES_2"
+    ]
+  ],
+  "woodenshelves3": [
+    [
+      8225,
+      "POH_KITCHEN_SHELVES_3"
+    ]
+  ],
+  "oakshelves1": [
+    [
+      8226,
+      "POH_KITCHEN_SHELVES_4"
+    ]
+  ],
+  "oakshelves2": [
+    [
+      8227,
+      "POH_KITCHEN_SHELVES_5"
+    ]
+  ],
+  "teakshelves1": [
+    [
+      8228,
+      "POH_KITCHEN_SHELVES_6"
+    ]
+  ],
+  "teakshelves2": [
+    [
+      8229,
+      "POH_KITCHEN_SHELVES_7"
+    ]
+  ],
+  "pumpanddrain": [
+    [
+      8230,
+      "POH_SINK_1"
+    ]
+  ],
+  "pumpandtub": [
+    [
+      8231,
+      "POH_SINK_2"
+    ]
+  ],
+  "sink": [
+    [
+      8232,
+      "POH_SINK_3"
+    ]
+  ],
+  "woodenlarder": [
+    [
+      8233,
+      "POH_LARDER_1"
+    ]
+  ],
+  "oaklarder": [
+    [
+      8234,
+      "POH_LARDER_2"
+    ]
+  ],
+  "teaklarder": [
+    [
+      8235,
+      "POH_LARDER_3"
+    ]
+  ],
+  "catblanket": [
+    [
+      8236,
+      "POH_CAT_BASKET_1"
+    ]
+  ],
+  "catbasket": [
+    [
+      8237,
+      "POH_CAT_BASKET_2"
+    ]
+  ],
+  "cushionedbasket": [
+    [
+      8238,
+      "POH_CAT_BASKET_3"
+    ]
+  ],
+  "beerbarrel": [
+    [
+      8239,
+      "POH_BARREL_1"
+    ],
+    [
+      8516,
+      "POH_FLATPACK_BEERBARREL1"
+    ]
+  ],
+  "ciderbarrel": [
+    [
+      8240,
+      "POH_BARREL_2"
+    ],
+    [
+      8518,
+      "POH_FLATPACK_BEERBARREL2"
+    ]
+  ],
+  "oakkitchentable": [
+    [
+      8247,
+      "POH_KITCHENTABLE_2"
+    ],
+    [
+      8530,
+      "POH_FLATPACK_KITCHENTABLE2"
+    ]
+  ],
+  "teakkitchentable": [
+    [
+      8248,
+      "POH_KITCHENTABLE_3"
+    ],
+    [
+      8532,
+      "POH_FLATPACK_KITCHENTABLE3"
+    ]
+  ],
+  "oakstaircase": [
+    [
+      8249,
+      "POH_STAIRS_OAK"
+    ],
+    [
+      8250,
+      "POH_STAIRS_OAK_UP"
+    ],
+    [
+      8251,
+      "POH_STAIRS_OAK_DOWN"
+    ]
+  ],
+  "teakstaircase": [
+    [
+      8252,
+      "POH_STAIRS_TEAK"
+    ],
+    [
+      8253,
+      "POH_STAIRS_TEAK_UP"
+    ],
+    [
+      8254,
+      "POH_STAIRS_TEAK_DOWN"
+    ]
+  ],
+  "marblestaircase": [
+    [
+      8255,
+      "POH_STAIRS_MARBLE"
+    ],
+    [
+      8256,
+      "POH_STAIRS_MARBLE_UP"
+    ],
+    [
+      8257,
+      "POH_STAIRS_MARBLE_DOWN"
+    ]
+  ],
+  "marblespiral": [
+    [
+      8259,
+      "POH_SPIRALSTAIRS_MARBLE"
+    ]
+  ],
+  "mountedbass": [
+    [
+      8267,
+      "POH_TROPHY_BASS"
+    ],
+    [
+      30668,
+      "POH_TROPHY_BASS_TEAK"
+    ],
+    [
+      30669,
+      "POH_TROPHY_BASS_MAHOGANY"
+    ]
+  ],
+  "mountedswordfish": [
+    [
+      8268,
+      "POH_TROPHY_SWORDFISH"
+    ],
+    [
+      30670,
+      "POH_TROPHY_SWORDFISH_MAHOGANY"
+    ]
+  ],
+  "mountedshark": [
+    [
+      8269,
+      "POH_TROPHY_SHARK"
+    ]
+  ],
+  "cwarmour1": [
+    [
+      8273,
+      "POH_TROPHY_CASTLEWARS_1"
+    ]
+  ],
+  "cwarmour2": [
+    [
+      8274,
+      "POH_TROPHY_CASTLEWARS_2"
+    ]
+  ],
+  "cwarmour3": [
+    [
+      8275,
+      "POH_TROPHY_CASTLEWARS_3"
+    ]
+  ],
+  "oakcage": [
+    [
+      8297,
+      "POH_CAGE_DUNGEON_OAK"
+    ]
+  ],
+  "oakandsteelcage": [
+    [
+      8298,
+      "POH_CAGE_DUNGEON_OAK_STEEL"
+    ]
+  ],
+  "steelcage": [
+    [
+      8299,
+      "POH_CAGE_DUNGEON_STEEL"
+    ],
+    [
+      8371,
+      "POH_THRONE_ROOM_CAGE_2"
+    ]
+  ],
+  "spikedcage": [
+    [
+      8300,
+      "POH_CAGE_DUNGEON_STEEL_SPIKES"
+    ]
+  ],
+  "bonecage": [
+    [
+      8301,
+      "POH_CAGE_DUNGEON_BONES"
+    ]
+  ],
+  "spikes": [
+    [
+      8302,
+      "POH_OUBLIETTE_SPIKES"
+    ],
+    [
+      10561,
+      "BARBASSAULT_SPIKES"
+    ]
+  ],
+  "tentaclepool": [
+    [
+      8303,
+      "POH_OUBLIETTE_POOL"
+    ]
+  ],
+  "flamepit": [
+    [
+      8304,
+      "POH_OUBLIETTE_FIRE"
+    ]
+  ],
+  "rocnar": [
+    [
+      8305,
+      "POH_OUB_MONSTER1"
+    ]
+  ],
+  "oakladder": [
+    [
+      8306,
+      "POH_DUNGEON_LADDER_OAK"
+    ]
+  ],
+  "teakladder": [
+    [
+      8307,
+      "POH_DUNGEON_LADDER_TEAK"
+    ]
+  ],
+  "mahoganyladder": [
+    [
+      8308,
+      "POH_DUNGEON_LADDER_MAG"
+    ]
+  ],
+  "crudewoodenchair": [
+    [
+      8309,
+      "POH_ARMCHAIR_1"
+    ]
+  ],
+  "woodenchair": [
+    [
+      8310,
+      "POH_ARMCHAIR_2"
+    ],
+    [
+      8498,
+      "POH_FLATPACK_ARMCHAIR2"
+    ],
+    [
+      20605,
+      "CERT_BETA_ELDER_WAND"
+    ],
+    [
+      24930,
+      "CON_CONTRACT_CHAIR_REGULAR"
+    ]
+  ],
+  "rockingchair": [
+    [
+      8311,
+      "POH_ARMCHAIR_3"
+    ],
+    [
+      8500,
+      "POH_FLATPACK_ARMCHAIR3"
+    ]
+  ],
+  "oakchair": [
+    [
+      8312,
+      "POH_ARMCHAIR_4"
+    ],
+    [
+      8502,
+      "POH_FLATPACK_ARMCHAIR4"
+    ],
+    [
+      24931,
+      "CON_CONTRACT_CHAIR_OAK"
+    ]
+  ],
+  "oakarmchair": [
+    [
+      8313,
+      "POH_ARMCHAIR_5"
+    ],
+    [
+      8504,
+      "POH_FLATPACK_ARMCHAIR5"
+    ]
+  ],
+  "teakarmchair": [
+    [
+      8314,
+      "POH_ARMCHAIR_6"
+    ],
+    [
+      8506,
+      "POH_FLATPACK_ARMCHAIR6"
+    ]
+  ],
+  "mahoganyarmchair": [
+    [
+      8315,
+      "POH_ARMCHAIR_7"
+    ],
+    [
+      8508,
+      "POH_FLATPACK_ARMCHAIR7"
+    ]
+  ],
+  "brownrug": [
+    [
+      8316,
+      "POH_RUG_1"
+    ]
+  ],
+  "rug": [
+    [
+      8317,
+      "POH_RUG_2"
+    ],
+    [
+      25362,
+      "POH_LEAGUEHALL_RUG_SIMPLE"
+    ]
+  ],
+  "opulentrug": [
+    [
+      8318,
+      "POH_RUG_3"
+    ],
+    [
+      25363,
+      "POH_LEAGUEHALL_RUG_DECORATIVE"
+    ]
+  ],
+  "woodenbookcase": [
+    [
+      8319,
+      "POH_BOOKCASE_1"
+    ],
+    [
+      24902,
+      "CON_CONTRACT_BOOKCASE_REGULAR"
+    ]
+  ],
+  "oakbookcase": [
+    [
+      8320,
+      "POH_BOOKCASE_2"
+    ],
+    [
+      8512,
+      "POH_FLATPACK_BOOKCASE2"
+    ],
+    [
+      24903,
+      "CON_CONTRACT_BOOKCASE_OAK"
+    ]
+  ],
+  "mahoganybookcase": [
+    [
+      8321,
+      "POH_BOOKCASE_3"
+    ],
+    [
+      8514,
+      "POH_FLATPACK_BOOKCASE3"
+    ],
+    [
+      24905,
+      "CON_CONTRACT_BOOKCASE_MAHOGANY"
+    ]
+  ],
+  "torncurtains": [
+    [
+      8322,
+      "POH_CURTAINS_1"
+    ]
+  ],
+  "curtains": [
+    [
+      8323,
+      "POH_CURTAINS_2"
+    ]
+  ],
+  "opulentcurtains": [
+    [
+      8324,
+      "POH_CURTAINS_3"
+    ]
+  ],
+  "clayfireplace": [
+    [
+      8325,
+      "POH_FIREPLACE_1"
+    ]
+  ],
+  "stonefireplace": [
+    [
+      8326,
+      "POH_FIREPLACE_2"
+    ]
+  ],
+  "marblefireplace": [
+    [
+      8327,
+      "POH_FIREPLACE_3"
+    ]
+  ],
+  "teakportal": [
+    [
+      8328,
+      "POH_PORTAL_FRAME_1"
+    ]
+  ],
+  "mahoganyportal": [
+    [
+      8329,
+      "POH_PORTAL_FRAME_2"
+    ]
+  ],
+  "marbleportal": [
+    [
+      8330,
+      "POH_PORTAL_FRAME_3"
+    ]
+  ],
+  "teleportfocus": [
+    [
+      8331,
+      "POH_TELEPORT_CENTREPIECE_1"
+    ],
+    [
+      32237,
+      "SAILING_SKILLGUIDE_TELEPORTATION_FOCUS"
+    ]
+  ],
+  "scryingpool": [
+    [
+      8333,
+      "POH_TELEPORT_CENTREPIECE_3"
+    ],
+    [
+      30499,
+      "POH_TELEPORT_CENTREPIECE_LEAGUE5"
+    ]
+  ],
+  "oaklectern": [
+    [
+      8334,
+      "POH_LECTERN_1"
+    ],
+    [
+      8534,
+      "POH_FLATPACK_LECTURN1"
+    ]
+  ],
+  "eaglelectern": [
+    [
+      8335,
+      "POH_LECTERN_2"
+    ],
+    [
+      8536,
+      "POH_FLATPACK_LECTURN2"
+    ]
+  ],
+  "demonlectern": [
+    [
+      8336,
+      "POH_LECTERN_3"
+    ],
+    [
+      8538,
+      "POH_FLATPACK_LECTURN3"
+    ]
+  ],
+  "teakeaglelectern": [
+    [
+      8337,
+      "POH_LECTERN_4"
+    ],
+    [
+      8540,
+      "POH_FLATPACK_LECTURN4"
+    ]
+  ],
+  "teakdemonlectern": [
+    [
+      8338,
+      "POH_LECTERN_5"
+    ],
+    [
+      8542,
+      "POH_FLATPACK_LECTURN5"
+    ]
+  ],
+  "globe": [
+    [
+      8341,
+      "POH_GLOBE_1"
+    ],
+    [
+      8630,
+      "POH_FLATPACK_GLOBE1"
+    ]
+  ],
+  "ornamentalglobe": [
+    [
+      8342,
+      "POH_GLOBE_2"
+    ],
+    [
+      8632,
+      "POH_FLATPACK_GLOBE2"
+    ]
+  ],
+  "lunarglobe": [
+    [
+      8343,
+      "POH_GLOBE_3"
+    ],
+    [
+      8634,
+      "POH_FLATPACK_GLOBE3"
+    ]
+  ],
+  "celestialglobe": [
+    [
+      8344,
+      "POH_GLOBE_4"
+    ],
+    [
+      8636,
+      "POH_FLATPACK_GLOBE4"
+    ]
+  ],
+  "armillarysphere": [
+    [
+      8345,
+      "POH_GLOBE_5"
+    ],
+    [
+      8638,
+      "POH_FLATPACK_GLOBE5"
+    ]
+  ],
+  "smallorrery": [
+    [
+      8346,
+      "POH_GLOBE_6"
+    ],
+    [
+      8640,
+      "POH_FLATPACK_GLOBE6"
+    ]
+  ],
+  "largeorrery": [
+    [
+      8347,
+      "POH_GLOBE_7"
+    ],
+    [
+      8642,
+      "POH_FLATPACK_GLOBE7"
+    ]
+  ],
+  "oaktelescope": [
+    [
+      8348,
+      "POH_TELESCOPE_1"
+    ],
+    [
+      8644,
+      "POH_FLATPACK_TELESCOPE1"
+    ]
+  ],
+  "teaktelescope": [
+    [
+      8349,
+      "POH_TELESCOPE_2"
+    ],
+    [
+      8646,
+      "POH_FLATPACK_TELESCOPE2"
+    ]
+  ],
+  "mahoganytelescope": [
+    [
+      8350,
+      "POH_TELESCOPE_3"
+    ],
+    [
+      8648,
+      "POH_FLATPACK_TELESCOPE3"
+    ]
+  ],
+  "crystalball": [
+    [
+      8351,
+      "POH_CRYSTALBALL_1"
+    ],
+    [
+      8624,
+      "POH_FLATPACK_CRYSTALBALL1"
+    ]
+  ],
+  "elementalsphere": [
+    [
+      8352,
+      "POH_CRYSTALBALL_2"
+    ],
+    [
+      8626,
+      "POH_FLATPACK_CRYSTALBALL2"
+    ]
+  ],
+  "crystalofpower": [
+    [
+      8353,
+      "POH_CRYSTALBALL_3"
+    ],
+    [
+      8628,
+      "POH_FLATPACK_CRYSTALBALL3"
+    ]
+  ],
+  "alchemicalchart": [
+    [
+      8354,
+      "POH_WALLCHART_1"
+    ]
+  ],
+  "astronomicalchart": [
+    [
+      8355,
+      "POH_WALLCHART_2"
+    ]
+  ],
+  "infernalchart": [
+    [
+      8356,
+      "POH_WALLCHART_3"
+    ]
+  ],
+  "oakthrone": [
+    [
+      8357,
+      "POH_THRONE_1"
+    ]
+  ],
+  "teakthrone": [
+    [
+      8358,
+      "POH_THRONE_2"
+    ]
+  ],
+  "mahoganythrone": [
+    [
+      8359,
+      "POH_THRONE_3"
+    ]
+  ],
+  "gildedthrone": [
+    [
+      8360,
+      "POH_THRONE_4"
+    ]
+  ],
+  "skeletonthrone": [
+    [
+      8361,
+      "POH_THRONE_5"
+    ]
+  ],
+  "crystalthrone": [
+    [
+      8362,
+      "POH_THRONE_6"
+    ]
+  ],
+  "demonicthrone": [
+    [
+      8363,
+      "POH_THRONE_7"
+    ]
+  ],
+  "oaklever": [
+    [
+      8364,
+      "POH_LEVER_OAK"
+    ]
+  ],
+  "teaklever": [
+    [
+      8365,
+      "POH_LEVER_TEAK"
+    ]
+  ],
+  "mahoganylever": [
+    [
+      8366,
+      "POH_LEVER_MAG"
+    ]
+  ],
+  "trapdoor": [
+    [
+      8367,
+      "POH_TRAPDOOR_OAK"
+    ],
+    [
+      8368,
+      "POH_TRAPDOOR_TEAK"
+    ],
+    [
+      8369,
+      "POH_TRAPDOOR_MAG"
+    ],
+    [
+      8372,
+      "POH_THRONE_ROOM_CAGE_3"
+    ]
+  ],
+  "floordecoration": [
+    [
+      8370,
+      "POH_THRONE_ROOM_CAGE_1"
+    ]
+  ],
+  "lessermagiccage": [
+    [
+      8373,
+      "POH_THRONE_ROOM_CAGE_4"
+    ]
+  ],
+  "greatermagiccage": [
+    [
+      8374,
+      "POH_THRONE_ROOM_CAGE_5"
+    ]
+  ],
+  "woodenworkbench": [
+    [
+      8375,
+      "POH_WORKBENCH_1"
+    ]
+  ],
+  "oakworkbench": [
+    [
+      8376,
+      "POH_WORKBENCH_2"
+    ]
+  ],
+  "benchwithvice": [
+    [
+      8378,
+      "POH_WORKBENCH_4"
+    ]
+  ],
+  "benchwithlathe": [
+    [
+      8379,
+      "POH_WORKBENCH_5"
+    ]
+  ],
+  "craftingtable1": [
+    [
+      8380,
+      "POH_CRAFTING_TABLE_1"
+    ]
+  ],
+  "craftingtable2": [
+    [
+      8381,
+      "POH_CRAFTING_TABLE_2"
+    ]
+  ],
+  "craftingtable3": [
+    [
+      8382,
+      "POH_CRAFTING_TABLE_3"
+    ]
+  ],
+  "craftingtable4": [
+    [
+      8383,
+      "POH_CRAFTING_TABLE_4"
+    ]
+  ],
+  "toolstore1": [
+    [
+      8384,
+      "POH_TOOL_STORE_1"
+    ]
+  ],
+  "toolstore2": [
+    [
+      8385,
+      "POH_TOOL_STORE_2"
+    ]
+  ],
+  "toolstore3": [
+    [
+      8386,
+      "POH_TOOL_STORE_3"
+    ]
+  ],
+  "toolstore4": [
+    [
+      8387,
+      "POH_TOOL_STORE_4"
+    ]
+  ],
+  "toolstore5": [
+    [
+      8388,
+      "POH_TOOL_STORE_5"
+    ]
+  ],
+  "repairbench": [
+    [
+      8389,
+      "POH_REPAIR_BENCH_1"
+    ]
+  ],
+  "whetstone": [
+    [
+      8390,
+      "POH_REPAIR_BENCH_2"
+    ]
+  ],
+  "armourstand": [
+    [
+      8391,
+      "POH_REPAIR_BENCH_3"
+    ]
+  ],
+  "plumingstand": [
+    [
+      8392,
+      "POH_HERALDRY_BENCH_1"
+    ]
+  ],
+  "shieldeasel": [
+    [
+      8393,
+      "POH_HERALDRY_BENCH_2"
+    ]
+  ],
+  "bannereasel": [
+    [
+      8394,
+      "POH_HERALDRY_BENCH_3"
+    ]
+  ],
+  "kitchentable": [
+    [
+      8528,
+      "POH_FLATPACK_KITCHENTABLE1"
+    ]
+  ],
+  "oakcaperack": [
+    [
+      9817,
+      "POH_COS_ROOM_CAPE_RACK_OAK"
+    ],
+    [
+      9843,
+      "POH_FLATPACK_CAPE_RACK"
+    ]
+  ],
+  "teakcaperack": [
+    [
+      9818,
+      "POH_COS_ROOM_CAPE_RACK_TEAK"
+    ],
+    [
+      9844,
+      "POH_FLATPACK_CAPE_RACK2"
+    ]
+  ],
+  "mahoganycaperack": [
+    [
+      9819,
+      "POH_COS_ROOM_CAPE_RACK_MAHOGANY"
+    ],
+    [
+      9845,
+      "POH_FLATPACK_CAPE_RACK3"
+    ]
+  ],
+  "gildedcaperack": [
+    [
+      9820,
+      "POH_COS_ROOM_CAPE_RACK_MAHOGANY_GILDED"
+    ],
+    [
+      9846,
+      "POH_FLATPACK_CAPE_RACK4"
+    ]
+  ],
+  "marblecaperack": [
+    [
+      9821,
+      "POH_COS_ROOM_CAPE_RACK_MARBLE"
+    ],
+    [
+      9847,
+      "POH_FLATPACK_CAPE_RACK5"
+    ]
+  ],
+  "magicalcaperack": [
+    [
+      9822,
+      "POH_COS_ROOM_CAPE_RACK_MAGIC_STONE"
+    ]
+  ],
+  "oakarmourcase": [
+    [
+      9826,
+      "POH_COS_ROOM_ARMOUR_CASE_OAK"
+    ],
+    [
+      9859,
+      "POH_FLATPACK_ARMOUR_CASE"
+    ]
+  ],
+  "teakarmourcase": [
+    [
+      9827,
+      "POH_COS_ROOM_ARMOUR_CASE_TEAK"
+    ],
+    [
+      9860,
+      "POH_FLATPACK_ARMOUR_CASE2"
+    ]
+  ],
+  "mahoganyarmourcase": [
+    [
+      9828,
+      "POH_COS_ROOM_ARMOUR_CASE_MAHOGANY"
+    ],
+    [
+      9861,
+      "POH_FLATPACK_ARMOUR_CASE3"
+    ]
+  ],
+  "oaktoybox": [
+    [
+      9836,
+      "POH_COS_ROOM_TOY_BOX_OAK"
+    ],
+    [
+      9849,
+      "POH_FLATPACK_TOY_BOX"
+    ]
+  ],
+  "teaktoybox": [
+    [
+      9837,
+      "POH_COS_ROOM_TOY_BOX_TEAK"
+    ],
+    [
+      9850,
+      "POH_FLATPACK_TOY_BOX2"
+    ]
+  ],
+  "mahoganytoybox": [
+    [
+      9838,
+      "POH_COS_ROOM_TOY_BOX_MAHOGANY"
+    ],
+    [
+      9851,
+      "POH_FLATPACK_TOY_BOX3"
+    ]
+  ],
+  "oaktreasurechest": [
+    [
+      9839,
+      "POH_COS_ROOM_TREASURE_CHEST_OAK"
+    ],
+    [
+      9862,
+      "POH_FLATPACK_TREASURE_CHEST"
+    ]
+  ],
+  "teaktreasurechest": [
+    [
+      9840,
+      "POH_COS_ROOM_TREASURE_CHEST_TEAK"
+    ],
+    [
+      9863,
+      "POH_FLATPACK_TREASURE_CHEST2"
+    ]
+  ],
+  "mahoganytreasurechest": [
+    [
+      9841,
+      "POH_COS_ROOM_TREASURE_CHEST_MAHOGANY"
+    ]
+  ],
+  "oakmagicwardrobe": [
+    [
+      9852,
+      "POH_FLATPACK_MAGIC_WARDROBE"
+    ]
+  ],
+  "carvedoakmagicwardrobe": [
+    [
+      9853,
+      "POH_FLATPACK_MAGIC_WARDROBE2"
+    ]
+  ],
+  "teakmagicwardrobe": [
+    [
+      9854,
+      "POH_FLATPACK_MAGIC_WARDROBE3"
+    ]
+  ],
+  "carvedteakmagicwardrobe": [
+    [
+      9855,
+      "POH_FLATPACK_MAGIC_WARDROBE4"
+    ]
+  ],
+  "mahoganymagicwardrobe": [
+    [
+      9856,
+      "POH_FLATPACK_MAGIC_WARDROBE5"
+    ]
+  ],
+  "gildedmagicwardrobe": [
+    [
+      9857,
+      "POH_FLATPACK_MAGIC_WARDROBE6"
+    ]
+  ],
+  "marblemagicwardrobe": [
+    [
+      9858,
+      "POH_FLATPACK_MAGIC_WARDROBE7"
+    ]
+  ],
+  "oakfancydressbox": [
+    [
+      9865,
+      "POH_FLATPACK_FANCY_DRESS_BOX"
+    ]
+  ],
+  "teakfancydressbox": [
+    [
+      9866,
+      "POH_FLATPACK_FANCY_DRESS_BOX2"
+    ]
+  ],
+  "mahoganyfancydressbox": [
+    [
+      9867,
+      "POH_FLATPACK_FANCY_DRESS_BOX3"
+    ]
+  ],
+  "longbone": [
+    [
+      10976,
+      "DORGESH_CONSTRUCTION_BONE"
+    ]
+  ],
+  "curvedbone": [
+    [
+      10977,
+      "DORGESH_CONSTRUCTION_BONE_CURVED"
+    ]
+  ],
+  "mountedgiantbluekrill": [
+    [
+      11574,
+      "PATTERN_SALMON_DUMMY"
+    ],
+    [
+      31445,
+      "POH_TROPHY_GIANT_KRILL"
+    ],
+    [
+      31446,
+      "POH_TROPHY_GIANT_KRILL_MAHOGANY"
+    ]
+  ],
+  "mountedharpoonfish": [
+    [
+      11578,
+      "PATTERN_HARPOON_DUMMY"
+    ],
+    [
+      25563,
+      "POH_TROPHY_HARPOONFISH"
+    ],
+    [
+      30671,
+      "POH_TROPHY_HARPOONFISH_MAHOGANY"
+    ]
+  ],
+  "mountedgoldenhaddock": [
+    [
+      11580,
+      "PATTERN_TROUT_DUMMY"
+    ],
+    [
+      31447,
+      "POH_TROPHY_HADDOCK"
+    ],
+    [
+      31448,
+      "POH_TROPHY_HADDOCK_MAHOGANY"
+    ]
+  ],
+  "mountedorangefin": [
+    [
+      11600,
+      "PATTERN_PIKE_DUMMY"
+    ],
+    [
+      31449,
+      "POH_TROPHY_YELLOWFIN"
+    ],
+    [
+      31450,
+      "POH_TROPHY_YELLOWFIN_MAHOGANY"
+    ]
+  ],
+  "mountedpurplefin": [
+    [
+      11605,
+      "PATTERN_SARDINE_DUMMY"
+    ],
+    [
+      31452,
+      "POH_TROPHY_BLUEFIN"
+    ]
+  ],
+  "rimmingtonteleport": [
+    [
+      11741,
+      "NZONE_TELETAB_RIMMINGTON"
+    ]
+  ],
+  "taverleyteleport": [
+    [
+      11742,
+      "NZONE_TELETAB_TAVERLEY"
+    ]
+  ],
+  "pollnivneachteleport": [
+    [
+      11743,
+      "NZONE_TELETAB_POLLNIVNEACH"
+    ]
+  ],
+  "rellekkateleport": [
+    [
+      11744,
+      "NZONE_TELETAB_RELLEKKA"
+    ]
+  ],
+  "brimhaventeleport": [
+    [
+      11745,
+      "NZONE_TELETAB_BRIMHAVEN"
+    ]
+  ],
+  "yanilleteleport": [
+    [
+      11746,
+      "NZONE_TELETAB_YANILLE"
+    ]
+  ],
+  "oakhouse": [
+    [
+      12704,
+      "POH_MENAGERIE_PETHOUSE_1"
+    ]
+  ],
+  "teakhouse": [
+    [
+      12705,
+      "POH_MENAGERIE_PETHOUSE_2"
+    ]
+  ],
+  "mahoganyhouse": [
+    [
+      12706,
+      "POH_MENAGERIE_PETHOUSE_3"
+    ]
+  ],
+  "consecratedhouse": [
+    [
+      12707,
+      "POH_MENAGERIE_PETHOUSE_4"
+    ]
+  ],
+  "desecratedhouse": [
+    [
+      12708,
+      "POH_MENAGERIE_PETHOUSE_5"
+    ]
+  ],
+  "naturehouse": [
+    [
+      12709,
+      "POH_MENAGERIE_PETHOUSE_6"
+    ]
+  ],
+  "grasslandhabitat": [
+    [
+      12710,
+      "POH_MENAGERIE_HABITAT_1"
+    ]
+  ],
+  "foresthabitat": [
+    [
+      12711,
+      "POH_MENAGERIE_HABITAT_2"
+    ]
+  ],
+  "deserthabitat": [
+    [
+      12712,
+      "POH_MENAGERIE_HABITAT_3"
+    ]
+  ],
+  "polarhabitat": [
+    [
+      12713,
+      "POH_MENAGERIE_HABITAT_4"
+    ]
+  ],
+  "volcanichabitat": [
+    [
+      12714,
+      "POH_MENAGERIE_HABITAT_5"
+    ]
+  ],
+  "oakscratchingpost": [
+    [
+      12715,
+      "POH_MENAGERIE_SCRATCHINGPOST_1"
+    ]
+  ],
+  "teakscratchingpost": [
+    [
+      12716,
+      "POH_MENAGERIE_SCRATCHINGPOST_2"
+    ]
+  ],
+  "mahoganyscratchingpost": [
+    [
+      12717,
+      "POH_MENAGERIE_SCRATCHINGPOST_3"
+    ]
+  ],
+  "simplearena": [
+    [
+      12718,
+      "POH_MENAGERIE_COMBATRING_1"
+    ]
+  ],
+  "advancedarena": [
+    [
+      12719,
+      "POH_MENAGERIE_COMBATRING_2"
+    ]
+  ],
+  "gloriousarena": [
+    [
+      12720,
+      "POH_MENAGERIE_COMBATRING_3"
+    ]
+  ],
+  "petlist": [
+    [
+      12721,
+      "POH_MENAGERIE_PETLIST_1"
+    ]
+  ],
+  "oakfeeder": [
+    [
+      12722,
+      "POH_MENAGERIE_PETFEEDER_1"
+    ]
+  ],
+  "teakfeeder": [
+    [
+      12723,
+      "POH_MENAGERIE_PETFEEDER_2"
+    ]
+  ],
+  "mahoganyfeeder": [
+    [
+      12724,
+      "POH_MENAGERIE_PETFEEDER_3"
+    ]
+  ],
+  "hosidiusteleport": [
+    [
+      19651,
+      "NZONE_TELETAB_KOUREND"
+    ]
+  ],
+  "ancientaltar": [
+    [
+      20617,
+      "POH_ACHIEVEMENTGALLERY_ALTAR_ANCIENT"
+    ]
+  ],
+  "lunaraltar": [
+    [
+      20618,
+      "POH_ACHIEVEMENTGALLERY_ALTAR_LUNAR"
+    ]
+  ],
+  "mahoganyadventurelog": [
+    [
+      20623,
+      "POH_ACHIEVEMENTGALLERY_ADVENTURELOG_1"
+    ]
+  ],
+  "gildedadventurelog": [
+    [
+      20624,
+      "POH_ACHIEVEMENTGALLERY_ADVENTURELOG_2"
+    ]
+  ],
+  "marbleadventurelog": [
+    [
+      20625,
+      "POH_ACHIEVEMENTGALLERY_ADVENTURELOG_3"
+    ]
+  ],
+  "basicjewellerybox": [
+    [
+      20626,
+      "POH_ACHIEVEMENTGALLERY_JEWELLERYBOX_1"
+    ]
+  ],
+  "fancyjewellerybox": [
+    [
+      20627,
+      "POH_ACHIEVEMENTGALLERY_JEWELLERYBOX_2"
+    ]
+  ],
+  "ornatejewellerybox": [
+    [
+      20628,
+      "POH_ACHIEVEMENTGALLERY_JEWELLERYBOX_3"
+    ]
+  ],
+  "bosslairdisplay": [
+    [
+      20629,
+      "POH_ACHIEVEMENTGALLERY_BOSSLAIR_BLANK"
+    ]
+  ],
+  "mountedemblem": [
+    [
+      20630,
+      "POH_ACHIEVEMENTGALLERY_MOUNTEDDISPLAY_EMBLEM"
+    ]
+  ],
+  "mountedcoins": [
+    [
+      20631,
+      "POH_ACHIEVEMENTGALLERY_MOUNTEDDISPLAY_COINS"
+    ]
+  ],
+  "capehanger": [
+    [
+      20632,
+      "POH_ACHIEVEMENTGALLERY_MOUNTEDDISPLAY_CAPESTAND"
+    ]
+  ],
+  "tipjar": [
+    [
+      20634,
+      "POH_TIPJAR"
+    ]
+  ],
+  "topiarybush": [
+    [
+      20638,
+      "POH_SUPERIOR_GARDEN_TOPIARY"
+    ]
+  ],
+  "restorationpool": [
+    [
+      20639,
+      "POH_SUPERIOR_GARDEN_POOL_RESTORATION"
+    ]
+  ],
+  "revitalisationpool": [
+    [
+      20640,
+      "POH_SUPERIOR_GARDEN_POOL_REVITALISATION"
+    ]
+  ],
+  "rejuvenationpool": [
+    [
+      20641,
+      "POH_SUPERIOR_GARDEN_POOL_REJUVENATION"
+    ]
+  ],
+  "fancyrejuvenationpool": [
+    [
+      20642,
+      "POH_SUPERIOR_GARDEN_POOL_RECOVERY"
+    ]
+  ],
+  "ornaterejuvenationpool": [
+    [
+      20643,
+      "POH_SUPERIOR_GARDEN_POOL_REGENERATION"
+    ]
+  ],
+  "zentheme": [
+    [
+      20644,
+      "POH_SUPERIOR_GARDEN_THEME_ZEN"
+    ]
+  ],
+  "otherworldlytheme": [
+    [
+      20645,
+      "POH_SUPERIOR_GARDEN_THEME_ZANARIS"
+    ]
+  ],
+  "volcanictheme": [
+    [
+      20646,
+      "POH_SUPERIOR_GARDEN_THEME_TZHAAR"
+    ]
+  ],
+  "redwoodfence": [
+    [
+      20647,
+      "POH_SUPERIOR_GARDEN_REDWOOD_FENCE"
+    ]
+  ],
+  "obsidianfence": [
+    [
+      20648,
+      "POH_SUPERIOR_GARDEN_OBSIDIAN_FENCE"
+    ]
+  ],
+  "teakgardenbench": [
+    [
+      20649,
+      "POH_SUPERIOR_GARDEN_BENCH_TEAK"
+    ]
+  ],
+  "gnomebench": [
+    [
+      20650,
+      "POH_SUPERIOR_GARDEN_BENCH_MAHOGANY"
+    ]
+  ],
+  "marbledecorativebench": [
+    [
+      20651,
+      "POH_SUPERIOR_GARDEN_BENCH_MARBLE"
+    ]
+  ],
+  "obsidiandecorativebench": [
+    [
+      20652,
+      "POH_SUPERIOR_GARDEN_BENCH_OBSIDIAN"
+    ]
+  ],
+  "combatdummy": [
+    [
+      20745,
+      "POH_COMBAT_DUMMY"
+    ]
+  ],
+  "undeadcombatdummy": [
+    [
+      20746,
+      "POH_COMBAT_DUMMY_UNDEADSLAYER"
+    ]
+  ],
+  "smallstorageunit": [
+    [
+      21037,
+      "RAIDS_STORAGE_1"
+    ]
+  ],
+  "mediumstorageunit": [
+    [
+      21038,
+      "RAIDS_STORAGE_2"
+    ],
+    [
+      21040,
+      "RAIDS_STORAGE_2FROM1"
+    ]
+  ],
+  "largestorageunit": [
+    [
+      21039,
+      "RAIDS_STORAGE_3"
+    ],
+    [
+      21041,
+      "RAIDS_STORAGE_3FROM1"
+    ],
+    [
+      21042,
+      "RAIDS_STORAGE_3FROM2"
+    ]
+  ],
+  "servantsmoneybag": [
+    [
+      21213,
+      "POH_SERVANT_MONEYBAG"
+    ]
+  ],
+  "fireofeternallight": [
+    [
+      22606,
+      "MY2ARM_DUMMY_FIRE_LIGHT"
+    ]
+  ],
+  "fireofdehumidification": [
+    [
+      22607,
+      "MY2ARM_DUMMY_FIRE_GHAST"
+    ]
+  ],
+  "fireofnourishment": [
+    [
+      22608,
+      "MY2ARM_DUMMY_FIRE_HERB"
+    ]
+  ],
+  "fireofunseasonalwarmth": [
+    [
+      22609,
+      "MY2ARM_DUMMY_FIRE_GWD"
+    ]
+  ],
+  "marbleportalnexus": [
+    [
+      22705,
+      "POH_PORTAL_NEXUS_1"
+    ]
+  ],
+  "gildedportalnexus": [
+    [
+      22706,
+      "POH_PORTAL_NEXUS_2"
+    ]
+  ],
+  "crystallineportalnexus": [
+    [
+      22707,
+      "POH_PORTAL_NEXUS_3"
+    ]
+  ],
+  "mountedxericstalisman": [
+    [
+      22708,
+      "POH_AMULET_XERIC"
+    ]
+  ],
+  "mounteddigsitependant": [
+    [
+      22709,
+      "POH_AMULET_DIGSITE"
+    ]
+  ],
+  "prifddinasteleport": [
+    [
+      23771,
+      "NZONE_TELETAB_PRIFDDINAS"
+    ]
+  ],
+  "marblelectern": [
+    [
+      24132,
+      "POH_LECTERN_8"
+    ]
+  ],
+  "spicerack": [
+    [
+      24479,
+      "POH_KITCHEN_RACK_1"
+    ]
+  ],
+  "massivestorageunit": [
+    [
+      24660,
+      "RAIDS_STORAGE_4"
+    ],
+    [
+      24661,
+      "RAIDS_STORAGE_4FROM1"
+    ],
+    [
+      24662,
+      "RAIDS_STORAGE_4FROM2"
+    ],
+    [
+      24663,
+      "RAIDS_STORAGE_4FROM3"
+    ]
+  ],
+  "woodencabinet": [
+    [
+      24898,
+      "CON_CONTRACT_CABINET_REGULAR"
+    ]
+  ],
+  "oakcabinet": [
+    [
+      24899,
+      "CON_CONTRACT_CABINET_OAK"
+    ]
+  ],
+  "teakcabinet": [
+    [
+      24900,
+      "CON_CONTRACT_CABINET_TEAK"
+    ]
+  ],
+  "mahoganycabinet": [
+    [
+      24901,
+      "CON_CONTRACT_CABINET_MAHOGANY"
+    ]
+  ],
+  "woodencupboard": [
+    [
+      24934,
+      "CON_CONTRACT_CUPBOARD_REGULAR"
+    ]
+  ],
+  "oakcupboard": [
+    [
+      24935,
+      "CON_CONTRACT_CUPBOARD_OAK"
+    ]
+  ],
+  "teakcupboard": [
+    [
+      24936,
+      "CON_CONTRACT_CUPBOARD_TEAK"
+    ]
+  ],
+  "mahoganycupboard": [
+    [
+      24937,
+      "CON_CONTRACT_CUPBOARD_MAHOGANY"
+    ]
+  ],
+  "ornateundeadcombatdummy": [
+    [
+      25154,
+      "POH_COMBAT_DUMMY_UPGRADED_1_UNDEAD"
+    ]
+  ],
+  "trophypedestal": [
+    [
+      25351,
+      "POH_LEAGUEHALL_TROPHY_PEDESTAL_SIMPLE"
+    ]
+  ],
+  "ornatetrophypedestal": [
+    [
+      25352,
+      "POH_LEAGUEHALL_TROPHY_PEDESTAL_DECORATIVE"
+    ]
+  ],
+  "oaktrophycase": [
+    [
+      25353,
+      "POH_LEAGUEHALL_TROPHYCASE_OAK"
+    ]
+  ],
+  "mahoganytrophycase": [
+    [
+      25354,
+      "POH_LEAGUEHALL_TROPHYCASE_MAHOGANY"
+    ]
+  ],
+  "bannerstand": [
+    [
+      25355,
+      "POH_LEAGUEHALL_BANNERSTAND_SIMPLE"
+    ]
+  ],
+  "ornatebannerstand": [
+    [
+      25356,
+      "POH_LEAGUEHALL_BANNERSTAND_DECORATIVE"
+    ]
+  ],
+  "oakoutfitstand": [
+    [
+      25357,
+      "POH_LEAGUEHALL_OUTFITSTAND_OAK"
+    ]
+  ],
+  "mahoganyoutfitstand": [
+    [
+      25358,
+      "POH_LEAGUEHALL_OUTFITSTAND_MAHOGANY"
+    ]
+  ],
+  "leaguestatue": [
+    [
+      25359,
+      "POH_LEAGUEHALL_STATUE_SIMPLE"
+    ]
+  ],
+  "ornateleaguestatue": [
+    [
+      25360,
+      "POH_LEAGUEHALL_STATUE_DECORATIVE"
+    ]
+  ],
+  "leagueaccomplishmentsscroll": [
+    [
+      25365,
+      "POH_LEAGUEHALL_ACCOMPLISHMENT_SCROLL"
+    ]
+  ],
+  "stashchart": [
+    [
+      25611,
+      "POH_WALLCHART_4"
+    ]
+  ],
+  "goldsink": [
+    [
+      26269,
+      "POH_SINK_4"
+    ]
+  ],
+  "deadmanrug": [
+    [
+      29598,
+      "POH_RUG_DEADMAN"
+    ]
+  ],
+  "aldarinteleport": [
+    [
+      30149,
+      "NZONE_TELETAB_ALDARIN"
+    ]
+  ],
+  "gildeddisplay": [
+    [
+      30653,
+      "POH_TROPHY_HEAD_BLANK_GILDED"
+    ],
+    [
+      30654,
+      "POH_TROPHY_HEAD_BLANK_UPGRADETOGILDED"
+    ]
+  ],
+  "oakdisplay": [
+    [
+      30663,
+      "POH_TROPHY_FISH_BLANK_OAK"
+    ]
+  ],
+  "repairkit": [
+    [
+      31964,
+      "BOAT_REPAIR_KIT"
+    ],
+    [
+      32300,
+      "SAILING_SKILLGUIDE_BOAT_REPAIR_KIT"
+    ]
+  ],
+  "oakrepairkit": [
+    [
+      31967,
+      "BOAT_REPAIR_KIT_OAK"
+    ],
+    [
+      32301,
+      "SAILING_SKILLGUIDE_BOAT_REPAIR_KIT_OAK"
+    ]
+  ],
+  "teakrepairkit": [
+    [
+      31970,
+      "BOAT_REPAIR_KIT_TEAK"
+    ],
+    [
+      32302,
+      "SAILING_SKILLGUIDE_BOAT_REPAIR_KIT_TEAK"
+    ]
+  ],
+  "mahoganyrepairkit": [
+    [
+      31973,
+      "BOAT_REPAIR_KIT_MAHOGANY"
+    ],
+    [
+      32303,
+      "SAILING_SKILLGUIDE_BOAT_REPAIR_KIT_MAHOGANY"
+    ]
+  ],
+  "camphorrepairkit": [
+    [
+      31976,
+      "BOAT_REPAIR_KIT_CAMPHOR"
+    ],
+    [
+      32304,
+      "SAILING_SKILLGUIDE_BOAT_REPAIR_KIT_CAMPHOR"
+    ]
+  ],
+  "ironwoodrepairkit": [
+    [
+      31979,
+      "BOAT_REPAIR_KIT_IRONWOOD"
+    ],
+    [
+      32305,
+      "SAILING_SKILLGUIDE_BOAT_REPAIR_KIT_IRONWOOD"
+    ]
+  ],
+  "rosewoodrepairkit": [
+    [
+      31982,
+      "BOAT_REPAIR_KIT_ROSEWOOD"
+    ],
+    [
+      32306,
+      "SAILING_SKILLGUIDE_BOAT_REPAIR_KIT_ROSEWOOD"
+    ]
+  ],
+  "woodenhullparts": [
+    [
+      32041,
+      "SAILING_BOAT_HULL_PART_WOODEN"
+    ]
+  ],
+  "oakhullparts": [
+    [
+      32044,
+      "SAILING_BOAT_HULL_PART_OAK"
+    ]
+  ],
+  "teakhullparts": [
+    [
+      32047,
+      "SAILING_BOAT_HULL_PART_TEAK"
+    ]
+  ],
+  "mahoganyhullparts": [
+    [
+      32050,
+      "SAILING_BOAT_HULL_PART_MAHOGANY"
+    ]
+  ],
+  "camphorhullparts": [
+    [
+      32053,
+      "SAILING_BOAT_HULL_PART_CAMPHOR"
+    ]
+  ],
+  "ironwoodhullparts": [
+    [
+      32056,
+      "SAILING_BOAT_HULL_PART_IRONWOOD"
+    ]
+  ],
+  "rosewoodhullparts": [
+    [
+      32059,
+      "SAILING_BOAT_HULL_PART_ROSEWOOD"
+    ]
+  ],
+  "largewoodenhullparts": [
+    [
+      32062,
+      "SAILING_BOAT_LARGE_HULL_PART_WOODEN"
+    ]
+  ],
+  "largeoakhullparts": [
+    [
+      32065,
+      "SAILING_BOAT_LARGE_HULL_PART_OAK"
+    ]
+  ],
+  "largeteakhullparts": [
+    [
+      32068,
+      "SAILING_BOAT_LARGE_HULL_PART_TEAK"
+    ]
+  ],
+  "largemahoganyhullparts": [
+    [
+      32071,
+      "SAILING_BOAT_LARGE_HULL_PART_MAHOGANY"
+    ]
+  ],
+  "largecamphorhullparts": [
+    [
+      32074,
+      "SAILING_BOAT_LARGE_HULL_PART_CAMPHOR"
+    ]
+  ],
+  "largeironwoodhullparts": [
+    [
+      32077,
+      "SAILING_BOAT_LARGE_HULL_PART_IRONWOOD"
+    ]
+  ],
+  "largerosewoodhullparts": [
+    [
+      32080,
+      "SAILING_BOAT_LARGE_HULL_PART_ROSEWOOD"
+    ]
+  ],
+  "bronzehelm": [
+    [
+      32139,
+      "SAILING_SKILLGUIDE_HELM_BRONZE"
+    ],
+    [
+      32140,
+      "SAILING_SKILLGUIDE_HELM_BRONZE_SKIFF"
+    ],
+    [
+      32141,
+      "SAILING_SKILLGUIDE_HELM_BRONZE_SLOOP"
+    ]
+  ],
+  "ironhelm": [
+    [
+      32142,
+      "SAILING_SKILLGUIDE_HELM_IRON"
+    ],
+    [
+      32143,
+      "SAILING_SKILLGUIDE_HELM_IRON_SKIFF"
+    ],
+    [
+      32144,
+      "SAILING_SKILLGUIDE_HELM_IRON_SLOOP"
+    ]
+  ],
+  "steelhelm": [
+    [
+      32145,
+      "SAILING_SKILLGUIDE_HELM_STEEL"
+    ],
+    [
+      32146,
+      "SAILING_SKILLGUIDE_HELM_STEEL_SKIFF"
+    ],
+    [
+      32147,
+      "SAILING_SKILLGUIDE_HELM_STEEL_SLOOP"
+    ]
+  ],
+  "mithrilhelm": [
+    [
+      32148,
+      "SAILING_SKILLGUIDE_HELM_MITHRIL"
+    ],
+    [
+      32149,
+      "SAILING_SKILLGUIDE_HELM_MITHRIL_SKIFF"
+    ],
+    [
+      32150,
+      "SAILING_SKILLGUIDE_HELM_MITHRIL_SLOOP"
+    ]
+  ],
+  "adamanthelm": [
+    [
+      32151,
+      "SAILING_SKILLGUIDE_HELM_ADAMANT"
+    ],
+    [
+      32152,
+      "SAILING_SKILLGUIDE_HELM_ADAMANT_SKIFF"
+    ],
+    [
+      32153,
+      "SAILING_SKILLGUIDE_HELM_ADAMANT_SLOOP"
+    ]
+  ],
+  "runehelm": [
+    [
+      32154,
+      "SAILING_SKILLGUIDE_HELM_RUNE"
+    ],
+    [
+      32155,
+      "SAILING_SKILLGUIDE_HELM_RUNE_SKIFF"
+    ],
+    [
+      32156,
+      "SAILING_SKILLGUIDE_HELM_RUNE_SLOOP"
+    ]
+  ],
+  "dragonhelm": [
+    [
+      32157,
+      "SAILING_SKILLGUIDE_HELM_DRAGON"
+    ],
+    [
+      32158,
+      "SAILING_SKILLGUIDE_HELM_DRAGON_SKIFF"
+    ],
+    [
+      32159,
+      "SAILING_SKILLGUIDE_HELM_DRAGON_SLOOP"
+    ]
+  ],
+  "woodenmastandlinensails": [
+    [
+      32160,
+      "SAILING_SKILLGUIDE_MAST_WOODEN"
+    ],
+    [
+      32161,
+      "SAILING_SKILLGUIDE_MAST_WOODEN_SKIFF"
+    ],
+    [
+      32162,
+      "SAILING_SKILLGUIDE_MAST_WOODEN_SLOOP"
+    ]
+  ],
+  "oakmastandlinensails": [
+    [
+      32163,
+      "SAILING_SKILLGUIDE_MAST_OAK"
+    ],
+    [
+      32164,
+      "SAILING_SKILLGUIDE_MAST_OAK_SKIFF"
+    ],
+    [
+      32165,
+      "SAILING_SKILLGUIDE_MAST_OAK_SLOOP"
+    ]
+  ],
+  "teakmastandcanvassails": [
+    [
+      32166,
+      "SAILING_SKILLGUIDE_MAST_TEAK"
+    ]
+  ],
+  "mahoganymastandcanvassails": [
+    [
+      32169,
+      "SAILING_SKILLGUIDE_MAST_MAHOGANY"
+    ],
+    [
+      32170,
+      "SAILING_SKILLGUIDE_MAST_MAHOGANY_SKIFF"
+    ],
+    [
+      32171,
+      "SAILING_SKILLGUIDE_MAST_MAHOGANY_SLOOP"
+    ]
+  ],
+  "camphormastandcanvassails": [
+    [
+      32172,
+      "SAILING_SKILLGUIDE_MAST_CAMPHOR"
+    ]
+  ],
+  "ironwoodmastandcottonsails": [
+    [
+      32175,
+      "SAILING_SKILLGUIDE_MAST_IRONWOOD"
+    ]
+  ],
+  "rosewoodmastandcottonsails": [
+    [
+      32178,
+      "SAILING_SKILLGUIDE_MAST_ROSEWOOD"
+    ]
+  ],
+  "bronzekeel": [
+    [
+      32181,
+      "SAILING_SKILLGUIDE_KEEL_BRONZE"
+    ],
+    [
+      32182,
+      "SAILING_SKILLGUIDE_KEEL_BRONZE_SLOOP"
+    ]
+  ],
+  "ironkeel": [
+    [
+      32183,
+      "SAILING_SKILLGUIDE_KEEL_IRON"
+    ],
+    [
+      32184,
+      "SAILING_SKILLGUIDE_KEEL_IRON_SLOOP"
+    ]
+  ],
+  "steelkeel": [
+    [
+      32185,
+      "SAILING_SKILLGUIDE_KEEL_STEEL"
+    ],
+    [
+      32186,
+      "SAILING_SKILLGUIDE_KEEL_STEEL_SLOOP"
+    ]
+  ],
+  "mithrilkeel": [
+    [
+      32187,
+      "SAILING_SKILLGUIDE_KEEL_MITHRIL"
+    ],
+    [
+      32188,
+      "SAILING_SKILLGUIDE_KEEL_MITHRIL_SLOOP"
+    ]
+  ],
+  "adamantkeel": [
+    [
+      32189,
+      "SAILING_SKILLGUIDE_KEEL_ADAMANT"
+    ],
+    [
+      32190,
+      "SAILING_SKILLGUIDE_KEEL_ADAMANT_SLOOP"
+    ]
+  ],
+  "runekeel": [
+    [
+      32191,
+      "SAILING_SKILLGUIDE_KEEL_RUNE"
+    ],
+    [
+      32192,
+      "SAILING_SKILLGUIDE_KEEL_RUNE_SLOOP"
+    ]
+  ],
+  "dragonkeel": [
+    [
+      32193,
+      "SAILING_SKILLGUIDE_KEEL_DRAGON"
+    ],
+    [
+      32194,
+      "SAILING_SKILLGUIDE_KEEL_DRAGON_SLOOP"
+    ]
+  ],
+  "eternalbrazier": [
+    [
+      32195,
+      "SAILING_SKILLGUIDE_BOAT_ETERNAL_BRAZIER"
+    ]
+  ],
+  "bronzecannon": [
+    [
+      32199,
+      "SAILING_SKILLGUIDE_BRONZE_CANNON"
+    ],
+    [
+      33204,
+      "SAILING_COMBAT_BRONZE_CANNON_DUMMY"
+    ]
+  ],
+  "ironcannon": [
+    [
+      32200,
+      "SAILING_SKILLGUIDE_IRON_CANNON"
+    ],
+    [
+      33205,
+      "SAILING_COMBAT_IRON_CANNON_DUMMY"
+    ]
+  ],
+  "steelcannon": [
+    [
+      32201,
+      "SAILING_SKILLGUIDE_STEEL_CANNON"
+    ],
+    [
+      33206,
+      "SAILING_COMBAT_STEEL_CANNON_DUMMY"
+    ]
+  ],
+  "mithrilcannon": [
+    [
+      32202,
+      "SAILING_SKILLGUIDE_MITHRIL_CANNON"
+    ],
+    [
+      33207,
+      "SAILING_COMBAT_MITHRIL_CANNON_DUMMY"
+    ]
+  ],
+  "adamantcannon": [
+    [
+      32203,
+      "SAILING_SKILLGUIDE_ADAMANT_CANNON"
+    ],
+    [
+      33208,
+      "SAILING_COMBAT_ADAMANT_CANNON_DUMMY"
+    ]
+  ],
+  "runecannon": [
+    [
+      32204,
+      "SAILING_SKILLGUIDE_RUNE_CANNON"
+    ],
+    [
+      33209,
+      "SAILING_COMBAT_RUNE_CANNON_DUMMY"
+    ]
+  ],
+  "dragoncannon": [
+    [
+      32205,
+      "SAILING_SKILLGUIDE_DRAGON_CANNON"
+    ],
+    [
+      33210,
+      "SAILING_COMBAT_DRAGON_CANNON_DUMMY"
+    ]
+  ],
+  "bronzesalvaginghook": [
+    [
+      32206,
+      "SAILING_SKILLGUIDE_SALVAGING_HOOK_BRONZE"
+    ]
+  ],
+  "ironsalvaginghook": [
+    [
+      32207,
+      "SAILING_SKILLGUIDE_SALVAGING_HOOK_IRON"
+    ]
+  ],
+  "steelsalvaginghook": [
+    [
+      32208,
+      "SAILING_SKILLGUIDE_SALVAGING_HOOK_STEEL"
+    ]
+  ],
+  "mithrilsalvaginghook": [
+    [
+      32209,
+      "SAILING_SKILLGUIDE_SALVAGING_HOOK_MITHRIL"
+    ]
+  ],
+  "adamantsalvaginghook": [
+    [
+      32210,
+      "SAILING_SKILLGUIDE_SALVAGING_HOOK_ADAMANT"
+    ]
+  ],
+  "runesalvaginghook": [
+    [
+      32211,
+      "SAILING_SKILLGUIDE_SALVAGING_HOOK_RUNE"
+    ]
+  ],
+  "dragonsalvaginghook": [
+    [
+      32212,
+      "SAILING_SKILLGUIDE_SALVAGING_HOOK_DRAGON"
+    ]
+  ],
+  "oakcargohold": [
+    [
+      32214,
+      "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_OAK"
+    ]
+  ],
+  "teakcargohold": [
+    [
+      32215,
+      "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_TEAK"
+    ]
+  ],
+  "mahoganycargohold": [
+    [
+      32216,
+      "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_MAHOGANY"
+    ]
+  ],
+  "camphorcargohold": [
+    [
+      32217,
+      "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_CAMPHOR"
+    ]
+  ],
+  "ironwoodcargohold": [
+    [
+      32218,
+      "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_IRONWOOD"
+    ]
+  ],
+  "rosewoodcargohold": [
+    [
+      32219,
+      "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_ROSEWOOD"
+    ]
+  ],
+  "ropetrawlingnet": [
+    [
+      32220,
+      "SAILING_SKILLGUIDE_ROPE_TRAWLING_NET"
+    ]
+  ],
+  "linentrawlingnet": [
+    [
+      32221,
+      "SAILING_SKILLGUIDE_LINEN_TRAWLING_NET"
+    ]
+  ],
+  "hemptrawlingnet": [
+    [
+      32222,
+      "SAILING_SKILLGUIDE_HEMP_TRAWLING_NET"
+    ]
+  ],
+  "cottontrawlingnet": [
+    [
+      32223,
+      "SAILING_SKILLGUIDE_COTTON_TRAWLING_NET"
+    ]
+  ],
+  "chumstation": [
+    [
+      32225,
+      "SAILING_SKILLGUIDE_CHUM_STATION"
+    ]
+  ],
+  "advancedchumstation": [
+    [
+      32226,
+      "SAILING_SKILLGUIDE_CHUM_STATION_ADVANCED"
+    ]
+  ],
+  "chumspreader": [
+    [
+      32227,
+      "SAILING_SKILLGUIDE_CHUM_SPREADER"
+    ]
+  ],
+  "fathomstone": [
+    [
+      32228,
+      "SAILING_SKILLGUIDE_FATHOM_STONE"
+    ]
+  ],
+  "fathompearl": [
+    [
+      32229,
+      "SAILING_SKILLGUIDE_FATHOM_PEARL"
+    ]
+  ],
+  "windcatcher": [
+    [
+      32233,
+      "SAILING_SKILLGUIDE_WIND_CATCHER"
+    ]
+  ],
+  "galecatcher": [
+    [
+      32234,
+      "SAILING_SKILLGUIDE_GALE_CATCHER"
+    ]
+  ],
+  "crystalextractor": [
+    [
+      32235,
+      "SAILING_SKILLGUIDE_CRYSTAL_EXTRACTOR"
+    ]
+  ],
+  "greaterteleportfocus": [
+    [
+      32238,
+      "SAILING_SKILLGUIDE_TELEPORTATION_FOCUS_GREATER"
+    ]
+  ],
+  "ballisticattractor": [
+    [
+      33142,
+      "SAILING_SKILLGUIDE_BALLISTIC_ATTRACTOR"
+    ]
+  ],
+  "bosunsworkbench": [
+    [
+      33420,
+      "SAILING_SKILLGUIDE_BOSUNS_WORKBENCH"
+    ]
+  ]
+}

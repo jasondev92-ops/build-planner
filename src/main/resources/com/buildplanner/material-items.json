@@ -1,0 +1,996 @@
+{
+  "Adamant full helm": [
+    1161
+  ],
+  "Adamant keel parts": [
+    32011
+  ],
+  "Adamant kiteshield": [
+    1199
+  ],
+  "Adamant platebody": [
+    1123
+  ],
+  "Adamant plateskirt": [
+    1091
+  ],
+  "Adamantite bar": [
+    2361
+  ],
+  "Adamantite nails": [
+    4823
+  ],
+  "Air rune": [
+    556
+  ],
+  "Amulet of glory": [
+    1704
+  ],
+  "Amulet of glory(4)": [
+    1712
+  ],
+  "Ancient crystal": [
+    21804
+  ],
+  "Ancient signet": [
+    20611
+  ],
+  "Angler's paint": [
+    32096
+  ],
+  "Annihilation exit portal blueprints": [
+    33122
+  ],
+  "Anti-dragon shield": [
+    1540
+  ],
+  "Anti-venom(4)": [
+    12905
+  ],
+  "Arceuus signet": [
+    20615
+  ],
+  "Armadylean paint": [
+    32102
+  ],
+  "Armageddon rug": [
+    29619
+  ],
+  "Arthur portrait": [
+    7995
+  ],
+  "Asgarnian ale": [
+    1905
+  ],
+  "Astral rune": [
+    9075
+  ],
+  "Bagged bluebells": [
+    8455
+  ],
+  "Bagged daffodils": [
+    8453
+  ],
+  "Bagged dead tree": [
+    8417
+  ],
+  "Bagged flower": [
+    8451
+  ],
+  "Bagged magic tree": [
+    8429
+  ],
+  "Bagged maple tree": [
+    8425
+  ],
+  "Bagged marigolds": [
+    8459
+  ],
+  "Bagged nice tree": [
+    8419
+  ],
+  "Bagged oak tree": [
+    8421
+  ],
+  "Bagged plant 1": [
+    8431
+  ],
+  "Bagged plant 2": [
+    8433
+  ],
+  "Bagged plant 3": [
+    8435
+  ],
+  "Bagged roses": [
+    8461
+  ],
+  "Bagged sunflower": [
+    8457
+  ],
+  "Bagged willow tree": [
+    8423
+  ],
+  "Bagged yew tree": [
+    8427
+  ],
+  "Ball of wool": [
+    1759
+  ],
+  "Barracuda paint": [
+    32087
+  ],
+  "Barrel stand": [
+    31733
+  ],
+  "Black dye": [
+    4622
+  ],
+  "Black mask": [
+    8921
+  ],
+  "Blood rune": [
+    565
+  ],
+  "Bloody head": [
+    25147
+  ],
+  "Blue dye": [
+    1767
+  ],
+  "Body rune": [
+    559
+  ],
+  "Bolt of canvas": [
+    31475
+  ],
+  "Bolt of cloth": [
+    8790
+  ],
+  "Bolt of cotton": [
+    31478
+  ],
+  "Bolt of linen": [
+    31472
+  ],
+  "Bones": [
+    526
+  ],
+  "Bottled storm": [
+    31949
+  ],
+  "Broken dragon hook": [
+    31961
+  ],
+  "Bronze bar": [
+    2349
+  ],
+  "Bronze keel parts": [
+    31999
+  ],
+  "Bronze nails": [
+    4819
+  ],
+  "Brown spice (4)": [
+    7488
+  ],
+  "Bucket": [
+    1925
+  ],
+  "Bucket of milk": [
+    1927
+  ],
+  "Bucket of sand": [
+    1783
+  ],
+  "Bucket of slime": [
+    4286
+  ],
+  "Bucket of water": [
+    1929
+  ],
+  "Camphor hull parts": [
+    32053
+  ],
+  "Camphor logs": [
+    32904
+  ],
+  "Camphor plank": [
+    31432
+  ],
+  "Candle": [
+    36
+  ],
+  "Cape of Legends": [
+    1052
+  ],
+  "Captured wind mote": [
+    31745
+  ],
+  "Chaos rune": [
+    562
+  ],
+  "Charcoal": [
+    973
+  ],
+  "Chef's delight": [
+    5755
+  ],
+  "Cider": [
+    5763
+  ],
+  "Clockwork": [
+    8792
+  ],
+  "Coal": [
+    453
+  ],
+  "Coins": [
+    995
+  ],
+  "Combat bracelet(4)": [
+    11118
+  ],
+  "Compost": [
+    6032
+  ],
+  "Condensed gold": [
+    26266
+  ],
+  "Cosmic rune": [
+    564
+  ],
+  "Cotton yarn": [
+    31469
+  ],
+  "Cupronickel bar": [
+    32892
+  ],
+  "Curator's medallion": [
+    22710
+  ],
+  "Darklight": [
+    6746
+  ],
+  "Death rune": [
+    560
+  ],
+  "Decorative armour (gold platebody)": [
+    4509
+  ],
+  "Decorative armour (red platebody)": [
+    4069
+  ],
+  "Decorative armour (white platebody)": [
+    4504
+  ],
+  "Decorative emblem": [
+    24287
+  ],
+  "Decorative helm (gold)": [
+    4511
+  ],
+  "Decorative helm (red)": [
+    4071
+  ],
+  "Decorative helm (white)": [
+    4506
+  ],
+  "Decorative shield (gold)": [
+    4512
+  ],
+  "Decorative shield (red)": [
+    4072
+  ],
+  "Decorative shield (white)": [
+    4507
+  ],
+  "Desert painting": [
+    7999
+  ],
+  "Dragon bitter": [
+    1911
+  ],
+  "Dragon cannon barrel": [
+    32115
+  ],
+  "Dragon keel parts": [
+    32017
+  ],
+  "Dragon metal sheet": [
+    31996
+  ],
+  "Dragon nails": [
+    31406
+  ],
+  "Earth rune": [
+    557
+  ],
+  "Echo pearl": [
+    31946
+  ],
+  "Efh salt": [
+    22595
+  ],
+  "Elena portrait": [
+    7996
+  ],
+  "Enchanted gem": [
+    4155
+  ],
+  "Excalibur": [
+    35
+  ],
+  "Fairy enchantment": [
+    20609
+  ],
+  "Fancy hedge (bagged)": [
+    8445
+  ],
+  "Fire rune": [
+    554
+  ],
+  "Fishing bait": [
+    313
+  ],
+  "Games necklace(8)": [
+    3853
+  ],
+  "Gnome child icon": [
+    25338
+  ],
+  "Gold bar": [
+    2357
+  ],
+  "Gold leaf": [
+    8784
+  ],
+  "Granite (5kg)": [
+    6983
+  ],
+  "Green dye": [
+    1771
+  ],
+  "Greenman carving": [
+    31024
+  ],
+  "Greenman statue": [
+    31027
+  ],
+  "Greenman's ale": [
+    1909
+  ],
+  "Grid master altar icon scroll": [
+    31205
+  ],
+  "Gurtob's fabric roll": [
+    31746
+  ],
+  "Guthixian paint": [
+    32106
+  ],
+  "Gwyna's fabric roll": [
+    31758
+  ],
+  "Heart of Ithell": [
+    31757
+  ],
+  "Hemp yarn": [
+    31466
+  ],
+  "Ice cooler": [
+    6696
+  ],
+  "Inky paint": [
+    32093
+  ],
+  "Iron bar": [
+    2351
+  ],
+  "Iron keel parts": [
+    32002
+  ],
+  "Iron nails": [
+    4820
+  ],
+  "Ironwood hull parts": [
+    32056
+  ],
+  "Ironwood logs": [
+    32907
+  ],
+  "Ironwood plank": [
+    31435
+  ],
+  "Isafdar painting": [
+    8000
+  ],
+  "Karamja painting": [
+    8001
+  ],
+  "Keldagrim portrait": [
+    7997
+  ],
+  "Knife": [
+    946
+  ],
+  "Large adamant keel parts": [
+    32032
+  ],
+  "Large bronze keel parts": [
+    32020
+  ],
+  "Large camphor hull parts": [
+    32074
+  ],
+  "Large dragon keel parts": [
+    32038
+  ],
+  "Large iron keel parts": [
+    32023
+  ],
+  "Large ironwood hull parts": [
+    32077
+  ],
+  "Large mahogany hull parts": [
+    32071
+  ],
+  "Large map (item)": [
+    8006
+  ],
+  "Large mithril keel parts": [
+    32029
+  ],
+  "Large oak hull parts": [
+    32065
+  ],
+  "Large rosewood hull parts": [
+    32080
+  ],
+  "Large rune keel parts": [
+    32035
+  ],
+  "Large steel keel parts": [
+    32026
+  ],
+  "Large teak hull parts": [
+    32068
+  ],
+  "Large wooden hull parts": [
+    32062
+  ],
+  "Lava rune": [
+    4699
+  ],
+  "Law rune": [
+    563
+  ],
+  "Lead bar": [
+    32889
+  ],
+  "Limestone brick": [
+    3420
+  ],
+  "Linen yarn": [
+    31463
+  ],
+  "Lit torch": [
+    594
+  ],
+  "Lizardman fang": [
+    13391
+  ],
+  "Logs": [
+    1511
+  ],
+  "Lumbridge painting": [
+    8002
+  ],
+  "Lunar signet": [
+    20613
+  ],
+  "Magic logs": [
+    1513
+  ],
+  "Magic longbow": [
+    859
+  ],
+  "Magic longbow (u)": [
+    70
+  ],
+  "Magic secateurs": [
+    7409
+  ],
+  "Magic shield": [
+    22263
+  ],
+  "Magic shortbow": [
+    861
+  ],
+  "Magic shortbow (u)": [
+    72
+  ],
+  "Magic stock": [
+    21952
+  ],
+  "Magic stone": [
+    8788
+  ],
+  "Magical pumpkin": [
+    24977
+  ],
+  "Mahogany hull parts": [
+    32050
+  ],
+  "Mahogany logs": [
+    6332
+  ],
+  "Mahogany plank": [
+    8782
+  ],
+  "Mallignum root plank": [
+    21036
+  ],
+  "Maple logs": [
+    1517
+  ],
+  "Maple longbow": [
+    851
+  ],
+  "Maple longbow (u)": [
+    62
+  ],
+  "Maple shield": [
+    22257
+  ],
+  "Maple shortbow": [
+    853
+  ],
+  "Maple shortbow (u)": [
+    64
+  ],
+  "Maple stock": [
+    9448
+  ],
+  "Marble block": [
+    8786
+  ],
+  "Medium map (item)": [
+    8005
+  ],
+  "Merchant's paint": [
+    32110
+  ],
+  "Misc. portrait": [
+    7998
+  ],
+  "Mithril bar": [
+    2359
+  ],
+  "Mithril full helm": [
+    1159
+  ],
+  "Mithril keel parts": [
+    32008
+  ],
+  "Mithril nails": [
+    4822
+  ],
+  "Mithril platebody": [
+    1121
+  ],
+  "Mithril plateskirt": [
+    1085
+  ],
+  "Molten glass": [
+    1775
+  ],
+  "Morytania painting": [
+    8003
+  ],
+  "Mushroom": [
+    6004
+  ],
+  "Mythical cape": [
+    22114
+  ],
+  "Nails (any metal)": [
+    4819,
+    4820,
+    1539,
+    4821,
+    4822,
+    4823,
+    4824,
+    31406
+  ],
+  "Narwhal horn knife": [
+    31957
+  ],
+  "Nature rune": [
+    561
+  ],
+  "Nice hedge (bagged)": [
+    8439
+  ],
+  "Oak hull parts": [
+    32044
+  ],
+  "Oak logs": [
+    1521
+  ],
+  "Oak longbow": [
+    845
+  ],
+  "Oak longbow (u)": [
+    56
+  ],
+  "Oak plank": [
+    8778
+  ],
+  "Oak shield": [
+    22251
+  ],
+  "Oak shortbow": [
+    843
+  ],
+  "Oak shortbow (u)": [
+    54
+  ],
+  "Oak stock": [
+    9442
+  ],
+  "Onyx": [
+    6573
+  ],
+  "Orange spice (4)": [
+    7484
+  ],
+  "Papyrus": [
+    970
+  ],
+  "Pharaoh's sceptre (uncharged)": [
+    26945
+  ],
+  "Pink dye": [
+    6955
+  ],
+  "Plank": [
+    960
+  ],
+  "Platinum token": [
+    13204
+  ],
+  "Prayer potion(4)": [
+    2434
+  ],
+  "Purple dye": [
+    1773
+  ],
+  "Raging echoes curtains": [
+    30557
+  ],
+  "Raging echoes rug": [
+    30554
+  ],
+  "Ralph's fabric roll": [
+    31734
+  ],
+  "Ray barbs": [
+    31959
+  ],
+  "Red dye": [
+    1763
+  ],
+  "Red spice (4)": [
+    7480
+  ],
+  "Redwood hiking staff": [
+    31049
+  ],
+  "Redwood logs": [
+    19669
+  ],
+  "Redwood shield": [
+    22266
+  ],
+  "Relicym's balm(4)": [
+    4842
+  ],
+  "Ring of dueling(8)": [
+    2552
+  ],
+  "Ring of wealth (5)": [
+    11980
+  ],
+  "Rope": [
+    954
+  ],
+  "Rosewood hull parts": [
+    32059
+  ],
+  "Rosewood logs": [
+    32910
+  ],
+  "Rosewood plank": [
+    31438
+  ],
+  "Rune full helm": [
+    1163
+  ],
+  "Rune keel parts": [
+    32014
+  ],
+  "Rune kiteshield": [
+    1201
+  ],
+  "Rune nails": [
+    4824
+  ],
+  "Rune platebody": [
+    1127
+  ],
+  "Rune plateskirt": [
+    1093
+  ],
+  "Runite bar": [
+    2363
+  ],
+  "S.t.a.s.h blueprint": [
+    25612
+  ],
+  "Salvor's paint": [
+    32099
+  ],
+  "Sandy paint": [
+    32113
+  ],
+  "Saradominist paint": [
+    32108
+  ],
+  "Scroll of Redirection": [
+    11740
+  ],
+  "Shark paint": [
+    32090
+  ],
+  "Silverlight": [
+    2402
+  ],
+  "Skills necklace(4)": [
+    11105
+  ],
+  "Skull (item)": [
+    964
+  ],
+  "Small box hedge (bagged)": [
+    8441
+  ],
+  "Small map (item)": [
+    8004
+  ],
+  "Soft clay": [
+    1761
+  ],
+  "Soul rune": [
+    566
+  ],
+  "Spirit sapling": [
+    5375
+  ],
+  "Stamina potion(4)": [
+    12625
+  ],
+  "Steel bar": [
+    2353
+  ],
+  "Steel full helm": [
+    1157
+  ],
+  "Steel keel parts": [
+    32005
+  ],
+  "Steel kiteshield": [
+    1193
+  ],
+  "Steel nails": [
+    1539
+  ],
+  "Stuffed abyssal head": [
+    7986
+  ],
+  "Stuffed basilisk head": [
+    7984
+  ],
+  "Stuffed big bass": [
+    7990
+  ],
+  "Stuffed big harpoonfish": [
+    25561
+  ],
+  "Stuffed big shark": [
+    7994
+  ],
+  "Stuffed big swordfish": [
+    7992
+  ],
+  "Stuffed cockatrice head": [
+    7983
+  ],
+  "Stuffed crawling hand": [
+    7982
+  ],
+  "Stuffed giant blue krill": [
+    31410
+  ],
+  "Stuffed golden haddock": [
+    31414
+  ],
+  "Stuffed huge halibut": [
+    31422
+  ],
+  "Stuffed hydra heads": [
+    23079
+  ],
+  "Stuffed kbd heads": [
+    7987
+  ],
+  "Stuffed kq head": [
+    7988
+  ],
+  "Stuffed kq head (tattered)": [
+    22673
+  ],
+  "Stuffed kurask head": [
+    7985
+  ],
+  "Stuffed orangefin": [
+    31418
+  ],
+  "Stuffed purplefin": [
+    31426
+  ],
+  "Stuffed swift marlin": [
+    31430
+  ],
+  "Sturdy beehive parts": [
+    28674
+  ],
+  "Sunstone crystal": [
+    34032
+  ],
+  "Super restore(4)": [
+    3024
+  ],
+  "Supercompost": [
+    6034
+  ],
+  "Swamp paste": [
+    1941
+  ],
+  "Swamp tar": [
+    1939
+  ],
+  "Swift albatross feather": [
+    31952
+  ],
+  "Tall box hedge (bagged)": [
+    8449
+  ],
+  "Tall fancy hedge (bagged)": [
+    8447
+  ],
+  "Te salt": [
+    22593
+  ],
+  "Teak hull parts": [
+    32047
+  ],
+  "Teak logs": [
+    6333
+  ],
+  "Teak plank": [
+    8780
+  ],
+  "Teleport to house (tablet)": [
+    8013
+  ],
+  "Thorny hedge (bagged)": [
+    8437
+  ],
+  "Tinderbox": [
+    590
+  ],
+  "Toktz-mej-tal": [
+    6526
+  ],
+  "Toktz-xil-ul": [
+    6522
+  ],
+  "Topiary hedge (bagged)": [
+    8443
+  ],
+  "Trailblazer globe": [
+    25093
+  ],
+  "Trailblazer rug": [
+    25096
+  ],
+  "Tzhaar-ket-om": [
+    6528
+  ],
+  "Unpowered orb": [
+    567
+  ],
+  "Urt salt": [
+    22597
+  ],
+  "Vorkath's stuffed head": [
+    21909
+  ],
+  "Water rune": [
+    555
+  ],
+  "Waxwood plank": [
+    24939
+  ],
+  "Willow logs": [
+    1519
+  ],
+  "Willow longbow": [
+    847
+  ],
+  "Willow longbow (u)": [
+    58
+  ],
+  "Willow shield": [
+    22254
+  ],
+  "Willow shortbow": [
+    849
+  ],
+  "Willow shortbow (u)": [
+    60
+  ],
+  "Willow stock": [
+    9444
+  ],
+  "Wooden hull parts": [
+    32041
+  ],
+  "Wool": [
+    1737
+  ],
+  "Xeric's talisman (inert)": [
+    13392
+  ],
+  "Yellow dye": [
+    1765
+  ],
+  "Yellow spice (4)": [
+    7492
+  ],
+  "Yew logs": [
+    1515
+  ],
+  "Yew longbow": [
+    855
+  ],
+  "Yew longbow (u)": [
+    66
+  ],
+  "Yew shield": [
+    22260
+  ],
+  "Yew shortbow": [
+    857
+  ],
+  "Yew shortbow (u)": [
+    68
+  ],
+  "Yew stock": [
+    9452
+  ],
+  "Zamorakian paint": [
+    32104
+  ]
+}

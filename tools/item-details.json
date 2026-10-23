@@ -1,0 +1,1594 @@
+{
+  "wooden-hull-raft": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32118,
+    "iconSymbol": "SAILING_SKILLGUIDE_REGULAR_HULL",
+    "source": "https://oldschool.runescape.wiki/w/Wooden_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "wooden-mast-and-linen-sails-raft": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32160,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_WOODEN",
+    "source": "https://oldschool.runescape.wiki/w/Wooden_mast_and_linen_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "bronze-helm-raft": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32139,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_BRONZE",
+    "source": "https://oldschool.runescape.wiki/w/Bronze_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-hull-raft": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32121,
+    "iconSymbol": "SAILING_SKILLGUIDE_OAK_HULL",
+    "source": "https://oldschool.runescape.wiki/w/Oak_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-mast-and-linen-sails-raft": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32163,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_mast_and_linen_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "iron-helm-raft": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32142,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_IRON",
+    "source": "https://oldschool.runescape.wiki/w/Iron_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-hull-raft": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32124,
+    "iconSymbol": "SAILING_SKILLGUIDE_TEAK_HULL",
+    "source": "https://oldschool.runescape.wiki/w/Teak_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-mast-and-canvas-sails-raft": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32166,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "steel-helm-raft": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32145,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_STEEL",
+    "source": "https://oldschool.runescape.wiki/w/Steel_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-hull-raft": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32127,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAHOGANY_HULL",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-mast-and-canvas-sails-raft": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32169,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "mithril-helm-raft": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32148,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_MITHRIL",
+    "source": "https://oldschool.runescape.wiki/w/Mithril_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "camphor-hull-raft": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32130,
+    "iconSymbol": "SAILING_SKILLGUIDE_CAMPHOR_HULL",
+    "source": "https://oldschool.runescape.wiki/w/Camphor_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "camphor-mast-and-canvas-sails-raft": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32172,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_CAMPHOR",
+    "source": "https://oldschool.runescape.wiki/w/Camphor_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "adamant-helm-raft": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32151,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_ADAMANT",
+    "source": "https://oldschool.runescape.wiki/w/Adamant_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "ironwood-hull-raft": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32133,
+    "iconSymbol": "SAILING_SKILLGUIDE_IRONWOOD_HULL",
+    "source": "https://oldschool.runescape.wiki/w/Ironwood_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "ironwood-mast-and-cotton-sails-raft": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32175,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_IRONWOOD",
+    "source": "https://oldschool.runescape.wiki/w/Ironwood_mast_and_cotton_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "rune-helm-raft": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32154,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_RUNE",
+    "source": "https://oldschool.runescape.wiki/w/Rune_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "rosewood-hull-raft": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32136,
+    "iconSymbol": "SAILING_SKILLGUIDE_ROSEWOOD_HULL",
+    "source": "https://oldschool.runescape.wiki/w/Rosewood_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "rosewood-mast-and-cotton-sails-raft": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32178,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_ROSEWOOD",
+    "source": "https://oldschool.runescape.wiki/w/Rosewood_mast_and_cotton_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "dragon-helm-raft": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32157,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_DRAGON",
+    "source": "https://oldschool.runescape.wiki/w/Dragon_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "wooden-hull-skiff": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32119,
+    "iconSymbol": "SAILING_SKILLGUIDE_REGULAR_HULL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Wooden_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "wooden-mast-and-linen-sails-skiff": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32161,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_WOODEN_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Wooden_mast_and_linen_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "bronze-helm-skiff": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32140,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_BRONZE_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Bronze_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "bronze-keel-skiff": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32181,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_BRONZE",
+    "source": "https://oldschool.runescape.wiki/w/Bronze_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-hull-skiff": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32122,
+    "iconSymbol": "SAILING_SKILLGUIDE_OAK_HULL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Oak_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-mast-and-linen-sails-skiff": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32164,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_OAK_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Oak_mast_and_linen_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "iron-helm-skiff": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32143,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_IRON_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Iron_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "iron-keel-skiff": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32183,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_IRON",
+    "source": "https://oldschool.runescape.wiki/w/Iron_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-hull-skiff": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32125,
+    "iconSymbol": "SAILING_SKILLGUIDE_TEAK_HULL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Teak_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-mast-and-canvas-sails-skiff": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32167,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_TEAK_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Teak_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "steel-helm-skiff": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32146,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_STEEL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Steel_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "steel-keel-skiff": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32185,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_STEEL",
+    "source": "https://oldschool.runescape.wiki/w/Steel_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-hull-skiff": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32128,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAHOGANY_HULL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-mast-and-canvas-sails-skiff": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32170,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_MAHOGANY_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "mithril-helm-skiff": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32149,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_MITHRIL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Mithril_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "mithril-keel-skiff": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32187,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_MITHRIL",
+    "source": "https://oldschool.runescape.wiki/w/Mithril_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "camphor-hull-skiff": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32131,
+    "iconSymbol": "SAILING_SKILLGUIDE_CAMPHOR_HULL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Camphor_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "camphor-mast-and-canvas-sails-skiff": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32173,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_CAMPHOR_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Camphor_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "adamant-helm-skiff": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32152,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_ADAMANT_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Adamant_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "adamant-keel-skiff": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32189,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_ADAMANT",
+    "source": "https://oldschool.runescape.wiki/w/Adamant_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "ironwood-hull-skiff": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32134,
+    "iconSymbol": "SAILING_SKILLGUIDE_IRONWOOD_HULL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Ironwood_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "ironwood-mast-and-cotton-sails-skiff": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32176,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_IRONWOOD_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Ironwood_mast_and_cotton_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "rune-helm-skiff": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32155,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_RUNE_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Rune_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "rune-keel-skiff": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32191,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_RUNE",
+    "source": "https://oldschool.runescape.wiki/w/Rune_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "rosewood-hull-skiff": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32137,
+    "iconSymbol": "SAILING_SKILLGUIDE_ROSEWOOD_HULL_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Rosewood_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "rosewood-mast-and-cotton-sails-skiff": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32179,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_ROSEWOOD_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Rosewood_mast_and_cotton_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "dragon-helm-skiff": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32158,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_DRAGON_SKIFF",
+    "source": "https://oldschool.runescape.wiki/w/Dragon_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "dragon-keel-skiff": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32193,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_DRAGON",
+    "source": "https://oldschool.runescape.wiki/w/Dragon_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "wooden-hull-sloop": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32120,
+    "iconSymbol": "SAILING_SKILLGUIDE_REGULAR_HULL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Wooden_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "wooden-mast-and-linen-sails-sloop": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32162,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_WOODEN_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Wooden_mast_and_linen_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "bronze-helm-sloop": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32141,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_BRONZE_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Bronze_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "bronze-keel-sloop": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32182,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_BRONZE_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Bronze_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-hull-sloop": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32123,
+    "iconSymbol": "SAILING_SKILLGUIDE_OAK_HULL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Oak_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-mast-and-linen-sails-sloop": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32165,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_OAK_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Oak_mast_and_linen_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "iron-helm-sloop": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32144,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_IRON_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Iron_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "iron-keel-sloop": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32184,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_IRON_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Iron_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-hull-sloop": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32126,
+    "iconSymbol": "SAILING_SKILLGUIDE_TEAK_HULL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Teak_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-mast-and-canvas-sails-sloop": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32168,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_TEAK_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Teak_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "steel-helm-sloop": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32147,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_STEEL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Steel_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "steel-keel-sloop": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32186,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_STEEL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Steel_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-hull-sloop": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32129,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAHOGANY_HULL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-mast-and-canvas-sails-sloop": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32171,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_MAHOGANY_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "mithril-helm-sloop": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32150,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_MITHRIL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Mithril_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "mithril-keel-sloop": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32188,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_MITHRIL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Mithril_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "camphor-hull-sloop": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32132,
+    "iconSymbol": "SAILING_SKILLGUIDE_CAMPHOR_HULL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Camphor_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "camphor-mast-and-canvas-sails-sloop": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32174,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_CAMPHOR_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Camphor_mast_and_canvas_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "adamant-helm-sloop": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32153,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_ADAMANT_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Adamant_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "adamant-keel-sloop": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32190,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_ADAMANT_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Adamant_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "ironwood-hull-sloop": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32135,
+    "iconSymbol": "SAILING_SKILLGUIDE_IRONWOOD_HULL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Ironwood_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "ironwood-mast-and-cotton-sails-sloop": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32177,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_IRONWOOD_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Ironwood_mast_and_cotton_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "rune-helm-sloop": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32156,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_RUNE_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Rune_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "rune-keel-sloop": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32192,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_RUNE_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Rune_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "rosewood-hull-sloop": {
+    "description": "The main body of your boat, affecting its health, defence and speed.",
+    "iconItemId": 32138,
+    "iconSymbol": "SAILING_SKILLGUIDE_ROSEWOOD_HULL_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Rosewood_hull",
+    "detailChecked": "2026-10-22"
+  },
+  "rosewood-mast-and-cotton-sails-sloop": {
+    "description": "Controls your boat\u2019s propulsion and its sailing speed boosts.",
+    "iconItemId": 32180,
+    "iconSymbol": "SAILING_SKILLGUIDE_MAST_ROSEWOOD_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Rosewood_mast_and_cotton_sails",
+    "detailChecked": "2026-10-22"
+  },
+  "dragon-helm-sloop": {
+    "description": "The steering station used to navigate your boat.",
+    "iconItemId": 32159,
+    "iconSymbol": "SAILING_SKILLGUIDE_HELM_DRAGON_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Dragon_helm",
+    "detailChecked": "2026-10-22"
+  },
+  "dragon-keel-sloop": {
+    "description": "Reinforces a skiff or sloop, increasing its health and armour.",
+    "iconItemId": 32194,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEEL_DRAGON_SLOOP",
+    "source": "https://oldschool.runescape.wiki/w/Dragon_keel",
+    "detailChecked": "2026-10-22"
+  },
+  "basic-cargo-hold": {
+    "description": "Stores permitted supplies and cargo aboard your boat. Capacity depends on the ship type.",
+    "iconItemId": 32213,
+    "iconSymbol": "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_REGULAR",
+    "source": "https://oldschool.runescape.wiki/w/Basic_cargo_hold",
+    "detailChecked": "2026-10-22"
+  },
+  "bronze-salvaging-hook": {
+    "description": "Retrieves salvage from shipwrecks. Higher tiers improve salvaging performance.",
+    "iconItemId": 32206,
+    "iconSymbol": "SAILING_SKILLGUIDE_SALVAGING_HOOK_BRONZE",
+    "source": "https://oldschool.runescape.wiki/w/Bronze_salvaging_hook",
+    "detailChecked": "2026-10-22"
+  },
+  "bronze-cannon": {
+    "description": "A ship-mounted weapon for boat combat. Using it has separate Ranged and crewmate requirements.",
+    "iconItemId": 32199,
+    "iconSymbol": "SAILING_SKILLGUIDE_BRONZE_CANNON",
+    "source": "https://oldschool.runescape.wiki/w/Bronze_cannon",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-cargo-hold": {
+    "description": "Stores permitted supplies and cargo aboard your boat. Capacity depends on the ship type.",
+    "iconItemId": 32214,
+    "iconSymbol": "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_cargo_hold",
+    "detailChecked": "2026-10-22"
+  },
+  "iron-salvaging-hook": {
+    "description": "Retrieves salvage from shipwrecks. Higher tiers improve salvaging performance.",
+    "iconItemId": 32207,
+    "iconSymbol": "SAILING_SKILLGUIDE_SALVAGING_HOOK_IRON",
+    "source": "https://oldschool.runescape.wiki/w/Iron_salvaging_hook",
+    "detailChecked": "2026-10-22"
+  },
+  "iron-cannon": {
+    "description": "A ship-mounted weapon for boat combat. Using it has separate Ranged and crewmate requirements.",
+    "iconItemId": 32200,
+    "iconSymbol": "SAILING_SKILLGUIDE_IRON_CANNON",
+    "source": "https://oldschool.runescape.wiki/w/Iron_cannon",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-cargo-hold": {
+    "description": "Stores permitted supplies and cargo aboard your boat. Capacity depends on the ship type.",
+    "iconItemId": 32215,
+    "iconSymbol": "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_cargo_hold",
+    "detailChecked": "2026-10-22"
+  },
+  "steel-salvaging-hook": {
+    "description": "Retrieves salvage from shipwrecks. Higher tiers improve salvaging performance.",
+    "iconItemId": 32208,
+    "iconSymbol": "SAILING_SKILLGUIDE_SALVAGING_HOOK_STEEL",
+    "source": "https://oldschool.runescape.wiki/w/Steel_salvaging_hook",
+    "detailChecked": "2026-10-22"
+  },
+  "steel-cannon": {
+    "description": "A ship-mounted weapon for boat combat. Using it has separate Ranged and crewmate requirements.",
+    "iconItemId": 32201,
+    "iconSymbol": "SAILING_SKILLGUIDE_STEEL_CANNON",
+    "source": "https://oldschool.runescape.wiki/w/Steel_cannon",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-cargo-hold": {
+    "description": "Stores permitted supplies and cargo aboard your boat. Capacity depends on the ship type.",
+    "iconItemId": 32216,
+    "iconSymbol": "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_cargo_hold",
+    "detailChecked": "2026-10-22"
+  },
+  "mithril-salvaging-hook": {
+    "description": "Retrieves salvage from shipwrecks. Higher tiers improve salvaging performance.",
+    "iconItemId": 32209,
+    "iconSymbol": "SAILING_SKILLGUIDE_SALVAGING_HOOK_MITHRIL",
+    "source": "https://oldschool.runescape.wiki/w/Mithril_salvaging_hook",
+    "detailChecked": "2026-10-22"
+  },
+  "mithril-cannon": {
+    "description": "A ship-mounted weapon for boat combat. Using it has separate Ranged and crewmate requirements.",
+    "iconItemId": 32202,
+    "iconSymbol": "SAILING_SKILLGUIDE_MITHRIL_CANNON",
+    "source": "https://oldschool.runescape.wiki/w/Mithril_cannon",
+    "detailChecked": "2026-10-22"
+  },
+  "camphor-cargo-hold": {
+    "description": "Stores permitted supplies and cargo aboard your boat. Capacity depends on the ship type.",
+    "iconItemId": 32217,
+    "iconSymbol": "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_CAMPHOR",
+    "source": "https://oldschool.runescape.wiki/w/Camphor_cargo_hold",
+    "detailChecked": "2026-10-22"
+  },
+  "adamant-salvaging-hook": {
+    "description": "Retrieves salvage from shipwrecks. Higher tiers improve salvaging performance.",
+    "iconItemId": 32210,
+    "iconSymbol": "SAILING_SKILLGUIDE_SALVAGING_HOOK_ADAMANT",
+    "source": "https://oldschool.runescape.wiki/w/Adamant_salvaging_hook",
+    "detailChecked": "2026-10-22"
+  },
+  "adamant-cannon": {
+    "description": "A ship-mounted weapon for boat combat. Using it has separate Ranged and crewmate requirements.",
+    "iconItemId": 32203,
+    "iconSymbol": "SAILING_SKILLGUIDE_ADAMANT_CANNON",
+    "source": "https://oldschool.runescape.wiki/w/Adamant_cannon",
+    "detailChecked": "2026-10-22"
+  },
+  "ironwood-cargo-hold": {
+    "description": "Stores permitted supplies and cargo aboard your boat. Capacity depends on the ship type.",
+    "iconItemId": 32218,
+    "iconSymbol": "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_IRONWOOD",
+    "source": "https://oldschool.runescape.wiki/w/Ironwood_cargo_hold",
+    "detailChecked": "2026-10-22"
+  },
+  "rune-salvaging-hook": {
+    "description": "Retrieves salvage from shipwrecks. Higher tiers improve salvaging performance.",
+    "iconItemId": 32211,
+    "iconSymbol": "SAILING_SKILLGUIDE_SALVAGING_HOOK_RUNE",
+    "source": "https://oldschool.runescape.wiki/w/Rune_salvaging_hook",
+    "detailChecked": "2026-10-22"
+  },
+  "rune-cannon": {
+    "description": "A ship-mounted weapon for boat combat. Using it has separate Ranged and crewmate requirements.",
+    "iconItemId": 32204,
+    "iconSymbol": "SAILING_SKILLGUIDE_RUNE_CANNON",
+    "source": "https://oldschool.runescape.wiki/w/Rune_cannon",
+    "detailChecked": "2026-10-22"
+  },
+  "rosewood-cargo-hold": {
+    "description": "Stores permitted supplies and cargo aboard your boat. Capacity depends on the ship type.",
+    "iconItemId": 32219,
+    "iconSymbol": "SAILING_SKILLGUIDE_BOAT_CARGO_HOLD_ROSEWOOD",
+    "source": "https://oldschool.runescape.wiki/w/Rosewood_cargo_hold",
+    "detailChecked": "2026-10-22"
+  },
+  "dragon-salvaging-hook": {
+    "description": "Retrieves salvage from shipwrecks. Higher tiers improve salvaging performance.",
+    "iconItemId": 32212,
+    "iconSymbol": "SAILING_SKILLGUIDE_SALVAGING_HOOK_DRAGON",
+    "source": "https://oldschool.runescape.wiki/w/Dragon_salvaging_hook",
+    "detailChecked": "2026-10-22"
+  },
+  "dragon-cannon": {
+    "description": "A ship-mounted weapon for boat combat. Using it has separate Ranged and crewmate requirements.",
+    "iconItemId": 32205,
+    "iconSymbol": "SAILING_SKILLGUIDE_DRAGON_CANNON",
+    "source": "https://oldschool.runescape.wiki/w/Dragon_cannon",
+    "detailChecked": "2026-10-22"
+  },
+  "range-facility": {
+    "description": "Cook food on board while away from a port.",
+    "iconItemId": 32230,
+    "iconSymbol": "SAILING_SKILLGUIDE_RANGE",
+    "source": "https://oldschool.runescape.wiki/w/Range_facility",
+    "detailChecked": "2026-10-22"
+  },
+  "keg": {
+    "description": "Stores suitable ales for drinking aboard your boat.",
+    "iconItemId": 32231,
+    "iconSymbol": "SAILING_SKILLGUIDE_KEG",
+    "source": "https://oldschool.runescape.wiki/w/Keg_(facility)",
+    "detailChecked": "2026-10-22"
+  },
+  "innoculation-station": {
+    "description": "Protects the boat while crossing the fetid waters of the Shrouded Ocean.",
+    "iconItemId": 32236,
+    "iconSymbol": "SAILING_SKILLGUIDE_FACILITY_INOCULATION_STATION",
+    "source": "https://oldschool.runescape.wiki/w/Innoculation_station",
+    "detailChecked": "2026-10-22",
+    "name": "Inoculation station"
+  },
+  "salvaging-station": {
+    "description": "Sort shipwreck salvage aboard a skiff or sloop instead of returning to a port. Requires the salvaging station schematic.",
+    "iconItemId": 32224,
+    "iconSymbol": "SAILING_SKILLGUIDE_SALVAGING_STATION",
+    "source": "https://oldschool.runescape.wiki/w/Salvaging_station_(facility)",
+    "detailChecked": "2026-10-22"
+  },
+  "chum-station": {
+    "description": "Cuts fish into regular offcuts and spreads them as bait while trawling.",
+    "iconItemId": 32225,
+    "iconSymbol": "SAILING_SKILLGUIDE_CHUM_STATION",
+    "source": "https://oldschool.runescape.wiki/w/Chum_station",
+    "detailChecked": "2026-10-22",
+    "stats": "Fish cut per tick: 2\nExtra catch chance with bait: 20%"
+  },
+  "bosun-s-workbench": {
+    "description": "Lets an assigned crewmate repair your boat using repair kits from the cargo hold.",
+    "iconItemId": 33420,
+    "iconSymbol": "SAILING_SKILLGUIDE_BOSUNS_WORKBENCH",
+    "source": "https://oldschool.runescape.wiki/w/Bosun%27s_workbench",
+    "detailChecked": "2026-10-22"
+  },
+  "advanced-chum-station": {
+    "description": "Cuts fish into offcuts and spreads regular or fine offcuts as trawling bait.",
+    "iconItemId": 32226,
+    "iconSymbol": "SAILING_SKILLGUIDE_CHUM_STATION_ADVANCED",
+    "source": "https://oldschool.runescape.wiki/w/Advanced_chum_station",
+    "detailChecked": "2026-10-22",
+    "stats": "Fish cut per tick: 3\nExtra catch chance with bait: 20%"
+  },
+  "chum-spreader": {
+    "description": "Processes fish into offcuts faster than the advanced chum station and spreads trawling bait.",
+    "iconItemId": 32227,
+    "iconSymbol": "SAILING_SKILLGUIDE_CHUM_SPREADER",
+    "source": "https://oldschool.runescape.wiki/w/Chum_spreader",
+    "detailChecked": "2026-10-22",
+    "stats": "Fish cut per tick: 4\nExtra catch chance with bait: 20%"
+  },
+  "wind-catcher": {
+    "description": "Stores wind motes that can be released for a burst of boat speed.",
+    "iconItemId": 32233,
+    "iconSymbol": "SAILING_SKILLGUIDE_WIND_CATCHER",
+    "source": "https://oldschool.runescape.wiki/w/Wind_catcher",
+    "detailChecked": "2026-10-22",
+    "stats": "Wind mote capacity: 2"
+  },
+  "crystal-extractor": {
+    "description": "Produces wind motes for a wind catcher or gale catcher while sailing.",
+    "iconItemId": 32235,
+    "iconSymbol": "SAILING_SKILLGUIDE_CRYSTAL_EXTRACTOR",
+    "source": "https://oldschool.runescape.wiki/w/Crystal_extractor",
+    "detailChecked": "2026-10-22"
+  },
+  "gale-catcher": {
+    "description": "An improved wind catcher that stores extra motes for bursts of speed.",
+    "iconItemId": 32234,
+    "iconSymbol": "SAILING_SKILLGUIDE_GALE_CATCHER",
+    "source": "https://oldschool.runescape.wiki/w/Gale_catcher",
+    "detailChecked": "2026-10-22",
+    "stats": "Wind mote capacity: 3"
+  },
+  "anchor-facility": {
+    "description": "Holds your boat in place at sea. The anchored boat can still turn.",
+    "iconItemId": 32232,
+    "iconSymbol": "SAILING_SKILLGUIDE_ANCHOR",
+    "source": "https://oldschool.runescape.wiki/w/Anchor_%28facility%29",
+    "detailChecked": "2026-10-22"
+  },
+  "ballistic-attractor": {
+    "description": "Recovers some cannonballs fired by cannons aboard your boat. Requires its schematic.",
+    "iconItemId": 33142,
+    "iconSymbol": "SAILING_SKILLGUIDE_BALLISTIC_ATTRACTOR",
+    "source": "https://oldschool.runescape.wiki/w/Ballistic_attractor",
+    "detailChecked": "2026-10-22",
+    "stats": "Cannonball recovery: 60%"
+  },
+  "teleport-focus-facility": {
+    "description": "Enables Summon Boat to bring your docked boat to your current dock or mooring. Summoning can lose some cargo.",
+    "iconItemId": 32237,
+    "iconSymbol": "SAILING_SKILLGUIDE_TELEPORTATION_FOCUS",
+    "source": "https://oldschool.runescape.wiki/w/Teleportation_focus_(facility)",
+    "detailChecked": "2026-10-22",
+    "name": "Teleportation focus (facility)"
+  },
+  "fathom-stone": {
+    "description": "Locates nearby fishing shoals and reports their direction.",
+    "iconItemId": 32228,
+    "iconSymbol": "SAILING_SKILLGUIDE_FATHOM_STONE",
+    "source": "https://oldschool.runescape.wiki/w/Fathom_stone",
+    "detailChecked": "2026-10-22"
+  },
+  "greater-teleport-focus": {
+    "description": "Enables Teleport to Boat as well as Summon Boat. The regular focus is not a required earlier build.",
+    "iconItemId": 32238,
+    "iconSymbol": "SAILING_SKILLGUIDE_TELEPORTATION_FOCUS_GREATER",
+    "source": "https://oldschool.runescape.wiki/w/Greater_teleportation_focus_(facility)",
+    "detailChecked": "2026-10-22",
+    "name": "Greater teleportation focus (facility)"
+  },
+  "fathom-pearl": {
+    "description": "Locates nearby fishing shoals and also marks their direction on the minimap.",
+    "iconItemId": 32229,
+    "iconSymbol": "SAILING_SKILLGUIDE_FATHOM_PEARL",
+    "source": "https://oldschool.runescape.wiki/w/Fathom_pearl",
+    "detailChecked": "2026-10-22"
+  },
+  "rope-trawling-net": {
+    "description": "Catches fish from suitable shoals while deep sea trawling.",
+    "iconItemId": 32220,
+    "iconSymbol": "SAILING_SKILLGUIDE_ROPE_TRAWLING_NET",
+    "source": "https://oldschool.runescape.wiki/w/Rope_trawling_net",
+    "detailChecked": "2026-10-22",
+    "stats": "Depths: Shallow\nMaximum fish per action: 2"
+  },
+  "linen-trawling-net": {
+    "description": "Catches fish from suitable shoals while deep sea trawling.",
+    "iconItemId": 32221,
+    "iconSymbol": "SAILING_SKILLGUIDE_LINEN_TRAWLING_NET",
+    "source": "https://oldschool.runescape.wiki/w/Linen_trawling_net",
+    "detailChecked": "2026-10-22",
+    "stats": "Depths: Shallow and moderate\nMaximum fish per action: 3"
+  },
+  "hemp-trawling-net": {
+    "description": "Catches fish from suitable shoals while deep sea trawling.",
+    "iconItemId": 32222,
+    "iconSymbol": "SAILING_SKILLGUIDE_HEMP_TRAWLING_NET",
+    "source": "https://oldschool.runescape.wiki/w/Hemp_trawling_net",
+    "detailChecked": "2026-10-22",
+    "stats": "Depths: All\nMaximum fish per action: 4",
+    "construction": 65
+  },
+  "cotton-trawling-net": {
+    "description": "Catches fish from suitable shoals while deep sea trawling.",
+    "iconItemId": 32223,
+    "iconSymbol": "SAILING_SKILLGUIDE_COTTON_TRAWLING_NET",
+    "source": "https://oldschool.runescape.wiki/w/Cotton_trawling_net",
+    "detailChecked": "2026-10-22",
+    "stats": "Depths: All\nMaximum fish per action: 5"
+  },
+  "oak-chair": {
+    "description": "Seating for your player-owned house.",
+    "iconItemId": 8312,
+    "iconSymbol": "POH_ARMCHAIR_4",
+    "source": "https://oldschool.runescape.wiki/w/Oak_chair",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-chest": {
+    "description": "A treasure-room chest for your house dungeon.",
+    "iconItemId": 8149,
+    "iconSymbol": "POH_TREASURE_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_chest",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-clock": {
+    "description": "A decorative clock for your house bedroom.",
+    "iconItemId": 8052,
+    "iconSymbol": "POH_CLOCK_1",
+    "source": "https://oldschool.runescape.wiki/w/Oak_clock",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-dining-table": {
+    "description": "A table for your player-owned house.",
+    "iconItemId": 8116,
+    "iconSymbol": "POH_DINING_TABLE_2",
+    "source": "https://oldschool.runescape.wiki/w/Oak_dining_table",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-display": {
+    "description": "A trophy display in the skill hall. Mounting a trophy requires the appropriate trophy item.",
+    "iconItemId": 30663,
+    "iconSymbol": "POH_TROPHY_FISH_BLANK_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_display",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-door": {
+    "description": "A door for the dungeon in your house.",
+    "iconItemId": 8122,
+    "iconSymbol": "POH_DUNGEON_DOOR_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_door",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-drawers": {
+    "description": "A bedroom furnishing used to change your character\u2019s default clothing.",
+    "iconItemId": 8039,
+    "iconSymbol": "POH_WARDROBE_2",
+    "source": "https://oldschool.runescape.wiki/w/Oak_drawers",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-kitchen-table": {
+    "description": "A table for your player-owned house.",
+    "iconItemId": 8247,
+    "iconSymbol": "POH_KITCHENTABLE_2",
+    "source": "https://oldschool.runescape.wiki/w/Oak_kitchen_table",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-ladder": {
+    "description": "Provides access between connected levels of your house.",
+    "iconItemId": 8306,
+    "iconSymbol": "POH_DUNGEON_LADDER_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_ladder",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-larder": {
+    "description": "Supplies cooking ingredients from your house kitchen.",
+    "iconItemId": 8234,
+    "iconSymbol": "POH_LARDER_2",
+    "source": "https://oldschool.runescape.wiki/w/Oak_larder",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-lectern": {
+    "description": "A study lectern for making supported magic tablets from soft clay and spell runes.",
+    "iconItemId": 8334,
+    "iconSymbol": "POH_LECTERN_1",
+    "source": "https://oldschool.runescape.wiki/w/Oak_lectern",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-lever": {
+    "description": "A throne-room lever used to operate the floor trap.",
+    "iconItemId": 8364,
+    "iconSymbol": "POH_LEVER_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_lever",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-trapdoor": {
+    "description": "Provides access between connected levels of your house.",
+    "iconItemId": 8367,
+    "iconSymbol": "POH_TRAPDOOR_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_trapdoor",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-trophy-case": {
+    "description": "Displays League trophies in the league hall.",
+    "iconItemId": 25353,
+    "iconSymbol": "POH_LEAGUEHALL_TROPHYCASE_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_trophy_case",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-wall-decoration": {
+    "description": "A decorative wall furnishing for your house.",
+    "iconItemId": 8102,
+    "iconSymbol": "POH_WALL_CREST_1",
+    "source": "https://oldschool.runescape.wiki/w/Oak_wall_decoration",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-wardrobe": {
+    "description": "A bedroom furnishing used to change your character\u2019s default clothing.",
+    "iconItemId": 8040,
+    "iconSymbol": "POH_WARDROBE_3",
+    "source": "https://oldschool.runescape.wiki/w/Oak_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "4-poster": {
+    "description": "A four-poster bed for your house bedroom.",
+    "iconItemId": 8036,
+    "iconSymbol": "POH_BED_6",
+    "source": "https://oldschool.runescape.wiki/w/4-poster",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-armchair": {
+    "description": "Seating for your player-owned house.",
+    "iconItemId": 8315,
+    "iconSymbol": "POH_ARMCHAIR_7",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_armchair",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-bench": {
+    "description": "Seating for your player-owned house.",
+    "iconItemId": 8113,
+    "iconSymbol": "POH_DINING_CHAIRS_6",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_bench",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-bookcase": {
+    "description": "A parlour bookcase for reading and retrieving eligible books.",
+    "iconItemId": 8321,
+    "iconSymbol": "POH_BOOKCASE_3",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_bookcase",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-chest": {
+    "description": "A treasure-room chest for your house dungeon.",
+    "iconItemId": 8167,
+    "iconSymbol": "POH_PRIZE_CHEST_3",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_chest",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-demon-lectern": {
+    "description": "A study lectern for making supported magic tablets from soft clay and spell runes.",
+    "iconItemId": 8340,
+    "iconSymbol": "POH_LECTERN_7",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_demon_lectern",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-display-fishing-trophy": {
+    "description": "A trophy display in the skill hall. Mounting a trophy requires the appropriate trophy item.",
+    "iconItemId": 30666,
+    "iconSymbol": "POH_TROPHY_FISH_BLANK_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_display_(fishing_trophy)",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-display-head-trophy": {
+    "description": "A trophy display in the skill hall. Mounting a trophy requires the appropriate trophy item.",
+    "iconItemId": 30651,
+    "iconSymbol": "POH_TROPHY_HEAD_BLANK_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_display_%28head_trophy%29",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-dresser": {
+    "description": "A bedroom furnishing used to change your character\u2019s appearance.",
+    "iconItemId": 8050,
+    "iconSymbol": "POH_MIRROR_6",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_dresser",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-eagle-lectern": {
+    "description": "A study lectern for making supported magic tablets from soft clay and spell runes.",
+    "iconItemId": 8339,
+    "iconSymbol": "POH_LECTERN_6",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_eagle_lectern",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-feeder": {
+    "description": "A pet feeder for the menagerie.",
+    "iconItemId": 12724,
+    "iconSymbol": "POH_MENAGERIE_PETFEEDER_3",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_feeder",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-ladder": {
+    "description": "Provides access between connected levels of your house.",
+    "iconItemId": 8308,
+    "iconSymbol": "POH_DUNGEON_LADDER_MAG",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_ladder",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-lever": {
+    "description": "A throne-room lever used to operate the floor trap.",
+    "iconItemId": 8366,
+    "iconSymbol": "POH_LEVER_MAG",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_lever",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-outfit-stand": {
+    "description": "An outfit display for the league hall.",
+    "iconItemId": 25358,
+    "iconSymbol": "POH_LEAGUEHALL_OUTFITSTAND_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_outfit_stand",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-portal": {
+    "description": "A portal frame for your portal chamber. Directing the portal requires separate teleport runes.",
+    "iconItemId": 8329,
+    "iconSymbol": "POH_PORTAL_FRAME_2",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_portal",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-prize-chest": {
+    "description": "A games-room chest used to provide prizes for house games.",
+    "iconItemId": 8151,
+    "iconSymbol": "POH_TREASURE_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_prize_chest",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-scratching-post": {
+    "description": "A scratching post for pets in the menagerie.",
+    "iconItemId": 12717,
+    "iconSymbol": "POH_MENAGERIE_SCRATCHINGPOST_3",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_scratching_post",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-table": {
+    "description": "A table for your player-owned house.",
+    "iconItemId": 8120,
+    "iconSymbol": "POH_DINING_TABLE_6",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_table",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-telescope": {
+    "description": "A study telescope used to look for shooting stars.",
+    "iconItemId": 8350,
+    "iconSymbol": "POH_TELESCOPE_3",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_telescope",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-throne": {
+    "description": "A seat for the throne room in your house.",
+    "iconItemId": 8359,
+    "iconSymbol": "POH_THRONE_3",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_throne",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-trapdoor": {
+    "description": "Provides access between connected levels of your house.",
+    "iconItemId": 8369,
+    "iconSymbol": "POH_TRAPDOOR_MAG",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_trapdoor",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-trophy-case": {
+    "description": "Displays League trophies in the league hall.",
+    "iconItemId": 25354,
+    "iconSymbol": "POH_LEAGUEHALL_TROPHYCASE_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_trophy_case",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-wardrobe": {
+    "description": "A bedroom furnishing used to change your character\u2019s default clothing.",
+    "iconItemId": 8043,
+    "iconSymbol": "POH_WARDROBE_6",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "hoop-and-stick": {
+    "description": "A ranging game for the games room in your house.",
+    "iconItemId": 8162,
+    "iconSymbol": "POH_RANGING_GAME_1",
+    "source": "https://oldschool.runescape.wiki/w/Hoop_and_stick",
+    "detailChecked": "2026-10-22"
+  },
+  "imp-statue": {
+    "description": "A decorative imp statue for your house garden.",
+    "iconItemId": 8171,
+    "iconSymbol": "POH_GARDEN_CENTREPIECE_4",
+    "source": "https://oldschool.runescape.wiki/w/Imp_statue",
+    "detailChecked": "2026-10-22"
+  },
+  "incense-burner-oak": {
+    "description": "Light these chapel burners with marrentill to increase the Prayer experience from offering bones at your altar.",
+    "iconItemId": 8073,
+    "iconSymbol": "POH_INCENSE_BURNER_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Incense_burner_(Oak)",
+    "detailChecked": "2026-10-22"
+  },
+  "incense-burner-mahogany": {
+    "description": "Light these chapel burners with marrentill to increase the Prayer experience from offering bones at your altar.",
+    "iconItemId": 8074,
+    "iconSymbol": "POH_INCENSE_BURNER_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Incense_burner_(Mahogany)",
+    "detailChecked": "2026-10-22"
+  },
+  "incense-burner-marble": {
+    "description": "Light these chapel burners with marrentill to increase the Prayer experience from offering bones at your altar.",
+    "iconItemId": 8075,
+    "iconSymbol": "POH_INCENSE_BURNER_MARBLE",
+    "source": "https://oldschool.runescape.wiki/w/Incense_burner_%28Marble%29",
+    "detailChecked": "2026-10-22"
+  },
+  "infernal-chart": {
+    "description": "A wall chart for the study.",
+    "iconItemId": 8356,
+    "iconSymbol": "POH_WALLCHART_3",
+    "source": "https://oldschool.runescape.wiki/w/Infernal_chart",
+    "detailChecked": "2026-10-22"
+  },
+  "organ": {
+    "description": "A playable musical furnishing for the house chapel.",
+    "iconItemId": 8081,
+    "iconSymbol": "POH_ORGAN",
+    "source": "https://oldschool.runescape.wiki/w/Organ",
+    "detailChecked": "2026-10-22"
+  },
+  "ornamental-globe": {
+    "description": "A decorative globe for the study.",
+    "iconItemId": 8342,
+    "iconSymbol": "POH_GLOBE_2",
+    "source": "https://oldschool.runescape.wiki/w/Ornamental_globe",
+    "detailChecked": "2026-10-22"
+  },
+  "ornate-banner-stand": {
+    "description": "Displays banners in the league hall.",
+    "iconItemId": 25356,
+    "iconSymbol": "POH_LEAGUEHALL_BANNERSTAND_DECORATIVE",
+    "source": "https://oldschool.runescape.wiki/w/Ornate_banner_stand",
+    "detailChecked": "2026-10-22"
+  },
+  "ornate-league-statue": {
+    "description": "A decorative statue for the league hall.",
+    "iconItemId": 25360,
+    "iconSymbol": "POH_LEAGUEHALL_STATUE_DECORATIVE",
+    "source": "https://oldschool.runescape.wiki/w/Ornate_league_statue",
+    "detailChecked": "2026-10-22"
+  },
+  "gilded-bench": {
+    "description": "Seating for your player-owned house.",
+    "iconItemId": 8114,
+    "iconSymbol": "POH_DINING_CHAIRS_7",
+    "source": "https://oldschool.runescape.wiki/w/Gilded_bench",
+    "detailChecked": "2026-10-22"
+  },
+  "gilded-clock": {
+    "description": "A decorative clock for your house bedroom.",
+    "iconItemId": 8054,
+    "iconSymbol": "POH_CLOCK_3",
+    "source": "https://oldschool.runescape.wiki/w/Gilded_clock",
+    "detailChecked": "2026-10-22"
+  },
+  "gilded-decoration": {
+    "description": "A decorative wall furnishing for your house.",
+    "iconItemId": 8104,
+    "iconSymbol": "POH_WALL_CREST_3",
+    "source": "https://oldschool.runescape.wiki/w/Gilded_decoration",
+    "detailChecked": "2026-10-22"
+  },
+  "gilded-display": {
+    "description": "A trophy display in the skill hall. Mounting a trophy requires the appropriate trophy item.",
+    "iconItemId": 30653,
+    "iconSymbol": "POH_TROPHY_HEAD_BLANK_GILDED",
+    "source": "https://oldschool.runescape.wiki/w/Gilded_display",
+    "detailChecked": "2026-10-22"
+  },
+  "gilded-dresser": {
+    "description": "A bedroom furnishing used to change your character\u2019s appearance.",
+    "iconItemId": 8051,
+    "iconSymbol": "POH_MIRROR_7",
+    "source": "https://oldschool.runescape.wiki/w/Gilded_dresser",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-armour-case": {
+    "description": "Stores eligible armour sets in the costume room. Higher tiers support more sets.",
+    "iconItemId": 9826,
+    "iconSymbol": "POH_COS_ROOM_ARMOUR_CASE_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_armour_case",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-armour-case": {
+    "description": "Stores eligible armour sets in the costume room. Higher tiers support more sets.",
+    "iconItemId": 9827,
+    "iconSymbol": "POH_COS_ROOM_ARMOUR_CASE_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_armour_case",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-armour-case": {
+    "description": "Stores eligible armour sets in the costume room. Higher tiers support more sets.",
+    "iconItemId": 9828,
+    "iconSymbol": "POH_COS_ROOM_ARMOUR_CASE_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_armour_case",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-fancy-dress-box": {
+    "description": "Stores eligible random-event costumes in the costume room.",
+    "iconItemId": 9823,
+    "iconSymbol": "POH_COS_ROOM_FANCY_DRESS_BOX_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_fancy_dress_box",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-fancy-dress-box": {
+    "description": "Stores eligible random-event costumes in the costume room.",
+    "iconItemId": 9824,
+    "iconSymbol": "POH_COS_ROOM_FANCY_DRESS_BOX_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_fancy_dress_box",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-fancy-dress-box": {
+    "description": "Stores eligible random-event costumes in the costume room.",
+    "iconItemId": 9825,
+    "iconSymbol": "POH_COS_ROOM_FANCY_DRESS_BOX_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_fancy_dress_box",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-treasure-chest": {
+    "description": "Stores eligible Treasure Trails rewards in the costume room. The tier controls which clue tiers it accepts.",
+    "iconItemId": 9839,
+    "iconSymbol": "POH_COS_ROOM_TREASURE_CHEST_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_treasure_chest",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-treasure-chest": {
+    "description": "Stores eligible Treasure Trails rewards in the costume room. The tier controls which clue tiers it accepts.",
+    "iconItemId": 9840,
+    "iconSymbol": "POH_COS_ROOM_TREASURE_CHEST_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_treasure_chest",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-treasure-chest": {
+    "description": "Stores eligible Treasure Trails rewards in the costume room. The tier controls which clue tiers it accepts.",
+    "iconItemId": 9841,
+    "iconSymbol": "POH_COS_ROOM_TREASURE_CHEST_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_treasure_chest",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-cape-rack": {
+    "description": "Stores eligible capes in the costume room. Higher tiers increase cape-of-accomplishment storage.",
+    "iconItemId": 9817,
+    "iconSymbol": "POH_COS_ROOM_CAPE_RACK_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_cape_rack",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-cape-rack": {
+    "description": "Stores eligible capes in the costume room. Higher tiers increase cape-of-accomplishment storage.",
+    "iconItemId": 9818,
+    "iconSymbol": "POH_COS_ROOM_CAPE_RACK_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_cape_rack",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-cape-rack": {
+    "description": "Stores eligible capes in the costume room. Higher tiers increase cape-of-accomplishment storage.",
+    "iconItemId": 9819,
+    "iconSymbol": "POH_COS_ROOM_CAPE_RACK_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_cape_rack",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-toy-box": {
+    "description": "Stores eligible holiday-event toys and rewards in the costume room.",
+    "iconItemId": 9836,
+    "iconSymbol": "POH_COS_ROOM_TOY_BOX_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_toy_box",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-toy-box": {
+    "description": "Stores eligible holiday-event toys and rewards in the costume room.",
+    "iconItemId": 9837,
+    "iconSymbol": "POH_COS_ROOM_TOY_BOX_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_toy_box",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-toy-box": {
+    "description": "Stores eligible holiday-event toys and rewards in the costume room.",
+    "iconItemId": 9838,
+    "iconSymbol": "POH_COS_ROOM_TOY_BOX_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_toy_box",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-magic-wardrobe": {
+    "description": "Stores eligible magic armour and clothing sets in the costume room. Storage limits depend on the wardrobe tier.",
+    "iconItemId": 9829,
+    "iconSymbol": "POH_COS_ROOM_MAGIC_WARDROBE_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_magic_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "carved-oak-magic-wardrobe": {
+    "description": "Stores eligible magic armour and clothing sets in the costume room. Storage limits depend on the wardrobe tier.",
+    "iconItemId": 9830,
+    "iconSymbol": "POH_COS_ROOM_MAGIC_WARDROBE_CARVED_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Carved_oak_magic_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-magic-wardrobe": {
+    "description": "Stores eligible magic armour and clothing sets in the costume room. Storage limits depend on the wardrobe tier.",
+    "iconItemId": 9831,
+    "iconSymbol": "POH_COS_ROOM_MAGIC_WARDROBE_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_magic_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "carved-teak-magic-wardrobe": {
+    "description": "Stores eligible magic armour and clothing sets in the costume room. Storage limits depend on the wardrobe tier.",
+    "iconItemId": 9832,
+    "iconSymbol": "POH_COS_ROOM_MAGIC_WARDROBE_TEAK_CARVED",
+    "source": "https://oldschool.runescape.wiki/w/Carved_teak_magic_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-magic-wardrobe": {
+    "description": "Stores eligible magic armour and clothing sets in the costume room. Storage limits depend on the wardrobe tier.",
+    "iconItemId": 9833,
+    "iconSymbol": "POH_COS_ROOM_MAGIC_WARDROBE_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_magic_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "gilded-magic-wardrobe": {
+    "description": "Stores eligible magic armour and clothing sets in the costume room. Storage limits depend on the wardrobe tier.",
+    "iconItemId": 9834,
+    "iconSymbol": "POH_COS_ROOM_MAGIC_WARDROBE_MAHOGANY_GILDED",
+    "source": "https://oldschool.runescape.wiki/w/Gilded_magic_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "marble-magic-wardrobe": {
+    "description": "Stores eligible magic armour and clothing sets in the costume room. Storage limits depend on the wardrobe tier.",
+    "iconItemId": 9835,
+    "iconSymbol": "POH_COS_ROOM_MAGIC_WARDROBE_MARBLE",
+    "source": "https://oldschool.runescape.wiki/w/Marble_magic_wardrobe",
+    "detailChecked": "2026-10-22"
+  },
+  "gilded-cape-rack": {
+    "description": "Stores eligible capes in the costume room. Higher tiers increase cape-of-accomplishment storage.",
+    "iconItemId": 9820,
+    "iconSymbol": "POH_COS_ROOM_CAPE_RACK_MAHOGANY_GILDED",
+    "source": "https://oldschool.runescape.wiki/w/Gilded_cape_rack",
+    "detailChecked": "2026-10-22"
+  },
+  "marble-cape-rack": {
+    "description": "Stores eligible capes in the costume room. Higher tiers increase cape-of-accomplishment storage.",
+    "iconItemId": 9821,
+    "iconSymbol": "POH_COS_ROOM_CAPE_RACK_MARBLE",
+    "source": "https://oldschool.runescape.wiki/w/Marble_cape_rack",
+    "detailChecked": "2026-10-22"
+  },
+  "magical-cape-rack": {
+    "description": "Stores eligible capes in the costume room. Higher tiers increase cape-of-accomplishment storage.",
+    "iconItemId": 9822,
+    "iconSymbol": "POH_COS_ROOM_CAPE_RACK_MAGIC_STONE",
+    "source": "https://oldschool.runescape.wiki/w/Magical_cape_rack",
+    "detailChecked": "2026-10-22"
+  },
+  "restoration-pool": {
+    "description": "Restores special attack energy outside the PvP combat restriction.",
+    "iconItemId": 20639,
+    "iconSymbol": "POH_SUPERIOR_GARDEN_POOL_RESTORATION",
+    "source": "https://oldschool.runescape.wiki/w/Restoration_pool",
+    "detailChecked": "2026-10-22"
+  },
+  "revitalisation-pool": {
+    "description": "Restores special attack energy and run energy outside the PvP combat restriction.",
+    "iconItemId": 20640,
+    "iconSymbol": "POH_SUPERIOR_GARDEN_POOL_REVITALISATION",
+    "source": "https://oldschool.runescape.wiki/w/Revitalisation_pool",
+    "detailChecked": "2026-10-22"
+  },
+  "rejuvenation-pool": {
+    "description": "Restores special attack energy, run energy and Prayer points outside the PvP combat restriction.",
+    "iconItemId": 20641,
+    "iconSymbol": "POH_SUPERIOR_GARDEN_POOL_REJUVENATION",
+    "source": "https://oldschool.runescape.wiki/w/Rejuvenation_pool",
+    "detailChecked": "2026-10-22"
+  },
+  "fancy-rejuvenation-pool": {
+    "description": "Restores special attack energy, run energy, Prayer and reduced stats, excluding Hitpoints.",
+    "iconItemId": 20642,
+    "iconSymbol": "POH_SUPERIOR_GARDEN_POOL_RECOVERY",
+    "source": "https://oldschool.runescape.wiki/w/Fancy_rejuvenation_pool",
+    "detailChecked": "2026-10-22"
+  },
+  "ornate-rejuvenation-pool": {
+    "description": "Restores Hitpoints, special attack, run energy, Prayer and reduced stats, and cures harmful statuses. PvP restrictions apply.",
+    "iconItemId": 20643,
+    "iconSymbol": "POH_SUPERIOR_GARDEN_POOL_REGENERATION",
+    "source": "https://oldschool.runescape.wiki/w/Ornate_rejuvenation_pool",
+    "detailChecked": "2026-10-22"
+  },
+  "basic-jewellery-box": {
+    "description": "Provides reusable teleports from games necklaces and rings of dueling.",
+    "iconItemId": 20626,
+    "iconSymbol": "POH_ACHIEVEMENTGALLERY_JEWELLERYBOX_1",
+    "source": "https://oldschool.runescape.wiki/w/Basic_jewellery_box",
+    "detailChecked": "2026-10-22"
+  },
+  "fancy-jewellery-box": {
+    "description": "Adds skills necklace and combat bracelet teleports to the basic jewellery box destinations.",
+    "iconItemId": 20627,
+    "iconSymbol": "POH_ACHIEVEMENTGALLERY_JEWELLERYBOX_2",
+    "source": "https://oldschool.runescape.wiki/w/Fancy_jewellery_box",
+    "detailChecked": "2026-10-22"
+  },
+  "ornate-jewellery-box": {
+    "description": "Adds amulet of glory and ring of wealth teleports to the earlier jewellery box destinations.",
+    "iconItemId": 20628,
+    "iconSymbol": "POH_ACHIEVEMENTGALLERY_JEWELLERYBOX_3",
+    "source": "https://oldschool.runescape.wiki/w/Ornate_jewellery_box",
+    "detailChecked": "2026-10-22"
+  },
+  "marble-portal-nexus": {
+    "description": "Stores multiple teleport destinations in one house furnishing. Attuning teleports requires separate runes.",
+    "iconItemId": 22705,
+    "iconSymbol": "POH_PORTAL_NEXUS_1",
+    "source": "https://oldschool.runescape.wiki/w/Marble_portal_nexus",
+    "detailChecked": "2026-10-22",
+    "stats": "Teleport capacity: 4"
+  },
+  "gilded-portal-nexus": {
+    "description": "Stores multiple teleport destinations in one house furnishing. Attuning teleports requires separate runes.",
+    "iconItemId": 22706,
+    "iconSymbol": "POH_PORTAL_NEXUS_2",
+    "source": "https://oldschool.runescape.wiki/w/Gilded_portal_nexus",
+    "detailChecked": "2026-10-22",
+    "stats": "Teleport capacity: 8"
+  },
+  "crystalline-portal-nexus": {
+    "description": "Stores multiple teleport destinations in one house furnishing. Attuning teleports requires separate runes.",
+    "iconItemId": 22707,
+    "iconSymbol": "POH_PORTAL_NEXUS_3",
+    "source": "https://oldschool.runescape.wiki/w/Crystalline_portal_nexus",
+    "detailChecked": "2026-10-22",
+    "stats": "Teleport capacity: all supported destinations"
+  },
+  "oak-altar": {
+    "description": "A chapel altar for restoring Prayer and offering bones. Prayer experience depends on the altar and lit incense burners.",
+    "iconItemId": 8062,
+    "iconSymbol": "POH_ALTAR_OAK",
+    "source": "https://oldschool.runescape.wiki/w/Oak_altar",
+    "detailChecked": "2026-10-22"
+  },
+  "teak-altar": {
+    "description": "A chapel altar for restoring Prayer and offering bones. Prayer experience depends on the altar and lit incense burners.",
+    "iconItemId": 8063,
+    "iconSymbol": "POH_ALTAR_TEAK",
+    "source": "https://oldschool.runescape.wiki/w/Teak_altar",
+    "detailChecked": "2026-10-22"
+  },
+  "cloth-altar": {
+    "description": "A chapel altar for restoring Prayer and offering bones. Prayer experience depends on the altar and lit incense burners.",
+    "iconItemId": 8064,
+    "iconSymbol": "POH_ALTAR_TEAK_CLOTH",
+    "source": "https://oldschool.runescape.wiki/w/Cloth_altar",
+    "detailChecked": "2026-10-22"
+  },
+  "mahogany-altar": {
+    "description": "A chapel altar for restoring Prayer and offering bones. Prayer experience depends on the altar and lit incense burners.",
+    "iconItemId": 8065,
+    "iconSymbol": "POH_ALTAR_MAHOGANY",
+    "source": "https://oldschool.runescape.wiki/w/Mahogany_altar",
+    "detailChecked": "2026-10-22"
+  },
+  "limestone-altar": {
+    "description": "A chapel altar for restoring Prayer and offering bones. Prayer experience depends on the altar and lit incense burners.",
+    "iconItemId": 8066,
+    "iconSymbol": "POH_ALTAR_LIMESTONE",
+    "source": "https://oldschool.runescape.wiki/w/Limestone_altar",
+    "detailChecked": "2026-10-22"
+  },
+  "marble-altar": {
+    "description": "A chapel altar for restoring Prayer and offering bones. Prayer experience depends on the altar and lit incense burners.",
+    "iconItemId": 8067,
+    "iconSymbol": "POH_ALTAR_MARBLE",
+    "source": "https://oldschool.runescape.wiki/w/Marble_altar",
+    "detailChecked": "2026-10-22"
+  },
+  "gilded-altar": {
+    "description": "A chapel altar for restoring Prayer and offering bones. Prayer experience depends on the altar and lit incense burners.",
+    "iconItemId": 8068,
+    "iconSymbol": "POH_ALTAR_MARBLE_GILT",
+    "source": "https://oldschool.runescape.wiki/w/Guild_alter",
+    "detailChecked": "2026-10-22"
+  },
+  "wooden-workbench": {
+    "description": "A workshop bench for making flatpack furniture. Higher tiers unlock more advanced furniture.",
+    "iconItemId": 8375,
+    "iconSymbol": "POH_WORKBENCH_1",
+    "source": "https://oldschool.runescape.wiki/w/Wooden_workbench",
+    "detailChecked": "2026-10-22"
+  },
+  "oak-workbench": {
+    "description": "A workshop bench for making flatpack furniture. Higher tiers unlock more advanced furniture.",
+    "iconItemId": 8376,
+    "iconSymbol": "POH_WORKBENCH_2",
+    "source": "https://oldschool.runescape.wiki/w/Oak_workbench",
+    "detailChecked": "2026-10-22"
+  },
+  "steel-framed-workbench": {
+    "description": "A workshop bench for making flatpack furniture. Higher tiers unlock more advanced furniture.",
+    "iconItemId": 8377,
+    "iconSymbol": "POH_WORKBENCH_3",
+    "source": "https://oldschool.runescape.wiki/w/Steel_framed_workbench",
+    "detailChecked": "2026-10-22"
+  },
+  "bench-with-vice": {
+    "description": "A workshop bench for making flatpack furniture. Higher tiers unlock more advanced furniture.",
+    "iconItemId": 8378,
+    "iconSymbol": "POH_WORKBENCH_4",
+    "source": "https://oldschool.runescape.wiki/w/Bench_with_vice",
+    "detailChecked": "2026-10-22"
+  },
+  "bench-with-lathe": {
+    "description": "A workshop bench for making flatpack furniture. Higher tiers unlock more advanced furniture.",
+    "iconItemId": 8379,
+    "iconSymbol": "POH_WORKBENCH_5",
+    "source": "https://oldschool.runescape.wiki/w/Bench_with_lathe",
+    "detailChecked": "2026-10-22"
+  },
+  "crude-wooden-chair": {
+    "description": "Seating for your player-owned house.",
+    "iconItemId": 8309,
+    "iconSymbol": "POH_ARMCHAIR_1",
+    "source": "https://oldschool.runescape.wiki/w/Crude_wooden_chair",
+    "detailChecked": "2026-10-22"
+  },
+  "quest-list": {
+    "description": "Displays your quest progress in the achievement gallery.",
+    "iconItemId": 20633,
+    "iconSymbol": "POH_ACHIEVEMENTGALLERY_QUESTLIST",
+    "source": "https://oldschool.runescape.wiki/w/Quest_list_(Construction)",
+    "detailChecked": "2026-10-22"
+  },
+  "mounted-xeric-s-talisman": {
+    "description": "Provides house access to unlocked Xeric's talisman destinations.",
+    "iconItemId": 22708,
+    "iconSymbol": "POH_AMULET_XERIC",
+    "source": "https://oldschool.runescape.wiki/w/Xerics_poh",
+    "detailChecked": "2026-10-22"
+  },
+  "mounted-digsite-pendant": {
+    "description": "Provides house access to unlocked digsite pendant destinations.",
+    "iconItemId": 22709,
+    "iconSymbol": "POH_AMULET_DIGSITE",
+    "source": "https://oldschool.runescape.wiki/w/Mounted_digsite_pendant",
+    "detailChecked": "2026-10-22"
+  }
+}

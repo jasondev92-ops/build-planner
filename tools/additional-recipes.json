@@ -1,0 +1,704 @@
+[
+  {
+    "id": "teak-armchair",
+    "name": "Teak armchair",
+    "category": "House",
+    "construction": 35,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_armchair",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A seat for the parlour.",
+    "iconItemId": 8314,
+    "iconSymbol": "POH_ARMCHAIR_6"
+  },
+  {
+    "id": "teak-chest",
+    "name": "Teak chest",
+    "category": "House",
+    "construction": 83,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 5,
+      "Steel bar": 4
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_chest",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A treasure chest for the treasure room.",
+    "iconItemId": 8150,
+    "iconSymbol": "POH_TREASURE_TEAK"
+  },
+  {
+    "id": "teak-clock",
+    "name": "Teak clock",
+    "category": "House",
+    "construction": 55,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2,
+      "Clockwork": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_clock",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A clock for the bedroom.",
+    "iconItemId": 8053,
+    "iconSymbol": "POH_CLOCK_2"
+  },
+  {
+    "id": "teak-demon-lectern",
+    "name": "Teak demon lectern",
+    "category": "House",
+    "construction": 57,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_demon_lectern",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A study lectern used to make selected magic tablets. Check the Wiki for available spells.",
+    "iconItemId": 8338,
+    "iconSymbol": "POH_LECTERN_5"
+  },
+  {
+    "id": "teak-dining-bench",
+    "name": "Teak dining bench",
+    "category": "House",
+    "construction": 38,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 4
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_dining_bench",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "Seating for the dining room.",
+    "iconItemId": 8111,
+    "iconSymbol": "POH_DINING_CHAIRS_4"
+  },
+  {
+    "id": "teak-display-fishing-trophy",
+    "name": "Teak display (fishing trophy)",
+    "category": "House",
+    "construction": 56,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_display_(fishing_trophy)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "An empty fishing trophy display. The trophy itself is not included.",
+    "iconItemId": 30664,
+    "iconSymbol": "POH_TROPHY_FISH_BLANK_TEAK"
+  },
+  {
+    "id": "teak-display-head-trophy",
+    "name": "Teak display (head trophy)",
+    "category": "House",
+    "construction": 38,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_display_(head_trophy)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "An empty head trophy display. The stuffed head is not included.",
+    "iconItemId": 30650,
+    "iconSymbol": "POH_TROPHY_HEAD_BLANK_TEAK"
+  },
+  {
+    "id": "teak-drawers",
+    "name": "Teak drawers",
+    "category": "House",
+    "construction": 51,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_drawers",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "Drawers for the bedroom.",
+    "iconItemId": 8041,
+    "iconSymbol": "POH_WARDROBE_4"
+  },
+  {
+    "id": "teak-kitchen-table",
+    "name": "Teak kitchen table",
+    "category": "House",
+    "construction": 52,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 3
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_kitchen_table",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A table for the kitchen.",
+    "iconItemId": 8248,
+    "iconSymbol": "POH_KITCHENTABLE_3"
+  },
+  {
+    "id": "teak-ladder",
+    "name": "Teak ladder",
+    "category": "House",
+    "construction": 78,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 5
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_ladder",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A ladder for the oubliette.",
+    "iconItemId": 8307,
+    "iconSymbol": "POH_DUNGEON_LADDER_TEAK"
+  },
+  {
+    "id": "teak-larder",
+    "name": "Teak larder",
+    "category": "House",
+    "construction": 43,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 8,
+      "Bolt of cloth": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_larder",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A kitchen larder that supplies cooking ingredients.",
+    "iconItemId": 8235,
+    "iconSymbol": "POH_LARDER_3"
+  },
+  {
+    "id": "teak-scratching-post",
+    "name": "Teak scratching post",
+    "category": "House",
+    "construction": 49,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2,
+      "Limestone brick": 1,
+      "Rope": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_scratching_post",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A scratching post for pets in the menagerie.",
+    "iconItemId": 12716,
+    "iconSymbol": "POH_MENAGERIE_SCRATCHINGPOST_2"
+  },
+  {
+    "id": "teak-shelves-1",
+    "name": "Teak shelves 1",
+    "category": "House",
+    "construction": 56,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 3,
+      "Soft clay": 6
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_shelves_1",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "Kitchen shelves that provide cooking utensils and tea-making supplies.",
+    "iconItemId": 8228,
+    "iconSymbol": "POH_KITCHEN_SHELVES_6"
+  },
+  {
+    "id": "teak-shelves-2",
+    "name": "Teak shelves 2",
+    "category": "House",
+    "construction": 67,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 3,
+      "Soft clay": 6,
+      "Gold leaf": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_shelves_2",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "Kitchen shelves that provide cooking utensils and tea-making supplies.",
+    "iconItemId": 8229,
+    "iconSymbol": "POH_KITCHEN_SHELVES_7"
+  },
+  {
+    "id": "teak-staircase",
+    "name": "Teak staircase",
+    "category": "House",
+    "construction": 48,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 10,
+      "Steel bar": 4
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_staircase",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A staircase connecting floors of your house.",
+    "iconItemId": 8252,
+    "iconSymbol": "POH_STAIRS_TEAK"
+  },
+  {
+    "id": "teak-table",
+    "name": "Teak table",
+    "category": "House",
+    "construction": 38,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 4
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_table",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A dining room table.",
+    "iconItemId": 8118,
+    "iconSymbol": "POH_DINING_TABLE_4"
+  },
+  {
+    "id": "teak-telescope",
+    "name": "Teak telescope",
+    "category": "House",
+    "construction": 64,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2,
+      "Molten glass": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_telescope",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A telescope for the study.",
+    "iconItemId": 8349,
+    "iconSymbol": "POH_TELESCOPE_2"
+  },
+  {
+    "id": "teak-throne",
+    "name": "Teak throne",
+    "category": "House",
+    "construction": 67,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 5,
+      "Marble block": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_throne",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A throne for the throne room.",
+    "iconItemId": 8358,
+    "iconSymbol": "POH_THRONE_2"
+  },
+  {
+    "id": "teak-wall-decoration",
+    "name": "Teak wall decoration",
+    "category": "House",
+    "construction": 36,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_wall_decoration",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "Decorative wall furnishings for compatible house rooms.",
+    "iconItemId": 8103,
+    "iconSymbol": "POH_WALL_CREST_2"
+  },
+  {
+    "id": "teak-wardrobe",
+    "name": "Teak wardrobe",
+    "category": "House",
+    "construction": 63,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 3
+    },
+    "source": "https://oldschool.runescape.wiki/w/Teak_wardrobe",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A bedroom wardrobe. This is different from the costume room magic wardrobe.",
+    "iconItemId": 8042,
+    "iconSymbol": "POH_WARDROBE_5"
+  },
+  {
+    "id": "carved-teak-table",
+    "name": "Carved teak table",
+    "category": "House",
+    "construction": 45,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 6,
+      "Bolt of cloth": 4
+    },
+    "source": "https://oldschool.runescape.wiki/w/Carved_teak_table",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A carved dining room table.",
+    "iconItemId": 8119,
+    "iconSymbol": "POH_DINING_TABLE_5"
+  },
+  {
+    "id": "cat-basket",
+    "name": "Cat basket",
+    "category": "House",
+    "construction": 19,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Plank": 2,
+      "Nails (any metal)": 2
+    },
+    "source": "https://oldschool.runescape.wiki/w/Cat_basket",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Nail quantities are minimums; bring extras for bending.",
+    "description": "A basket for your cat in the kitchen.",
+    "iconItemId": 8237,
+    "iconSymbol": "POH_CAT_BASKET_2"
+  },
+  {
+    "id": "cat-blanket",
+    "name": "Cat blanket",
+    "category": "House",
+    "construction": 5,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Bolt of cloth": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Cat_blanket",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A blanket for your cat in the kitchen.",
+    "iconItemId": 8236,
+    "iconSymbol": "POH_CAT_BASKET_1"
+  },
+  {
+    "id": "celestial-globe",
+    "name": "Celestial globe",
+    "category": "House",
+    "construction": 68,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 3,
+      "Gold leaf": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Celestial_globe",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A decorative globe for the study.",
+    "iconItemId": 8344,
+    "iconSymbol": "POH_GLOBE_4"
+  },
+  {
+    "id": "combat-dummy",
+    "name": "Combat dummy",
+    "category": "House",
+    "construction": 48,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 5,
+      "Bolt of cloth": 4,
+      "Bucket of sand": 5
+    },
+    "source": "https://oldschool.runescape.wiki/w/Combat_dummy",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A combat dummy for the combat room.",
+    "iconItemId": 20745,
+    "iconSymbol": "POH_COMBAT_DUMMY"
+  },
+  {
+    "id": "combat-ring",
+    "name": "Combat ring",
+    "category": "House",
+    "construction": 51,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 6,
+      "Bolt of cloth": 6
+    },
+    "source": "https://oldschool.runescape.wiki/w/Combat_ring",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A ring for friendly combat in the combat room.",
+    "iconItemId": 8025,
+    "iconSymbol": "POH_COMBAT_RING_3"
+  },
+  {
+    "id": "crystal-ball",
+    "name": "Crystal ball",
+    "category": "House",
+    "construction": 42,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Teak plank": 3,
+      "Unpowered orb": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Crystal_ball",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "",
+    "description": "A crystal ball for the study.",
+    "iconItemId": 8351,
+    "iconSymbol": "POH_CRYSTALBALL_1"
+  },
+  {
+    "id": "water-pump-amenity",
+    "name": "Water pump (amenity)",
+    "category": "Sailing",
+    "construction": 17,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Iron bar": 2,
+      "Bucket": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Water_pump_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: Vatrachos Island (46), The Onyx Crest (47), Laguna Aurorae (58), Sunbleak Island (72). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11547,
+    "iconSymbol": "PATTERN_SACK_EMPTY_DUMMY"
+  },
+  {
+    "id": "cooking-pot-amenity",
+    "name": "Cooking pot (amenity)",
+    "category": "Sailing",
+    "construction": 19,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Iron bar": 2,
+      "Logs": 2,
+      "Tinderbox": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Cooking_pot_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: Chinchompa Island (42), Anglers\u2019 Retreat (51), Laguna Aurorae (58), The Crown Jewel (64), Sunbleak Island (72). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11548,
+    "iconSymbol": "PATTERN_BASKET_EMPTY_DUMMY"
+  },
+  {
+    "id": "spinning-wheel-amenity",
+    "name": "Spinning wheel (amenity)",
+    "category": "Sailing",
+    "construction": 24,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Iron bar": 2,
+      "Oak plank": 2,
+      "Ball of wool": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Spinning_wheel_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: Anglers\u2019 Retreat (51). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11645,
+    "iconSymbol": "PATTERN_ONION_SEED_4_DUMMY"
+  },
+  {
+    "id": "potter-s-wheel-amenity",
+    "name": "Potter's wheel (amenity)",
+    "category": "Sailing",
+    "construction": 24,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Iron bar": 2,
+      "Oak plank": 2,
+      "Ball of wool": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Potter's_wheel_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: Vatrachos Island (46). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11549,
+    "iconSymbol": "PATTERN_STRAWBERRY_DUMMY"
+  },
+  {
+    "id": "loom-amenity",
+    "name": "Loom (amenity)",
+    "category": "Sailing",
+    "construction": 31,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Iron bar": 1,
+      "Oak plank": 2,
+      "Rope": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Loom_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: Laguna Aurorae (58). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11550,
+    "iconSymbol": "PATTERN_REDBERRY_DUMMY"
+  },
+  {
+    "id": "pottery-oven-amenity",
+    "name": "Pottery oven (amenity)",
+    "category": "Sailing",
+    "construction": 37,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Limestone brick": 4,
+      "Coal": 1,
+      "Tinderbox": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Pottery_oven_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: Vatrachos Island (46). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11551,
+    "iconSymbol": "PATTERN_TINDERBOX_DUMMY"
+  },
+  {
+    "id": "anvil-amenity",
+    "name": "Anvil (amenity)",
+    "category": "Sailing",
+    "construction": 43,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Iron bar": 4,
+      "Lead bar": 4
+    },
+    "source": "https://oldschool.runescape.wiki/w/Anvil_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: Charred Island (60), Buccaneers\u2019 Haven (76). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11646,
+    "iconSymbol": "PATTERN_UNLIT_CANDLE_DUMMY"
+  },
+  {
+    "id": "rowboat-amenity",
+    "name": "Rowboat (amenity)",
+    "category": "Sailing",
+    "construction": 50,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Camphor plank": 8,
+      "Swamp paste": 10
+    },
+    "source": "https://oldschool.runescape.wiki/w/Rowboat_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: Vatrachos Island (46), Anglers\u2019 Retreat (51), Tear of the Soul (61), Ynysdail (73), Buccaneers\u2019 Haven (76). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11552,
+    "iconSymbol": "PATTERN_CANDLE_LANTERN_UNLIT_DUMMY"
+  },
+  {
+    "id": "furnace-amenity",
+    "name": "Furnace (amenity)",
+    "category": "Sailing",
+    "construction": 56,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Steel bar": 8,
+      "Coal": 2,
+      "Tinderbox": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Furnace_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: The Onyx Crest (47), Buccaneers\u2019 Haven (76). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11553,
+    "iconSymbol": "PATTERN_HAMMER_DUMMY"
+  },
+  {
+    "id": "bank-chest-amenity",
+    "name": "Bank chest (amenity)",
+    "category": "Sailing",
+    "construction": 70,
+    "sailing": 0,
+    "boat": "Any",
+    "materials": {
+      "Ironwood plank": 4,
+      "Adamantite bar": 2,
+      "Cupronickel bar": 2,
+      "Magic stone": 1
+    },
+    "source": "https://oldschool.runescape.wiki/w/Bank_chest_(amenity)",
+    "checked": "2026-10-23",
+    "previous": null,
+    "notes": "Locations and Sailing docking levels: The Onyx Crest (47), Charred Island (60), Deepfin Mine (67, two chests), Sunbleak Island (72), Buccaneers\u2019 Haven (76). Island access, quests and boat requirements still apply; the level filter checks Construction only for this entry. Bring a hammer and saw.",
+    "description": "An island amenity built at a dedicated hotspot. The materials listed are for one build.",
+    "iconItemId": 11647,
+    "iconSymbol": "PATTERN_FRUIT_BLAST_DUMMY"
+  }
+]

@@ -1,0 +1,32 @@
+name: Missing or incorrect recipe
+description: Report missing builds, incorrect ingredients, levels, pictures or Wiki links.
+title: "[Recipe] "
+body:
+  - type: input
+    id: item
+    attributes:
+      label: Exact item or build name
+    validations:
+      required: true
+  - type: input
+    id: context
+    attributes:
+      label: Boat, room or location (if applicable)
+      placeholder: "For example: Skiff, kitchen, or Vatrachos Island"
+  - type: textarea
+    id: correction
+    attributes:
+      label: What is missing or incorrect?
+      description: Include the correct materials, quantities or requirements if you know them.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: OSRS Wiki link (optional)
+      description: A link to the specific item page helps us verify the recipe.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Game screenshot or other evidence (optional)
+      description: A screenshot of the game's build menu is useful. Remove private information first.

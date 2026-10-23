@@ -1,0 +1,102 @@
+[
+  {
+    "id": "crystal-extractor",
+    "before": [
+      67,
+      73,
+      {
+        "Ironwood plank": 6,
+        "Cupronickel bar": 5,
+        "Magic stone": 2,
+        "Heart of Ithell": 1
+      }
+    ],
+    "after": [
+      67,
+      73,
+      {
+        "Ironwood plank": 6,
+        "Cupronickel bar": 5,
+        "Magic stone": 2
+      }
+    ],
+    "row": 185
+  },
+  {
+    "id": "gale-catcher",
+    "before": [
+      70,
+      79,
+      {
+        "Camphor plank": 4,
+        "Adamantite nails": 16,
+        "Adamantite bar": 8,
+        "Cupronickel bar": 4,
+        "Air rune": 25000,
+        "Captured wind mote": 1,
+        "Swift albatross feather": 5
+      }
+    ],
+    "after": [
+      70,
+      79,
+      {
+        "Camphor plank": 4,
+        "Adamantite nails": 16,
+        "Adamantite bar": 8,
+        "Cupronickel bar": 4,
+        "Air rune": 25000,
+        "Swift albatross feather": 5
+      }
+    ],
+    "row": 258
+  },
+  {
+    "id": "keg",
+    "before": [
+      25,
+      33,
+      {
+        "Oak plank": 5,
+        "Iron nails": 20,
+        "Barrel stand": 1
+      }
+    ],
+    "after": [
+      25,
+      33,
+      {
+        "Oak plank": 5,
+        "Iron nails": 20
+      }
+    ],
+    "row": 339
+  },
+  {
+    "id": "wind-catcher",
+    "before": [
+      47,
+      53,
+      {
+        "Teak plank": 4,
+        "Steel nails": 16,
+        "Steel bar": 8,
+        "Lead bar": 4,
+        "Air rune": 10000,
+        "Captured wind mote": 1
+      }
+    ],
+    "after": [
+      47,
+      53,
+      {
+        "Teak plank": 4,
+        "Steel nails": 16,
+        "Steel bar": 8,
+        "Lead bar": 4,
+        "Air rune": 10000
+      }
+    ],
+    "row": 912
+  }
+]

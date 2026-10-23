@@ -1,0 +1,450 @@
+{
+  "Adamant heraldic helm (Arrav)": [
+    22159,
+    "POH_HELMET_ARRAV_ADAMANT"
+  ],
+  "Adamant heraldic helm (Asgarnia)": [
+    22161,
+    "POH_HELMET_ASGARNIA_ADAMANT"
+  ],
+  "Adamant heraldic helm (Dorgeshuun)": [
+    22163,
+    "POH_HELMET_DORGESHUUN_ADAMANT"
+  ],
+  "Adamant heraldic helm (Dragon)": [
+    22165,
+    "POH_HELMET_DRAGON_ADAMANT"
+  ],
+  "Adamant heraldic helm (Fairy)": [
+    22167,
+    "POH_HELMET_FAIRY_ADAMANT"
+  ],
+  "Adamant heraldic helm (Guthix)": [
+    22169,
+    "POH_HELMET_GUTHIX_ADAMANT"
+  ],
+  "Adamant heraldic helm (HAM)": [
+    22171,
+    "POH_HELMET_HAM_ADAMANT"
+  ],
+  "Adamant heraldic helm (Horse)": [
+    22173,
+    "POH_HELMET_HORSE_ADAMANT"
+  ],
+  "Adamant heraldic helm (Jogre)": [
+    22175,
+    "POH_HELMET_JOGRE_ADAMANT"
+  ],
+  "Adamant heraldic helm (Kandarin)": [
+    22177,
+    "POH_HELMET_KANDARIN_ADAMANT"
+  ],
+  "Adamant heraldic helm (Misthalin)": [
+    22179,
+    "POH_HELMET_MISTHALIN_ADAMANT"
+  ],
+  "Adamant heraldic helm (Money)": [
+    22181,
+    "POH_HELMET_MONEY_ADAMANT"
+  ],
+  "Adamant heraldic helm (Saradomin)": [
+    22183,
+    "POH_HELMET_SARADOMIN_ADAMANT"
+  ],
+  "Adamant heraldic helm (Skull)": [
+    22185,
+    "POH_HELMET_SKULL_ADAMANT"
+  ],
+  "Adamant heraldic helm (Varrock)": [
+    22187,
+    "POH_HELMET_VARROCK_ADAMANT"
+  ],
+  "Adamant heraldic helm (Zamorak)": [
+    22189,
+    "POH_HELMET_ZAMORAK_ADAMANT"
+  ],
+  "Adamant kiteshield (Arrav)": [
+    22127,
+    "POH_SHIELD_ARRAV_ADAMANT"
+  ],
+  "Adamant kiteshield (Asgarnia)": [
+    22129,
+    "POH_SHIELD_ASGARNIA_ADAMANT"
+  ],
+  "Adamant kiteshield (Dorgeshuun)": [
+    22131,
+    "POH_SHIELD_DORGESHUUN_ADAMANT"
+  ],
+  "Adamant kiteshield (Dragon)": [
+    22133,
+    "POH_SHIELD_DRAGON_ADAMANT"
+  ],
+  "Adamant kiteshield (Fairy)": [
+    22135,
+    "POH_SHIELD_FAIRY_ADAMANT"
+  ],
+  "Adamant kiteshield (Guthix)": [
+    22137,
+    "POH_SHIELD_GUTHIX_ADAMANT"
+  ],
+  "Adamant kiteshield (HAM)": [
+    22139,
+    "POH_SHIELD_HAM_ADAMANT"
+  ],
+  "Adamant kiteshield (Horse)": [
+    22141,
+    "POH_SHIELD_HORSE_ADAMANT"
+  ],
+  "Adamant kiteshield (Jogre)": [
+    22143,
+    "POH_SHIELD_JOGRE_ADAMANT"
+  ],
+  "Adamant kiteshield (Kandarin)": [
+    22145,
+    "POH_SHIELD_KANDARIN_ADAMANT"
+  ],
+  "Adamant kiteshield (Misthalin)": [
+    22147,
+    "POH_SHIELD_MISTHALIN_ADAMANT"
+  ],
+  "Adamant kiteshield (Money)": [
+    22149,
+    "POH_SHIELD_MONEY_ADAMANT"
+  ],
+  "Adamant kiteshield (Saradomin)": [
+    22151,
+    "POH_SHIELD_SARADOMIN_ADAMANT"
+  ],
+  "Adamant kiteshield (Skull)": [
+    22153,
+    "POH_SHIELD_SKULL_ADAMANT"
+  ],
+  "Adamant kiteshield (Varrock)": [
+    22155,
+    "POH_SHIELD_VARROCK_ADAMANT"
+  ],
+  "Adamant kiteshield (Zamorak)": [
+    22157,
+    "POH_SHIELD_ZAMORAK_ADAMANT"
+  ],
+  "Banner (Arrav)": [
+    8650,
+    "POH_BANNER_ARRAV"
+  ],
+  "Banner (Asgarnia)": [
+    8652,
+    "POH_BANNER_ASGARNIA"
+  ],
+  "Banner (Dorgeshuun)": [
+    8654,
+    "POH_BANNER_DORGESHUUN"
+  ],
+  "Banner (Dragon)": [
+    8656,
+    "POH_BANNER_DRAGON"
+  ],
+  "Banner (Fairy)": [
+    8658,
+    "POH_BANNER_FAIRY"
+  ],
+  "Banner (Guthix)": [
+    8660,
+    "POH_BANNER_GUTHIX"
+  ],
+  "Banner (HAM)": [
+    8662,
+    "POH_BANNER_HAM"
+  ],
+  "Banner (Horse)": [
+    8664,
+    "POH_BANNER_HORSE"
+  ],
+  "Banner (Jogre)": [
+    8666,
+    "POH_BANNER_JOGRE"
+  ],
+  "Banner (Kandarin)": [
+    8668,
+    "POH_BANNER_KANDARIN"
+  ],
+  "Banner (Misthalin)": [
+    8670,
+    "POH_BANNER_MISTHALIN"
+  ],
+  "Banner (Money)": [
+    8672,
+    "POH_BANNER_MONEY"
+  ],
+  "Banner (Saradomin)": [
+    8674,
+    "POH_BANNER_SARADOMIN"
+  ],
+  "Banner (Skull)": [
+    8676,
+    "POH_BANNER_SKULL"
+  ],
+  "Banner (Varrock)": [
+    8678,
+    "POH_BANNER_VARROCK"
+  ],
+  "Banner (Zamorak)": [
+    8680,
+    "POH_BANNER_ZAMORAK"
+  ],
+  "Rune heraldic helm (Arrav)": [
+    8464,
+    "POH_HELMET_ARRAV_RUNE"
+  ],
+  "Rune heraldic helm (Asgarnia)": [
+    8466,
+    "POH_HELMET_ASGARNIA_RUNE"
+  ],
+  "Rune heraldic helm (Dorgeshuun)": [
+    8468,
+    "POH_HELMET_DORGESHUUN_RUNE"
+  ],
+  "Rune heraldic helm (Dragon)": [
+    8470,
+    "POH_HELMET_DRAGON_RUNE"
+  ],
+  "Rune heraldic helm (Fairy)": [
+    8472,
+    "POH_HELMET_FAIRY_RUNE"
+  ],
+  "Rune heraldic helm (Guthix)": [
+    8474,
+    "POH_HELMET_GUTHIX_RUNE"
+  ],
+  "Rune heraldic helm (HAM)": [
+    8476,
+    "POH_HELMET_HAM_RUNE"
+  ],
+  "Rune heraldic helm (Horse)": [
+    8478,
+    "POH_HELMET_HORSE_RUNE"
+  ],
+  "Rune heraldic helm (Jogre)": [
+    8480,
+    "POH_HELMET_JOGRE_RUNE"
+  ],
+  "Rune heraldic helm (Kandarin)": [
+    8482,
+    "POH_HELMET_KANDARIN_RUNE"
+  ],
+  "Rune heraldic helm (Misthalin)": [
+    8484,
+    "POH_HELMET_MISTHALIN_RUNE"
+  ],
+  "Rune heraldic helm (Money)": [
+    8486,
+    "POH_HELMET_MONEY_RUNE"
+  ],
+  "Rune heraldic helm (Saradomin)": [
+    8488,
+    "POH_HELMET_SARADOMIN_RUNE"
+  ],
+  "Rune heraldic helm (Skull)": [
+    8490,
+    "POH_HELMET_SKULL_RUNE"
+  ],
+  "Rune heraldic helm (Varrock)": [
+    8492,
+    "POH_HELMET_VARROCK_RUNE"
+  ],
+  "Rune heraldic helm (Zamorak)": [
+    8494,
+    "POH_HELMET_ZAMORAK_RUNE"
+  ],
+  "Rune kiteshield (Arrav)": [
+    8714,
+    "POH_SHIELD_ARRAV_RUNE"
+  ],
+  "Rune kiteshield (Asgarnia)": [
+    8716,
+    "POH_SHIELD_ASGARNIA_RUNE"
+  ],
+  "Rune kiteshield (Dorgeshuun)": [
+    8718,
+    "POH_SHIELD_DORGESHUUN_RUNE"
+  ],
+  "Rune kiteshield (Dragon)": [
+    8720,
+    "POH_SHIELD_DRAGON_RUNE"
+  ],
+  "Rune kiteshield (Fairy)": [
+    8722,
+    "POH_SHIELD_FAIRY_RUNE"
+  ],
+  "Rune kiteshield (Guthix)": [
+    8724,
+    "POH_SHIELD_GUTHIX_RUNE"
+  ],
+  "Rune kiteshield (HAM)": [
+    8726,
+    "POH_SHIELD_HAM_RUNE"
+  ],
+  "Rune kiteshield (Horse)": [
+    8728,
+    "POH_SHIELD_HORSE_RUNE"
+  ],
+  "Rune kiteshield (Jogre)": [
+    8730,
+    "POH_SHIELD_JOGRE_RUNE"
+  ],
+  "Rune kiteshield (Kandarin)": [
+    8732,
+    "POH_SHIELD_KANDARIN_RUNE"
+  ],
+  "Rune kiteshield (Misthalin)": [
+    8734,
+    "POH_SHIELD_MISTHALIN_RUNE"
+  ],
+  "Rune kiteshield (Money)": [
+    8736,
+    "POH_SHIELD_MONEY_RUNE"
+  ],
+  "Rune kiteshield (Saradomin)": [
+    8738,
+    "POH_SHIELD_SARADOMIN_RUNE"
+  ],
+  "Rune kiteshield (Skull)": [
+    8740,
+    "POH_SHIELD_SKULL_RUNE"
+  ],
+  "Rune kiteshield (Varrock)": [
+    8742,
+    "POH_SHIELD_VARROCK_RUNE"
+  ],
+  "Rune kiteshield (Zamorak)": [
+    8744,
+    "POH_SHIELD_ZAMORAK_RUNE"
+  ],
+  "Steel heraldic helm (Arrav)": [
+    8682,
+    "POH_HELMET_ARRAV"
+  ],
+  "Steel heraldic helm (Asgarnia)": [
+    8684,
+    "POH_HELMET_ASGARNIA"
+  ],
+  "Steel heraldic helm (Dorgeshuun)": [
+    8686,
+    "POH_HELMET_DORGESHUUN"
+  ],
+  "Steel heraldic helm (Dragon)": [
+    8688,
+    "POH_HELMET_DRAGON"
+  ],
+  "Steel heraldic helm (Fairy)": [
+    8690,
+    "POH_HELMET_FAIRY"
+  ],
+  "Steel heraldic helm (Guthix)": [
+    8692,
+    "POH_HELMET_GUTHIX"
+  ],
+  "Steel heraldic helm (HAM)": [
+    8694,
+    "POH_HELMET_HAM"
+  ],
+  "Steel heraldic helm (Horse)": [
+    8696,
+    "POH_HELMET_HORSE"
+  ],
+  "Steel heraldic helm (Jogre)": [
+    8698,
+    "POH_HELMET_JOGRE"
+  ],
+  "Steel heraldic helm (Kandarin)": [
+    8700,
+    "POH_HELMET_KANDARIN"
+  ],
+  "Steel heraldic helm (Misthalin)": [
+    8702,
+    "POH_HELMET_MISTHALIN"
+  ],
+  "Steel heraldic helm (Money)": [
+    8704,
+    "POH_HELMET_MONEY"
+  ],
+  "Steel heraldic helm (Saradomin)": [
+    8706,
+    "POH_HELMET_SARADOMIN"
+  ],
+  "Steel heraldic helm (Skull)": [
+    8708,
+    "POH_HELMET_SKULL"
+  ],
+  "Steel heraldic helm (Varrock)": [
+    8710,
+    "POH_HELMET_VARROCK"
+  ],
+  "Steel heraldic helm (Zamorak)": [
+    8712,
+    "POH_HELMET_ZAMORAK"
+  ],
+  "Steel kiteshield (Arrav)": [
+    8746,
+    "POH_SHIELD_ARRAV"
+  ],
+  "Steel kiteshield (Asgarnia)": [
+    8748,
+    "POH_SHIELD_ASGARNIA"
+  ],
+  "Steel kiteshield (Dorgeshuun)": [
+    8750,
+    "POH_SHIELD_DORGESHUUN"
+  ],
+  "Steel kiteshield (Dragon)": [
+    8752,
+    "POH_SHIELD_DRAGON"
+  ],
+  "Steel kiteshield (Fairy)": [
+    8754,
+    "POH_SHIELD_FAIRY"
+  ],
+  "Steel kiteshield (Guthix)": [
+    8756,
+    "POH_SHIELD_GUTHIX"
+  ],
+  "Steel kiteshield (HAM)": [
+    8758,
+    "POH_SHIELD_HAM"
+  ],
+  "Steel kiteshield (Horse)": [
+    8760,
+    "POH_SHIELD_HORSE"
+  ],
+  "Steel kiteshield (Jogre)": [
+    8762,
+    "POH_SHIELD_JOGRE"
+  ],
+  "Steel kiteshield (Kandarin)": [
+    8764,
+    "POH_SHIELD_KANDARIN"
+  ],
+  "Steel kiteshield (Misthalin)": [
+    8766,
+    "POH_SHIELD_MISTHALIN"
+  ],
+  "Steel kiteshield (Money)": [
+    8768,
+    "POH_SHIELD_MONEY"
+  ],
+  "Steel kiteshield (Saradomin)": [
+    8770,
+    "POH_SHIELD_SARADOMIN"
+  ],
+  "Steel kiteshield (Skull)": [
+    8772,
+    "POH_SHIELD_SKULL"
+  ],
+  "Steel kiteshield (Varrock)": [
+    8774,
+    "POH_SHIELD_VARROCK"
+  ],
+  "Steel kiteshield (Zamorak)": [
+    8776,
+    "POH_SHIELD_ZAMORAK"
+  ]
+}
