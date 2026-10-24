@@ -1,3 +1,7 @@
+# 0.1.7 update
+
+52 tests pass. A populated saved plan restores when its profile data is supplied; null, empty and whitespace profile data each produce a separate empty My builds project with no entries or owned counts. Production resources contain only recipes, material mappings and release metadata. No personal saved plans are bundled. Removed the obsolete unreviewed notice; saved-state keys and schema are unchanged.
+
 # 0.1.6 update
 
 0.1.6: 51 JUnit tests pass against RuneLite 1.13.3 with Java 11 bytecode. Independent source audit accounts for all 960 rows and checks all 33 upgrade totals and 326 material mappings. Real Swing preview inspected at 242 × 800. No full Gradle dependency-resolution run or live-game run performed here; the launcher retains its existing unchecked-varargs warning.

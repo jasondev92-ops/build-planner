@@ -153,7 +153,27 @@ public class FeaturesTest
     {
         assertEquals(739,catalogue.search("","Construction","All boats").size());
         assertEquals(182,catalogue.search("","Sailing","All boats").size());
-        assertEquals("0.1.6-beta",ReleaseInfo.version());
+        assertEquals("0.1.7-beta",ReleaseInfo.version());
         assertEquals("https://github.com/jasondev92-ops/build-planner/issues/new/choose",ReleaseInfo.feedbackUrl());
+    }
+    @Test public void freshProfilesDoNotInheritAnotherProfilesSavedPlan()
+    {
+        Planner existing = Planner.fresh(catalogue);
+        existing.rename("Private test project");
+        existing.add("oak-chair", 3, false);
+        existing.owned("Oak plank", 4);
+        String saved = existing.encode(gson);
+        for (String empty : new String[]{null, "", "   "}) {
+            Planner fresh = Planner.decode(catalogue, gson, empty);
+            assertEquals(1, fresh.state.projects.size());
+            assertEquals("My builds", fresh.current().name);
+            assertTrue(fresh.current().entries.isEmpty());
+            assertTrue(fresh.current().owned.isEmpty());
+            assertTrue(fresh.materials().isEmpty());
+        }
+        Planner restored = Planner.decode(catalogue, gson, saved);
+        assertEquals("Private test project", restored.current().name);
+        assertEquals(3, restored.current().entries.get(0).quantity);
+        assertEquals(Long.valueOf(4), restored.current().owned.get("Oak plank"));
     }
 }

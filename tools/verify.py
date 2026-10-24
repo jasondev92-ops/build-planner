@@ -24,10 +24,10 @@ runtime=os.pathsep.join([str(classes),str(root/'src/main/resources'),classpath])
 subprocess.run(['java','-Djava.awt.headless=true','-cp',runtime,'org.junit.runner.JUnitCore','com.buildplanner.PlannerTest','com.buildplanner.SuppliesTest','com.buildplanner.FeaturesTest'],check=True)
 subprocess.run(['java','-Djava.awt.headless=true','-cp',runtime,'com.buildplanner.PreviewRenderer',str(build/'previews')],check=True)
 dist=root/'dist';dist.mkdir(exist_ok=True)
-jar=dist/'build-planner-0.1.6-beta.jar'
+jar=dist/'build-planner-0.1.7-beta.jar'
 production={p.stem for p in (root/'src/main/java/com/buildplanner').glob('*.java')}
 with zipfile.ZipFile(jar,'w',zipfile.ZIP_DEFLATED) as z:
-    z.writestr('META-INF/MANIFEST.MF','Manifest-Version: 1.0\r\nImplementation-Title: Build Planner\r\nImplementation-Version: 0.1.6-beta\r\n\r\n')
+    z.writestr('META-INF/MANIFEST.MF','Manifest-Version: 1.0\r\nImplementation-Title: Build Planner\r\nImplementation-Version: 0.1.7-beta\r\n\r\n')
     for p in sorted(classes.rglob('*.class')):
         if p.stem.split('$')[0] in production:
             data=p.read_bytes();assert int.from_bytes(data[6:8],'big')==55

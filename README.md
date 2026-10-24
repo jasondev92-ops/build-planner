@@ -1,4 +1,4 @@
-# Build Planner — 0.1.6 beta
+# Build Planner — 0.1.7 beta
 
 A RuneLite sidebar for Construction and Sailing recipes, saved projects, combined materials, bank/inventory counts and estimated costs.
 
@@ -6,7 +6,11 @@ A RuneLite sidebar for Construction and Sailing recipes, saved projects, combine
 
 The version appears in the header's upper-right corner. The subtitle is **Construction & Sailing**. Use **Info → Suggestions & bug reports** to open [the feedback forms](https://github.com/jasondev92-ops/build-planner/issues/new/choose).
 
-**Validation:** Java 11 bytecode compiled against RuneLite 1.13.3; 51 automated tests pass. All 33 source upgrade totals match the planner's expanded requirements; all 326 material names have bank-item mappings. 649 entries have named game-icon mappings; 272 explicitly show “Image not yet verified”. The previously tested features remain, but this expanded catalogue still needs live-game acceptance testing. Not submitted to or reviewed by the Plugin Hub.
+**Validation:** Java 11 bytecode compiled against RuneLite 1.13.3; 52 automated tests pass. All 33 source upgrade totals match the planner's expanded requirements; all 326 material names have bank-item mappings. 649 entries have named game-icon mappings; 272 explicitly show “Image not yet verified”. The previously tested features remain, but this expanded catalogue still needs live-game acceptance testing. Available in the RuneLite Plugin Hub following review of the initial release.
+
+## Changes in 0.1.7
+
+Removed the outdated unreviewed notice and clarified that saved projects belong to the RuneLite configuration profile. Development and public installations using the same profile restore the same plans. New profiles start with an empty “My builds” project; no personal plans are bundled. Existing saves are preserved.
 
 ## Changes in 0.1.6
 
@@ -100,7 +104,7 @@ Build is pinned to RuneLite 1.13.3 for reproducibility. If that client is outdat
 
 - `src/main/java/com/buildplanner`: plugin, Swing UI, catalogue and planning logic.
 - `src/main/resources/com/buildplanner/recipes.json`: bundled recipes with source URLs.
-- `src/test/java/com/buildplanner`: 51 tests, development launcher and real Swing preview renderer.
+- `src/test/java/com/buildplanner`: 52 tests, development launcher and real Swing preview renderer.
 - `tools/catalogue.py`: reproducible catalogue generator (Python standard library only).
 - `tools/verify.py`: alternate compiler/test route used here with a Java 17 runtime and checksum-verified dependencies.
 - `docs/VALIDATION.md`: exact checks and remaining local acceptance steps.
@@ -116,6 +120,6 @@ The plugin reads bank/inventory quantities and the client account hash to isolat
 
 ## Public release
 
-Before submission, complete live-client testing and confirm data licensing/attribution requirements with reviewers. This package has not been submitted. Official process: https://github.com/runelite/plugin-hub .
+Before submission, complete live-client testing and confirm data licensing/attribution requirements with reviewers. The initial release was accepted in Plugin Hub PR #19284. Subsequent updates use separate review requests. Official process: https://github.com/runelite/plugin-hub .
 
 Original code is BSD-2-Clause. Wiki-derived data has separate attribution and licensing in `DATA-LICENSE.md`. RuneScape is owned by Jagex; this project is unaffiliated with Jagex or RuneLite.
