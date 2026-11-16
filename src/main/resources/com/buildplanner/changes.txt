@@ -1,0 +1,11 @@
+0.1.9-beta
+
+• A tidier List tab: separate summary and material cards, with required quantities beside each material name.
+• What's new is always available here in Info. The sidebar notice can be dismissed once per version.
+• Useful recipe descriptions explain what constructions do, with Wiki links for more detail.
+
+Previously in 0.1.8
+
+• Per-build materials in Plan, with quantities and earlier upgrades included.
+• Expandable Plan cards with room labels.
+• Room filters in Find and Plan.

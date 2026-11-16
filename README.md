@@ -1,4 +1,4 @@
-# Build Planner — 0.1.8 beta
+# Build Planner — 0.1.9 beta
 
 A RuneLite sidebar for Construction and Sailing recipes, saved projects, combined materials, bank/inventory counts and estimated costs.
 
@@ -6,7 +6,14 @@ A RuneLite sidebar for Construction and Sailing recipes, saved projects, combine
 
 The version appears in the header's upper-right corner. The subtitle is **Construction & Sailing**. Use **Info → Suggestions & bug reports** to open [the feedback forms](https://github.com/jasondev92-ops/build-planner/issues/new/choose).
 
-**Validation:** Java 11 bytecode compiled against RuneLite 1.13.3; 57 automated tests pass. All 33 source upgrade totals match the planner's expanded requirements; all 326 material names have bank-item mappings. 649 entries have named game-icon mappings; 272 explicitly show “Image not yet verified”. The previously tested features remain, but this expanded catalogue still needs live-game acceptance testing. Available in the RuneLite Plugin Hub following review of the initial release.
+**Validation:** Java 11 bytecode compiled against RuneLite 1.13.3; 61 automated tests pass. All 33 source upgrade totals match the planner's expanded requirements; all 326 material names have bank-item mappings. 649 entries have named game-icon mappings; 272 explicitly show “Image not yet verified”. The previously tested features remain, but this expanded catalogue still needs live-game acceptance testing. Available in the RuneLite Plugin Hub following review of the initial release.
+
+## Changes in 0.1.9
+
+- List now uses a summary card and separate material cards, with bold names, right-aligned required quantities and divided count/price details. Automatic and manual counts, unknown bank status and copyable shopping lists retain their existing meanings.
+- Info includes permanent **What's new** notes. A small sidebar notice appears for a version you have not acknowledged; **Dismiss** or **What's new** records that version in the current RuneLite configuration profile. No modal pop-up interrupts gameplay.
+- Replaced all 659 generated description placeholders and the 10 generic island-amenity descriptions with concise function summaries. Existing specific descriptions and stats are retained. Decorative items, teleport furniture, workshop equipment and world activities explain their purpose; exact recipe Wiki links remain available.
+- Recipe IDs, costs, materials, upgrade chains and saved-project data are unchanged. This is a separate development update while 0.1.8 is under review.
 
 ## Changes in 0.1.8
 

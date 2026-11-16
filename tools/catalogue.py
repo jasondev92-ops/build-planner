@@ -168,6 +168,16 @@ ids=[r['id'] for r in recipes];assert len(ids)==len(set(ids))
 room_data=json.loads((root/'tools/recipe-rooms.json').read_text())['recipes']
 assert set(room_data).issubset(ids), 'Room mapping references unknown recipes'
 for r in recipes: r['rooms']=room_data.get(r['id'], [])
+# Explicit descriptions survive regeneration; never silently fall back to placeholders.
+descriptions=json.loads((root/'tools/recipe-descriptions.json').read_text())['recipes']
+assert set(descriptions).issubset(ids), 'Description mapping references unknown recipes'
+for r in recipes:
+ if r['id'] in descriptions:
+  entry=descriptions[r['id']]
+  assert entry['sources'] and entry['checked']
+  r['description']=entry['description']
+ assert r['description'].strip() and not r['description'].startswith('Build or make'), r['id']
+
 for r in recipes:
  assert r['materials'] and all(v>0 for v in r['materials'].values())
  assert r['previous'] is None or r['previous'] in ids

@@ -1,0 +1,4688 @@
+{
+  "recipes": {
+    "table-abyssal-demon-head-mounted-mahogany-display-head-trophy-stuffed-abyssal-head": {
+      "description": "Displays your abyssal demon head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_demon_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-abyssal-demon-head-mounted-gilded-display-stuffed-abyssal-head": {
+      "description": "Displays your abyssal demon head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_demon_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-arrav": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Arrav)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-asgarnia": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Asgarnia)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-dorgeshuun": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Dorgeshuun)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-dragon": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Dragon)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-fairy": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Fairy)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-guthix": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Guthix)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-ham": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(HAM)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-horse": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Horse)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-jogre": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Jogre)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-kandarin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Kandarin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-misthalin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Misthalin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-money": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Money)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-saradomin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Saradomin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-skull": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Skull)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-varrock": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Varrock)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-heraldic-helm-zamorak": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_heraldic_helm_(Zamorak)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-arrav": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Arrav)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-asgarnia": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Asgarnia)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-dorgeshuun": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Dorgeshuun)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-dragon": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Dragon)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-fairy": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Fairy)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-guthix": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Guthix)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-ham": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(HAM)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-horse": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Horse)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-jogre": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Jogre)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-kandarin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Kandarin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-misthalin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Misthalin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-money": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Money)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-saradomin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Saradomin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-skull": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Skull)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-varrock": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Varrock)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamant-kiteshield-zamorak": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamant_kiteshield_(Zamorak)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-adamantite-armour-construction": {
+      "description": "Displays a suit of armour as a skill hall trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Adamantite_armour_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-advanced-arena": {
+      "description": "Lets two stored pets take part in a harmless mock fight for you to watch.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Advanced_arena"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-alchemical-hydra-heads-mounted": {
+      "description": "Displays your alchemical hydra heads as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_hydra_heads_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-aldarin-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Aldarin. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Aldarin_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-angler-s-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Angler%27s_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-angler-s-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Angler%27s_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-armadylean-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Armadylean_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-armadylean-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Armadylean_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-armillary-sphere": {
+      "description": "A decorative astronomical model for the study.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Armillary_sphere"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-asgarnian-ale-barrel": {
+      "description": "Dispenses asgarnian ale for you and visitors to drink.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Asgarnian_ale_(barrel)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-baby-red-dragon-construction": {
+      "description": "A monster guarding your house dungeon or oubliette. It attacks visitors when the dungeon challenge is active.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Baby_red_dragon_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-arrav": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Arrav)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-asgarnia": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Asgarnia)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-dorgeshuun": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Dorgeshuun)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-dragon": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Dragon)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-fairy": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Fairy)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-guthix": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Guthix)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-ham": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(HAM)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-horse": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Horse)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-jogre": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Jogre)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-kandarin": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Kandarin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-misthalin": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Misthalin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-money": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Money)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-saradomin": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Saradomin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-skull": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Skull)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-varrock": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Varrock)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-zamorak": {
+      "description": "A wieldable banner showing your family crest, made at a banner easel after learning the crest from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_(Zamorak)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-barracuda-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barracuda_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-barracuda-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barracuda_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-basilisk-head-mounted-teak-display-head-trophy-stuffed-basilisk-head": {
+      "description": "Displays your basilisk head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Basilisk_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-basilisk-head-mounted-mahogany-display-head-trophy-stuffed-basilisk-head": {
+      "description": "Displays your basilisk head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Basilisk_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-basilisk-head-mounted-gilded-display-stuffed-basilisk-head": {
+      "description": "Displays your basilisk head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Basilisk_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bed-daddy-s-home": {
+      "description": "Repairs furniture in Old Man Yarlo's house during Daddy's Home. This is a quest build, rather than furniture placed in your own house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bed_(Daddy%27s_Home)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-beer-barrel": {
+      "description": "Dispenses beer for you and visitors to drink.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Beer_barrel"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bell-pull": {
+      "description": "Calls your hired servant to you inside the house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bell-pull"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-black-sail": {
+      "description": "Dyes an existing sail black. This changes the sail's appearance rather than building a new mast.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Black_sail"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-blue-sail": {
+      "description": "Dyes an existing sail blue. This changes the sail's appearance rather than building a new mast.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Blue_sail"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bluebells": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bluebells"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bob-icon": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bob_icon"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bone-cage": {
+      "description": "Forms a prison around the oubliette floor, trapping players dropped from the throne room above.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bone_cage"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-boundary-stones": {
+      "description": "A decorative boundary for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Boundary_stones"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-brimhaven-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Brimhaven. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Brimhaven_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-brown-rug": {
+      "description": "Decorative floor covering for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Brown_rug"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bush": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bush"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-camphor-hull-parts": {
+      "description": "A crafted boat component used to build a matching skiff hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Camphor_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-camphor-repair-kit": {
+      "description": "Repairs damage to a boat while sailing. Craft it at a shipwrights' workbench and keep supplies aboard for repairs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Camphor_repair_kit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-candles-construction": {
+      "description": "Adds decorative lighting to your dungeon or oubliette.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Candles_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-carpet-daddy-s-home": {
+      "description": "Repairs furniture in Old Man Yarlo's house during Daddy's Home. This is a quest build, rather than furniture placed in your own house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Carpet_(Daddy%27s_Home)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-carved-oak-bench": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Carved_oak_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-carved-oak-table": {
+      "description": "A decorative table furnishing for your dining room.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Carved_oak_table"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-carved-teak-bench": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Carved_teak_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-chair-daddy-s-home": {
+      "description": "Repairs furniture in Old Man Yarlo's house during Daddy's Home. This is a quest build, rather than furniture placed in your own house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chair_(Daddy%27s_Home)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-chef-s-delight-barrel": {
+      "description": "Dispenses chef's delight for you and visitors to drink.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chef%27s_delight_(barrel)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cider-barrel": {
+      "description": "Dispenses cider for you and visitors to drink.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cider_barrel"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-clay-attack-stone": {
+      "description": "A games-room target for a damage contest. Players compete to deal the most damage; it does not guarantee maximum hits.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Clay_attack_stone"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-clay-fireplace": {
+      "description": "A fireplace you can light using logs and a tinderbox.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Clay_fireplace"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cockatrice-head-mounted-teak-display-head-trophy-stuffed-cockatrice-head": {
+      "description": "Displays your cockatrice head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cockatrice_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cockatrice-head-mounted-mahogany-display-head-trophy-stuffed-cockatrice-head": {
+      "description": "Displays your cockatrice head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cockatrice_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cockatrice-head-mounted-gilded-display-stuffed-cockatrice-head": {
+      "description": "Displays your cockatrice head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cockatrice_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-consecrated-house": {
+      "description": "Houses pets in the menagerie so they can roam your house. The house tier determines how many pets it can hold.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Consecrated_house"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crystal-glider-s-flag": {
+      "description": "A cosmetic boat flag displaying your Barracuda Trial achievement. Apply it through the boat schematics board after earning the required rank.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystal_glider%27s_flag"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crystal-of-power": {
+      "description": "Changes the element of eligible elemental staves. The crystal tier determines which staff types it can change; combination staves are excluded.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystal_of_power"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crystal-throne": {
+      "description": "A throne for you or your guests to sit on.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystal_throne"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-curtains": {
+      "description": "Decorative curtains for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Curtains"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cw-armour-1": {
+      "description": "Displays your cw armour 1 as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cw_armour_1"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cw-armour-2": {
+      "description": "Displays your cw armour 2 as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cw_armour_2"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cw-armour-3": {
+      "description": "Displays your cw armour 3 as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cw_armour_3"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-daffodils": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Daffodils"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-dagannoth-construction": {
+      "description": "A monster guarding the treasure in your house's treasure room during dungeon challenges.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-deadman-rug": {
+      "description": "Decorative floor covering for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Deadman_rug"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-decorative-blood": {
+      "description": "A decorative feature for the walls of your dungeon or oubliette.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Decorative_blood"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-decorative-pipe": {
+      "description": "A decorative feature for the walls of your dungeon or oubliette.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Decorative_pipe"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-decorative-rock": {
+      "description": "A decorative centrepiece for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Decorative_rock"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-decorative-window": {
+      "description": "Decorative window for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Decorative_window"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-demon-construction": {
+      "description": "A monster guarding the treasure in your house's treasure room during dungeon challenges.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demon_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-demon-lectern": {
+      "description": "Creates magic tablets using soft clay and the required runes. The lectern type determines which spells can be made into tablets.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demon_lectern"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-demonic-throne": {
+      "description": "A throne for you or your guests to sit on.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demonic_throne"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-desecrated-house": {
+      "description": "Houses pets in the menagerie so they can roam your house. The house tier determines how many pets it can hold.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Desecrated_house"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-desert-habitat": {
+      "description": "Changes the scenery of an outdoor menagerie to a desert setting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Desert_habitat"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-dock-leaf": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dock_leaf"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-dragon-bitter-barrel": {
+      "description": "Dispenses dragon bitter for you and visitors to drink.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dragon_bitter_(barrel)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-eagle-lectern": {
+      "description": "Creates magic tablets using soft clay and the required runes. The lectern type determines which spells can be made into tablets.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Eagle_lectern"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-elemental-sphere": {
+      "description": "Changes the element of eligible elemental staves. The crystal tier determines which staff types it can change; combination staves are excluded.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Elemental_sphere"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-elena-portrait": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Elena_(portrait)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fancy-hedge": {
+      "description": "A decorative hedge for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fancy_hedge"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fancy-range": {
+      "description": "Provides a cooking fire or range in your kitchen for preparing food.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fancy_range"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fancy-teak-dresser": {
+      "description": "Opens the hairstyle makeover interface so you can change your hair and facial hair.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fancy_teak_dresser"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fern-big-plant": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fern_(big_plant)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fern-small-plant": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fern_(small_plant)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-firepit": {
+      "description": "Provides a cooking fire or range in your kitchen for preparing food.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Firepit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-firepit-with-hook": {
+      "description": "Provides a cooking fire or range in your kitchen for preparing food.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Firepit_with_hook"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-firepit-with-pot": {
+      "description": "Provides a cooking fire or range in your kitchen for preparing food.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Firepit_with_pot"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-flame-pit": {
+      "description": "An oubliette hazard that attacks players trapped beneath the throne room.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Flame_pit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-forest-habitat": {
+      "description": "Changes the scenery of an outdoor menagerie to a forest setting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Forest_habitat"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-garden-fence": {
+      "description": "A decorative boundary for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Garden_fence"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gazebo": {
+      "description": "A decorative centrepiece for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gazebo"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-giant-dwarf-portrait": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Giant_Dwarf_(portrait)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gilded-4-poster": {
+      "description": "Furnishes a bedroom. Hiring a servant requires two bedrooms, each with a bed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gilded_4-poster"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gilded-adventure-log": {
+      "description": "Lets you and visitors read your collection log, kill counts, personal bests and other adventure records.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gilded_adventure_log"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gilded-throne": {
+      "description": "A throne for you or your guests to sit on.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gilded_throne"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gilded-wardrobe": {
+      "description": "Lets you change your default shoes, hands and sleeves for free.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gilded_wardrobe"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-globe": {
+      "description": "A decorative astronomical model for the study.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Globe"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-glorious-arena": {
+      "description": "Lets two stored pets take part in a harmless mock fight for you to watch.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Glorious_arena"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gnome-bench": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gnome_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gnome-child-icon-construction": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gnome_child_icon_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gold-candlesticks": {
+      "description": "Decorative candle lighting for the chapel.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gold_candlesticks"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-gold-sink": {
+      "description": "Provides a water source inside your kitchen for filling containers and cooking.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Gold_sink"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-grassland-habitat": {
+      "description": "Changes the scenery of an outdoor menagerie to a grassland setting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grassland_habitat"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-greater-magical-balance": {
+      "description": "A two-player game where elemental spells change a sphere's colour. Balance the elements to turn it white.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Greater_magical_balance"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-green-sail": {
+      "description": "Dyes an existing sail green. This changes the sail's appearance rather than building a new mast.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Green_sail"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-greenman-s-ale-barrel": {
+      "description": "Dispenses greenman's ale for you and visitors to drink.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Greenman%27s_ale_(barrel)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-grid-master-icon": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grid_Master_Icon"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-guard-dog-construction": {
+      "description": "A monster guarding your house dungeon or oubliette. It attacks visitors when the dungeon challenge is active.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Guard_dog_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-guthix-icon": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Guthix_icon"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-guthix-symbol": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Guthix_symbol"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-guthixian-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Guthixian_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-guthixian-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Guthixian_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-hanging-skeleton": {
+      "description": "A decorative feature for the walls of your dungeon or oubliette.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hanging_skeleton"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-hellhound-construction": {
+      "description": "A monster guarding your house dungeon or oubliette. It attacks visitors when the dungeon challenge is active.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hellhound_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-hobgoblin-guard": {
+      "description": "A monster guarding your house dungeon or oubliette. It attacks visitors when the dungeon challenge is active.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hobgoblin_guard"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-hosidius-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Hosidius. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hosidius_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-huge-plant": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Huge_plant"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-huge-spider": {
+      "description": "A monster guarding your house dungeon or oubliette. It attacks visitors when the dungeon challenge is active.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Huge_spider"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-inky-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Inky_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-inky-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Inky_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-iron-railings": {
+      "description": "A decorative boundary for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Iron_railings"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-ironwood-hull-parts": {
+      "description": "A crafted boat component used to build a matching skiff hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ironwood_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-ironwood-repair-kit": {
+      "description": "Repairs damage to a boat while sailing. Craft it at a shipwrights' workbench and keep supplies aboard for repairs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ironwood_repair_kit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-isafdar-painting": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Isafdar_(painting)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-kalphite-queen-head-mounted-gilded-display-stuffed-kq-head": {
+      "description": "Displays your kalphite queen head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-kalphite-queen-head-mounted-gilded-display-stuffed-kq-head-tattered": {
+      "description": "Displays your kalphite queen head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-kalphite-soldier-construction": {
+      "description": "A monster guarding the treasure in your house's treasure room during dungeon challenges.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kalphite_soldier_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-karamja-painting": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Karamja_(painting)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-kbd-head-mounted": {
+      "description": "Displays your kbd head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kbd_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-king-arthur-portrait": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/King_Arthur_(portrait)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-kitchen-table": {
+      "description": "A decorative table furnishing for your kitchen.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kitchen_table"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-kurask-head-mounted-mahogany-display-head-trophy-stuffed-kurask-head": {
+      "description": "Displays your kurask head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kurask_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-kurask-head-mounted-gilded-display-stuffed-kurask-head": {
+      "description": "Displays your kurask head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kurask_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-camphor-hull-parts": {
+      "description": "A crafted boat component used to build a matching sloop hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_camphor_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-fountain": {
+      "description": "A decorative centrepiece for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_fountain"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-ironwood-hull-parts": {
+      "description": "A crafted boat component used to build a matching sloop hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_ironwood_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-leaf-bush": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_leaf_bush"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-mahogany-hull-parts": {
+      "description": "A crafted boat component used to build a matching sloop hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_mahogany_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-map": {
+      "description": "A decorative map displayed in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_map"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-oak-bed": {
+      "description": "Furnishes a bedroom. Hiring a servant requires two bedrooms, each with a bed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_oak_bed"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-oak-hull-parts": {
+      "description": "A crafted boat component used to build a matching sloop hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_oak_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-orrery": {
+      "description": "A decorative astronomical model for the study.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_orrery"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-oven": {
+      "description": "Provides a cooking fire or range in your kitchen for preparing food.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_oven"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-rosewood-hull-parts": {
+      "description": "A crafted boat component used to build a matching sloop hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_rosewood_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-statue": {
+      "description": "A decorative statue for your chapel.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_statue"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-storage-unit": {
+      "description": "Stores shared and personal supplies during a Chambers of Xeric raid. Higher tiers provide more storage space.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_storage_unit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-teak-bed": {
+      "description": "Furnishes a bedroom. Hiring a servant requires two bedrooms, each with a bed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_teak_bed"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-teak-hull-parts": {
+      "description": "A crafted boat component used to build a matching sloop hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_teak_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-large-wooden-hull-parts": {
+      "description": "A crafted boat component used to build a matching sloop hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Large_wooden_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-lesser-magical-balance": {
+      "description": "A two-player game where elemental spells change a sphere's colour. Balance the elements to turn it white.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Lesser_magical_balance"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-limestone-attack-stone": {
+      "description": "A games-room target for a damage contest. Players compete to deal the most damage; it does not guarantee maximum hits.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Limestone_attack_stone"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-limestone-spiral-staircase": {
+      "description": "Connects floors of your house. Construction of the connecting room may require additional stairs and materials.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Limestone_spiral_staircase"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-lumbridge-painting": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Lumbridge_(painting)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-lunar-globe": {
+      "description": "A decorative astronomical model for the study.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Lunar_globe"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-magic-chest": {
+      "description": "Holds a coin prize for visitors who complete your dungeon challenge.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Magic_chest"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-magic-totem-magic-logs-magic-shortbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Magic_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-magic-totem-magic-logs-magic-shortbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Magic_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-magic-totem-magic-logs-magic-longbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Magic_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-magic-totem-magic-logs-magic-longbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Magic_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-magic-totem-magic-logs-magic-shield": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Magic_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-magic-totem-magic-logs-magic-stock": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Magic_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-magic-tree-construction": {
+      "description": "A decorative garden tree. It cannot be chopped for logs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Magic_tree_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-adventure-log": {
+      "description": "Lets you and visitors read your collection log, kill counts, personal bests and other adventure records.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_adventure_log"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-bed-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_bed_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-bed-small-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_bed_(small,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-bookcase-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_bookcase_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-cabinet": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_cabinet"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-chair-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_chair_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-cupboard": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_cupboard"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-drawers-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_drawers_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-dresser-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_dresser_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-house": {
+      "description": "Houses pets in the menagerie so they can roam your house. The house tier determines how many pets it can hold.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_house"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-hull-parts": {
+      "description": "A crafted boat component used to build a matching skiff hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-repair-kit": {
+      "description": "Repairs damage to a boat while sailing. Craft it at a shipwrights' workbench and keep supplies aboard for repairs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_repair_kit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-shelves-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_shelves_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-table-large-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_table_(large,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-table-medium-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_table_(medium,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-table-small-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_table_(small,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mahogany-wardrobe-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mahogany_wardrobe_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-man-trap": {
+      "description": "A hidden dungeon trap that can damage or hinder visitors during a house challenge.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Man_trap"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-maple-totem-maple-logs-maple-shortbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maple_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-maple-totem-maple-logs-maple-shortbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maple_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-maple-totem-maple-logs-maple-longbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maple_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-maple-totem-maple-logs-maple-longbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maple_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-maple-totem-maple-logs-maple-shield": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maple_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-maple-totem-maple-logs-maple-stock": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maple_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-maple-tree-construction": {
+      "description": "A decorative garden tree. It cannot be chopped for logs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maple_tree_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-adventure-log": {
+      "description": "Lets you and visitors read your collection log, kill counts, personal bests and other adventure records.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_adventure_log"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-attack-stone": {
+      "description": "A games-room target for a damage contest. Players compete to deal the most damage; it does not guarantee maximum hits.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_attack_stone"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-decorative-bench": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_decorative_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-door": {
+      "description": "A barrier that visitors must get past while exploring your house dungeon in challenge mode.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_door"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-fireplace": {
+      "description": "A fireplace you can light using logs and a tinderbox.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_fireplace"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-lectern": {
+      "description": "Creates magic tablets using soft clay and the required runes. The lectern type determines which spells can be made into tablets.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_lectern"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-portal": {
+      "description": "Holds a house teleport portal. Use the room's teleport focus to choose a destination and supply the attunement runes separately.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_portal"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-spiral": {
+      "description": "Connects floors of your house. Construction of the connecting room may require additional stairs and materials.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_spiral"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-staircase": {
+      "description": "Connects floors of your house. Construction of the connecting room may require additional stairs and materials.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_staircase"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-trap": {
+      "description": "A hidden dungeon trap that can damage or hinder visitors during a house challenge.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_trap"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marble-wall": {
+      "description": "A decorative boundary for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marble_wall"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-marigolds-construction": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Marigolds_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-massive-storage-unit": {
+      "description": "Stores shared and personal supplies during a Chambers of Xeric raid. Higher tiers provide more storage space.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Massive_storage_unit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-medium-balance": {
+      "description": "A two-player game where elemental spells change a sphere's colour. Balance the elements to turn it white.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Medium_balance"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-medium-map": {
+      "description": "A decorative map displayed in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Medium_map"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-medium-statue": {
+      "description": "A decorative statue for your chapel.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Medium_statue"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-medium-storage-unit": {
+      "description": "Stores shared and personal supplies during a Chambers of Xeric raid. Higher tiers provide more storage space.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Medium_storage_unit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-merchant-s-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Merchant%27s_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-merchant-s-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Merchant%27s_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-miscellanians-portrait": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Miscellanians_(portrait)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mithril-armour-construction": {
+      "description": "Displays a suit of armour as a skill hall trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mithril_armour_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-morytania-painting": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Morytania_(painting)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-bass-oak-display-stuffed-big-bass": {
+      "description": "Displays your mounted bass as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_bass"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-bass-teak-display-fishing-trophy-stuffed-big-bass": {
+      "description": "Displays your mounted bass as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_bass"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-bass-mahogany-display-fishing-trophy-stuffed-big-bass": {
+      "description": "Displays your mounted bass as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_bass"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-giant-blue-krill-teak-display-fishing-trophy-stuffed-giant-blue-krill": {
+      "description": "Displays your mounted giant blue krill as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_giant_blue_krill"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-giant-blue-krill-mahogany-display-fishing-trophy-stuffed-giant-blue-krill": {
+      "description": "Displays your mounted giant blue krill as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_giant_blue_krill"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-golden-haddock-teak-display-fishing-trophy-stuffed-golden-haddock": {
+      "description": "Displays your mounted golden haddock as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_golden_haddock"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-golden-haddock-mahogany-display-fishing-trophy-stuffed-golden-haddock": {
+      "description": "Displays your mounted golden haddock as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_golden_haddock"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-harpoonfish-teak-display-fishing-trophy-stuffed-big-harpoonfish": {
+      "description": "Displays your mounted harpoonfish as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_harpoonfish"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-harpoonfish-mahogany-display-fishing-trophy-stuffed-big-harpoonfish": {
+      "description": "Displays your mounted harpoonfish as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_harpoonfish"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-huge-halibut": {
+      "description": "Displays your mounted huge halibut as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_huge_halibut"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-orangefin-teak-display-fishing-trophy-stuffed-orangefin": {
+      "description": "Displays your mounted orangefin as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_orangefin"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-orangefin-mahogany-display-fishing-trophy-stuffed-orangefin": {
+      "description": "Displays your mounted orangefin as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_orangefin"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-purplefin": {
+      "description": "Displays your mounted purplefin as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_purplefin"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-shark": {
+      "description": "Displays your mounted shark as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_shark"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-swift-marlin": {
+      "description": "Displays your mounted swift marlin as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_swift_marlin"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-swordfish-teak-display-fishing-trophy-stuffed-big-swordfish": {
+      "description": "Displays your mounted swordfish as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_swordfish"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-swordfish-mahogany-display-fishing-trophy-stuffed-big-swordfish": {
+      "description": "Displays your mounted swordfish as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_swordfish"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-nature-house": {
+      "description": "Houses pets in the menagerie so they can roam your house. The house tier determines how many pets it can hold.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nature_house"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-nice-hedge": {
+      "description": "A decorative hedge for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nice_hedge"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-nice-tree": {
+      "description": "A decorative garden tree. It cannot be chopped for logs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nice_tree"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-and-steel-cage": {
+      "description": "Forms a prison around the oubliette floor, trapping players dropped from the throne room above.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_and_steel_cage"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-armchair": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_armchair"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-bed": {
+      "description": "Furnishes a bedroom. Hiring a servant requires two bedrooms, each with a bed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_bed"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-bed-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_bed_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-bed-small-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_bed_(small,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-bench": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-bookcase": {
+      "description": "Lets you retrieve many books you have previously obtained during quests and adventures.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_bookcase"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-bookcase-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_bookcase_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-cabinet": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_cabinet"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-cage": {
+      "description": "Forms a prison around the oubliette floor, trapping players dropped from the throne room above.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_cage"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-chair-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_chair_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-cupboard": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_cupboard"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-drawers-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_drawers_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-dresser": {
+      "description": "Opens the hairstyle makeover interface so you can change your hair and facial hair.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_dresser"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-dresser-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_dresser_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-feeder": {
+      "description": "Automatically attends to a following kitten's hunger and attention needs while you are in the house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_feeder"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-house": {
+      "description": "Houses pets in the menagerie so they can roam your house. The house tier determines how many pets it can hold.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_house"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-hull-parts": {
+      "description": "A crafted boat component used to build a matching skiff hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-prize-chest": {
+      "description": "Stores coins that winners of games in your games room can claim as prizes.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_prize_chest"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-repair-kit": {
+      "description": "Repairs damage to a boat while sailing. Craft it at a shipwrights' workbench and keep supplies aboard for repairs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_repair_kit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-scratching-post": {
+      "description": "A plaything that cats and some other stored pets occasionally interact with in the menagerie.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_scratching_post"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-shaving-stand": {
+      "description": "Opens the hairstyle makeover interface so you can change your hair and facial hair.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_shaving_stand"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-shelves-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_shelves_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-shelves-1": {
+      "description": "Supplies kitchen utensils for cooking and brewing tea. Available utensils depend on the shelf tier.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_shelves_1"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-shelves-2": {
+      "description": "Supplies kitchen utensils for cooking and brewing tea. Available utensils depend on the shelf tier.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_shelves_2"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-staircase": {
+      "description": "Connects floors of your house. Construction of the connecting room may require additional stairs and materials.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_staircase"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-table-large-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_table_(large,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-table-medium-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_table_(medium,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-table-small-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_table_(small,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-telescope": {
+      "description": "Predicts the approximate landing area and time of an upcoming Shooting Star. Better telescopes narrow the time estimate.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_telescope"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-throne": {
+      "description": "A throne for you or your guests to sit on.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_throne"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-totem-oak-logs-oak-shortbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-totem-oak-logs-oak-shortbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-totem-oak-logs-oak-longbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-totem-oak-logs-oak-longbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-totem-oak-logs-oak-shield": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-totem-oak-logs-oak-stock": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-tree-construction": {
+      "description": "A decorative garden tree. It cannot be chopped for logs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_tree_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-wardrobe-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_wardrobe_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-obsidian-decorative-bench": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Obsidian_decorative_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-obsidian-fence": {
+      "description": "A decorative boundary around your superior garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Obsidian_fence"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-opulent-curtains": {
+      "description": "Decorative curtains for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Opulent_curtains"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-opulent-rug": {
+      "description": "Decorative floor covering for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Opulent_rug"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-opulent-table": {
+      "description": "A decorative table furnishing for your dining room.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Opulent_table"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-otherworldly-theme": {
+      "description": "Changes the superior garden's appearance to a otherworldly theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Otherworldly_theme"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-picket-fence": {
+      "description": "A decorative boundary for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Picket_fence"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-pink-sail": {
+      "description": "Dyes an existing sail pink. This changes the sail's appearance rather than building a new mast.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pink_sail"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-plant": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Plant"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-polar-habitat": {
+      "description": "Changes the scenery of an outdoor menagerie to a polar setting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Polar_habitat"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-pollnivneach-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Pollnivneach. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pollnivneach_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-pond": {
+      "description": "A decorative centrepiece for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pond"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-posh-bell-pull": {
+      "description": "Calls your hired servant to you inside the house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Posh_bell-pull"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-posh-fountain": {
+      "description": "A decorative centrepiece for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Posh_fountain"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-prifddinas-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Prifddinas. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Prifddinas_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-pump-and-drain": {
+      "description": "Provides a water source inside your kitchen for filling containers and cooking.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pump_and_drain"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-pump-and-tub": {
+      "description": "Provides a water source inside your kitchen for filling containers and cooking.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pump_and_tub"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-purple-sail": {
+      "description": "Dyes an existing sail purple. This changes the sail's appearance rather than building a new mast.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Purple_sail"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-raging-echoes-curtains-construction": {
+      "description": "Decorative curtains for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Raging_echoes_curtains_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-red-sail": {
+      "description": "Dyes an existing sail red. This changes the sail's appearance rather than building a new mast.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Red_sail"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-redwood-fence": {
+      "description": "A decorative boundary around your superior garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Redwood_fence"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-redwood-totem-redwood-logs-redwood-shield": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Redwood_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-redwood-totem-redwood-logs-redwood-hiking-staff": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Redwood_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-reeds": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Reeds"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rellekka-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Rellekka. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rellekka_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-repair-kit": {
+      "description": "Repairs damage to a boat while sailing. Craft it at a shipwrights' workbench and keep supplies aboard for repairs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Repair_kit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rimmington-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Rimmington. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rimmington_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rocking-chair": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rocking_chair"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rocnar": {
+      "description": "An oubliette hazard that attacks players trapped beneath the throne room.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rocnar"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rope-bell-pull": {
+      "description": "Calls your hired servant to you inside the house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rope_bell-pull"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rosemary-construction": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rosemary_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-roses": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Roses"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rosewood-hull-parts": {
+      "description": "A crafted boat component used to build a matching skiff hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rosewood_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rosewood-repair-kit": {
+      "description": "Repairs damage to a boat while sailing. Craft it at a shipwrights' workbench and keep supplies aboard for repairs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rosewood_repair_kit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rug": {
+      "description": "Decorative floor covering for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rug"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-case-1-elemental": {
+      "description": "Displays runes as a skill hall decoration.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_case_1"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-case-2-low-catalytic": {
+      "description": "Displays runes as a skill hall decoration.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_case_2"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-case-3-high-catalytic": {
+      "description": "Displays runes as a skill hall decoration.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_case_3"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-dragon-construction": {
+      "description": "A monster guarding the treasure in your house's treasure room during dungeon challenges.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_dragon_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-arrav": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Arrav)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-asgarnia": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Asgarnia)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-dorgeshuun": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Dorgeshuun)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-dragon": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Dragon)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-fairy": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Fairy)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-guthix": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Guthix)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-ham": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(HAM)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-horse": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Horse)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-jogre": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Jogre)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-kandarin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Kandarin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-misthalin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Misthalin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-money": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Money)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-saradomin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Saradomin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-skull": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Skull)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-varrock": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Varrock)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-heraldic-helm-zamorak": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_heraldic_helm_(Zamorak)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-arrav": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Arrav)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-asgarnia": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Asgarnia)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-dorgeshuun": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Dorgeshuun)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-dragon": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Dragon)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-fairy": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Fairy)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-guthix": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Guthix)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-ham": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(HAM)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-horse": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Horse)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-jogre": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Jogre)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-kandarin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Kandarin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-misthalin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Misthalin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-money": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Money)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-saradomin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Saradomin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-skull": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Skull)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-varrock": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Varrock)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-rune-kiteshield-zamorak": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rune_kiteshield_(Zamorak)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-runite-armour-construction": {
+      "description": "Displays a suit of armour as a skill hall trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Runite_armour_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-salvor-s-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Salvor%27s_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-salvor-s-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Salvor%27s_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-sandy-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Sandy_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-sandy-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Sandy_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-saradomin-icon": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Saradomin_icon"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-saradomin-symbol": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Saradomin_symbol"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-saradominist-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Saradominist_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-saradominist-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Saradominist_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-shark-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shark_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-shark-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shark_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-shaving-stand": {
+      "description": "Opens the hairstyle makeover interface so you can change your hair and facial hair.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shaving_stand"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-shoe-box": {
+      "description": "Lets you change your default shoes, hands and sleeves for free.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shoe_box"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-short-plant": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Short_plant"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-shuttered-window": {
+      "description": "Decorative window for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shuttered_window"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-simple-arena": {
+      "description": "Lets two stored pets take part in a harmless mock fight for you to watch.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Simple_arena"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-sink": {
+      "description": "Provides a water source inside your kitchen for filling containers and cooking.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Sink"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-skeleton-guard": {
+      "description": "A monster guarding your house dungeon or oubliette. It attacks visitors when the dungeon challenge is active.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Skeleton_guard"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-skeleton-throne": {
+      "description": "A throne for you or your guests to sit on.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Skeleton_throne"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-skull-torches": {
+      "description": "Adds decorative lighting to your dungeon or oubliette.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Skull_torches"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-small-box-hedge": {
+      "description": "A decorative hedge for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Small_box_hedge"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-small-fern": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Small_fern"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-small-fountain": {
+      "description": "A decorative centrepiece for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Small_fountain"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-small-map": {
+      "description": "A decorative map displayed in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Small_map"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-small-orrery": {
+      "description": "A decorative astronomical model for the study.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Small_orrery"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-small-oven": {
+      "description": "Provides a cooking fire or range in your kitchen for preparing food.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Small_oven"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-small-statue": {
+      "description": "A decorative statue for your chapel.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Small_statue"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-small-storage-unit": {
+      "description": "Stores shared and personal supplies during a Chambers of Xeric raid. Higher tiers provide more storage space.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Small_storage_unit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-spike-trap": {
+      "description": "A hidden dungeon trap that can damage or hinder visitors during a house challenge.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Spike_trap"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-spiked-cage": {
+      "description": "Forms a prison around the oubliette floor, trapping players dropped from the throne room above.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Spiked_cage"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-spikes": {
+      "description": "An oubliette hazard that attacks players trapped beneath the throne room.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Spikes"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-spirit-tree-construction": {
+      "description": "Connects your house to the spirit tree network after Tree Gnome Village. This tree does not count towards your planted spirit tree limit.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Spirit_tree_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-stained-glass": {
+      "description": "Decorative window for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Stained_glass"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-cage-oubliette": {
+      "description": "Forms a prison around the oubliette floor, trapping players dropped from the throne room above.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_cage_(Oubliette)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-candlesticks": {
+      "description": "Decorative candle lighting for the chapel.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_candlesticks"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-dragon-construction": {
+      "description": "A monster guarding the treasure in your house's treasure room during dungeon challenges.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_dragon_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-arrav": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Arrav)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-asgarnia": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Asgarnia)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-dorgeshuun": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Dorgeshuun)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-dragon": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Dragon)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-fairy": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Fairy)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-guthix": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Guthix)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-ham": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(HAM)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-horse": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Horse)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-jogre": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Jogre)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-kandarin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Kandarin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-misthalin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Misthalin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-money": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Money)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-saradomin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Saradomin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-skull": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Skull)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-varrock": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Varrock)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-heraldic-helm-zamorak": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_heraldic_helm_(Zamorak)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-arrav": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Arrav)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-asgarnia": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Asgarnia)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-dorgeshuun": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Dorgeshuun)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-dragon": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Dragon)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-fairy": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Fairy)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-guthix": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Guthix)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-ham": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(HAM)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-horse": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Horse)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-jogre": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Jogre)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-kandarin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Kandarin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-misthalin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Misthalin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-money": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Money)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-saradomin": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Saradomin)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-skull": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Skull)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-varrock": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Varrock)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-kiteshield-zamorak": {
+      "description": "Paints the armour with your family crest. Learn the matching crest from Sir Renitee before using the heraldry stand.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_kiteshield_(Zamorak)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-range": {
+      "description": "Provides a cooking fire or range in your kitchen for preparing food.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_range"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-torches": {
+      "description": "Adds decorative lighting to your dungeon or oubliette.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_torches"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-plated-door": {
+      "description": "A barrier that visitors must get past while exploring your house dungeon in challenge mode.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel-plated_door"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-stone-fireplace": {
+      "description": "A fireplace you can light using logs and a tinderbox.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Stone_fireplace"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-stone-wall": {
+      "description": "A decorative boundary for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Stone_wall"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-stool-daddy-s-home": {
+      "description": "Repairs furniture in Old Man Yarlo's house during Daddy's Home. This is a quest build, rather than furniture placed in your own house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Stool_(Daddy%27s_Home)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-storm-chaser-s-flag": {
+      "description": "A cosmetic boat flag displaying your Barracuda Trial achievement. Apply it through the boat schematics board after earning the required rank.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Storm_chaser%27s_flag"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-sunflower": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Sunflower"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-swamp-cruiser-s-flag": {
+      "description": "A cosmetic boat flag displaying your Barracuda Trial achievement. Apply it through the boat schematics board after earning the required rank.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Swamp_cruiser%27s_flag"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-table-daddy-s-home": {
+      "description": "Repairs furniture in Old Man Yarlo's house during Daddy's Home. This is a quest build, rather than furniture placed in your own house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Table_(Daddy%27s_Home)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tall-box-hedge": {
+      "description": "A decorative hedge for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tall_box_hedge"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tall-fancy-hedge": {
+      "description": "A decorative hedge for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tall_fancy_hedge"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tall-plant": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tall_plant"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tangle-vine": {
+      "description": "A hidden dungeon trap that can damage or hinder visitors during a house challenge.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tangle_vine"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-taverley-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Taverley. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Taverley_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-bed": {
+      "description": "Furnishes a bedroom. Hiring a servant requires two bedrooms, each with a bed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_bed"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-bed-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_bed_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-bed-small-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_bed_(small,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-bookcase-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_bookcase_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-cabinet": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_cabinet"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-chair-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_chair_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-cupboard": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_cupboard"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-drawers-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_drawers_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-dresser": {
+      "description": "Opens the hairstyle makeover interface so you can change your hair and facial hair.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_dresser"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-dresser-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_dresser_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-eagle-lectern": {
+      "description": "Creates magic tablets using soft clay and the required runes. The lectern type determines which spells can be made into tablets.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_eagle_lectern"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-feeder": {
+      "description": "Automatically attends to a following kitten's hunger and attention needs while you are in the house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_feeder"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-garden-bench": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_garden_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-house": {
+      "description": "Houses pets in the menagerie so they can roam your house. The house tier determines how many pets it can hold.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_house"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-hull-parts": {
+      "description": "A crafted boat component used to build a matching skiff hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-lever": {
+      "description": "Triggers the throne room floor trap and lets the house owner enable dungeon challenge or PvP mode.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_lever"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-portal": {
+      "description": "Holds a house teleport portal. Use the room's teleport focus to choose a destination and supply the attunement runes separately.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_portal"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-prize-chest": {
+      "description": "Stores coins that winners of games in your games room can claim as prizes.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_prize_chest"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-repair-kit": {
+      "description": "Repairs damage to a boat while sailing. Craft it at a shipwrights' workbench and keep supplies aboard for repairs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_repair_kit"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-shelves-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_shelves_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-table-large-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_table_(large,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-table-medium-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_table_(medium,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-table-small-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_table_(small,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-trapdoor": {
+      "description": "Connects the throne room to the oubliette below through a floor hatch.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_trapdoor"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teak-wardrobe-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teak_wardrobe_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tentacle-pool": {
+      "description": "An oubliette hazard that attacks players trapped beneath the throne room.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tentacle_pool"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-the-desert-painting": {
+      "description": "A framed picture displayed as decoration in the quest hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_Desert_(painting)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-thistle-construction": {
+      "description": "A decorative plant for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Thistle_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-thorny-hedge": {
+      "description": "A decorative hedge for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Thorny_hedge"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tok-xil-construction": {
+      "description": "A monster guarding the treasure in your house's treasure room during dungeon challenges.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tok-Xil_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-topiary-hedge": {
+      "description": "A decorative hedge for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Topiary_hedge"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-torches-construction": {
+      "description": "Adds decorative lighting to your dungeon or oubliette.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Torches_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-torn-curtains": {
+      "description": "Decorative curtains for your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Torn_curtains"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tree-construction": {
+      "description": "A decorative garden tree. It cannot be chopped for logs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tree_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-troll-construction": {
+      "description": "A monster guarding your house dungeon or oubliette. It attacks visitors when the dungeon challenge is active.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Troll_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-trollheim-teleport-tablet": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Trollheim. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Trollheim_teleport_(tablet)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-volcanic-habitat": {
+      "description": "Changes the scenery of an outdoor menagerie to a volcanic setting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Volcanic_habitat"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-volcanic-theme": {
+      "description": "Changes the superior garden's appearance to a volcanic theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Volcanic_theme"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-vorkath-s-head-mounted": {
+      "description": "Displays your vorkath's head as a trophy in the skill hall. The listed trophy and display are needed to mount it.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vorkath%27s_head_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-willow-totem-willow-logs-willow-shortbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Willow_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-willow-totem-willow-logs-willow-shortbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Willow_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-willow-totem-willow-logs-willow-longbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Willow_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-willow-totem-willow-logs-willow-longbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Willow_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-willow-totem-willow-logs-willow-shield": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Willow_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-willow-totem-willow-logs-willow-stock": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Willow_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-willow-tree-construction": {
+      "description": "A decorative garden tree. It cannot be chopped for logs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Willow_tree_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wood-dining-table": {
+      "description": "A decorative table furnishing for your dining room.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wood_dining_table"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-bed": {
+      "description": "Furnishes a bedroom. Hiring a servant requires two bedrooms, each with a bed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_bed"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-bed-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_bed_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-bed-small-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_bed_(small,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-bench": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-bookcase": {
+      "description": "Lets you retrieve many books you have previously obtained during quests and adventures.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_bookcase"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-bookcase-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_bookcase_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-cabinet": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_cabinet"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-chair": {
+      "description": "Provides seating for you and visitors to your house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_chair"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-chair-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_chair_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-crate": {
+      "description": "Holds a coin prize for visitors who complete your dungeon challenge.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_crate"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-cupboard": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_cupboard"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-drawers-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_drawers_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-dresser-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_dresser_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-fence": {
+      "description": "A decorative boundary for your garden.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_fence"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-hull-parts": {
+      "description": "A crafted boat component used to build a matching skiff hull. Made at a shipwrights' workbench.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_hull_parts"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-shelves-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_shelves_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-shelves-1": {
+      "description": "Supplies kitchen utensils for cooking and brewing tea. Available utensils depend on the shelf tier.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_shelves_1"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-shelves-2": {
+      "description": "Supplies kitchen utensils for cooking and brewing tea. Available utensils depend on the shelf tier.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_shelves_2"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-shelves-3": {
+      "description": "Supplies kitchen utensils for cooking and brewing tea. Available utensils depend on the shelf tier.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_shelves_3"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-table-large-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_table_(large,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-table-medium-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_table_(medium,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-table-small-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_table_(small,_Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-torches": {
+      "description": "Adds decorative lighting to your dungeon or oubliette.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_torches"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-wardrobe-mahogany-homes": {
+      "description": "Repairs or replaces furniture for a Mahogany Homes contract. Complete the assigned repairs and speak to the homeowner for Construction experience and carpenter points.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_wardrobe_(Mahogany_Homes)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yanille-teleport": {
+      "description": "Redirects a house teleport tablet into a single-use teleport to Yanille. The listed scroll is consumed when making the tablet.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yanille_teleport"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yellow-sail": {
+      "description": "Dyes an existing sail yellow. This changes the sail's appearance rather than building a new mast.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yellow_sail"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yew-totem-yew-logs-yew-shortbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yew_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yew-totem-yew-logs-yew-shortbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yew_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yew-totem-yew-logs-yew-longbow-u": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yew_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yew-totem-yew-logs-yew-longbow": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yew_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yew-totem-yew-logs-yew-shield": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yew_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yew-totem-yew-logs-yew-stock": {
+      "description": "A Vale Totems build in Auburn Valley. Carve animal spirits and decorate the totem with the listed fletched items to earn offerings.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yew_totem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-yew-tree-construction": {
+      "description": "A decorative garden tree. It cannot be chopped for logs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yew_tree_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-zamorak-icon": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zamorak_icon"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-zamorak-symbol": {
+      "description": "A decorative symbol for the chapel; choose it to match your preferred theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zamorak_symbol"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-zamorakian-trim-skiff": {
+      "description": "A cosmetic trim that changes the appearance of your skiff. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zamorakian_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-zamorakian-trim-sloop": {
+      "description": "A cosmetic trim that changes the appearance of your sloop. Apply it using the boat schematics board at a shipyard.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zamorakian_trim"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-zen-theme": {
+      "description": "Changes the superior garden's appearance to a zen theme.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zen_theme"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-alchemical-chart": {
+      "description": "A decorative alchemy chart for the study wall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_chart"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-amulet-of-glory-mounted": {
+      "description": "Provides unlimited teleports to Edgeville, Karamja, Draynor Village and Al Kharid.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amulet_of_Glory_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-ancient-altar": {
+      "description": "Switches between Ancient Magicks and the standard spellbook. Ancient Magicks must already be unlocked.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ancient_altar"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-anti-dragon-shield-mounted": {
+      "description": "Displays an anti-dragon shield as a quest hall trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Anti-dragon_shield_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "anvil-amenity": {
+      "description": "Builds an island anvil for smithing metal items.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Anvil_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-archery-target": {
+      "description": "A Ranged contest using your own bow or crossbow and ammunition. The highest score after ten shots wins.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Archery_target"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-armour-stand": {
+      "description": "Repairs Barrows and Moon equipment and other damaged armour. Higher Smithing reduces the repair price.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Armour_stand"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-astronomical-chart": {
+      "description": "A decorative star chart for the study wall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Astronomical_chart"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-balance-beam": {
+      "description": "A two-player contest using pugel sticks from an extra weapons rack. Knock your opponent off the beam to win.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Balance_beam"
+      ],
+      "checked": "2026-11-16"
+    },
+    "bank-chest-amenity": {
+      "description": "Builds an island bank chest for access to your bank.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bank_chest_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-easel": {
+      "description": "Makes wieldable family-crest banners and paints eligible helms and kiteshields. Learn your crest from Sir Renitee first.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_easel"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-banner-stand": {
+      "description": "Displays a league banner in your league hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Banner_stand"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-beehive-construction": {
+      "description": "A decorative beehive that can release bees to roam your house. It does not supply wax.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Beehive_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bells": {
+      "description": "Playable bells that ring when used in your chapel.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bells"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-boss-lair-display": {
+      "description": "Displays a boss and its lair after you supply its jar and have defeated that boss. Stored jars can be removed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Boss_lair_display"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-boxing-ring": {
+      "description": "Allows boxing matches with a visitor, using boxing gloves or unarmed attacks. A glove rack is required.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Boxing_ring"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bridge-hallowed-sepulchre-oak-plank": {
+      "description": "Repairs a bridge in the Hallowed Sepulchre so you can reach a coffin and loot it before time runs out.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bridge_(Hallowed_Sepulchre)#Oak_plank"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bridge-hallowed-sepulchre-mahogany-plank": {
+      "description": "Repairs a bridge in the Hallowed Sepulchre so you can reach a coffin and loot it before time runs out.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bridge_(Hallowed_Sepulchre)#Mahogany_plank"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bridge-hallowed-sepulchre-teak-plank": {
+      "description": "Repairs a bridge in the Hallowed Sepulchre so you can reach a coffin and loot it before time runs out.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bridge_(Hallowed_Sepulchre)#Teak_plank"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-bridge-hallowed-sepulchre-plank": {
+      "description": "Repairs a bridge in the Hallowed Sepulchre so you can reach a coffin and loot it before time runs out.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bridge_(Hallowed_Sepulchre)#Plank"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-broken-potter-s-wheel": {
+      "description": "Repairs the Isle of Souls pottery wheel so it can be used for Crafting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Broken_Potter%27s_Wheel"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-broken-spinning-wheel": {
+      "description": "Repairs the Isle of Souls spinning wheel so it can be used for Crafting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Broken_Spinning_Wheel"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-broken-spinning-wheel-fossil-island": {
+      "description": "Repairs the Museum Camp spinning wheel on Fossil Island so it can be used for Crafting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Broken_Spinning_Wheel_(Fossil_Island)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cape-hanger": {
+      "description": "Displays one eligible cape at a time. The house owner can use supported cape perks; visitors cannot.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cape_hanger"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cape-of-legends-mounted": {
+      "description": "Displays your Legends' Quest cape as a quest hall trophy. The mounted version has no teleport.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cape_of_Legends_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-chest-pieces-fossil-island-museum-camp": {
+      "description": "Completes a bank chest at the Museum Camp on Fossil Island for access to your bank.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chest_pieces_(Fossil_Island)#Museum_Camp"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-chest-pieces-wyrmscraig-wyrmscraig": {
+      "description": "Completes a bank chest at Wyrmscraig for access to your bank.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chest_pieces_(Wyrmscraig)#Wyrmscraig"
+      ],
+      "checked": "2026-11-16"
+    },
+    "cooking-pot-amenity": {
+      "description": "Builds an island cooking pot that functions as a range.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cooking_pot_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crab-trap-empty": {
+      "description": "Places a crab trap over a trapping hole. Add fish offcuts or fine fish offcuts as bait to catch crabs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crab_trap_(empty)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crafting-table-1": {
+      "description": "Makes toy horseys and wooden cats using Crafting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crafting_table_1"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crafting-table-2": {
+      "description": "Adds clockwork crafting to the toy horseys and wooden cats available at the previous table.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crafting_table_2"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crafting-table-3": {
+      "description": "Adds toy soldiers, toy dolls and clockwork suits, while retaining the previous table's products.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crafting_table_3"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crafting-table-4": {
+      "description": "Adds sextants, watches, toy mice and clockwork cats, while retaining the previous table's products.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crafting_table_4"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crawling-hand-mounted-teak-display-head-trophy-stuffed-crawling-hand": {
+      "description": "Displays a stuffed crawling hand as a skill hall trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crawling_hand_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crawling-hand-mounted-mahogany-display-head-trophy-stuffed-crawling-hand": {
+      "description": "Displays a stuffed crawling hand as a skill hall trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crawling_hand_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-crawling-hand-mounted-gilded-display-stuffed-crawling-hand": {
+      "description": "Displays a stuffed crawling hand as a skill hall trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crawling_hand_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-cushioned-basket": {
+      "description": "A resting place for cats, kittens and certain other small pets. Pick up a supported pet and use it on the basket.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cushioned_basket"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-dark-altar-construction": {
+      "description": "Switches between the Arceuus and standard spellbooks.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dark_altar_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-darklight-mounted": {
+      "description": "Displays Darklight as a quest hall sword trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Darklight_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-dartboard": {
+      "description": "A Ranged contest using your own thrown weapons. Highest score after ten throws wins; thrown items are consumed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dartboard"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-dungeon-entrance": {
+      "description": "Provides access from your garden to a house dungeon below. Creating the connecting dungeon room costs extra.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dungeon_entrance"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-eternal-brazier": {
+      "description": "Allows your boat to safely cross the icy seas of the Northern Ocean after unlocking its schematic.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Eternal_brazier"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-excalibur-mounted": {
+      "description": "Displays Excalibur as a quest hall sword trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Excalibur_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-exit-portal-iron-bar": {
+      "description": "Provides the exit from your house to its outside portal location.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Exit_portal"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-exit-portal-iron-bar-annihilation-exit-portal-blueprints": {
+      "description": "Provides the exit from your house to its outside portal location.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Exit_portal"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-extra-weapons-rack": {
+      "description": "Supplies boxing gloves, a wooden sword and shield, and a pugel stick for the balance beam.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Extra_weapons_rack"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fairy-ring-construction": {
+      "description": "Connects your house to the fairy ring network. Travel requirements still apply; your house ring can be reached with code DIQ.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fairy_ring_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fencing-ring": {
+      "description": "Allows duels using weapons without armour, jewellery or combat spells. A weapons rack and an opponent are needed.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fencing_ring"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fire-of-dehumidification": {
+      "description": "Prevents swamp decay and ghasts from rotting food in Mort Myre. Ghasts in Temple Trekking are not affected.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fire_of_Dehumidification"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fire-of-eternal-light": {
+      "description": "Provides permanent light in the affected dark area after the fire is unlocked and built.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fire_of_Eternal_Light"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fire-of-nourishment": {
+      "description": "Unlocks the disease-free herb patch at Weiss.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fire_of_Nourishment"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fire-of-unseasonal-warmth": {
+      "description": "Prevents cold-related stat drain at the God Wars Dungeon entrance and the affected part of the Ice Path.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fire_of_Unseasonal_Warmth"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fire-pit-museum-camp-built": {
+      "description": "Restores the Museum Camp fire pit on Fossil Island for cooking.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fire_pit_(Museum_Camp)#Built"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fishing-crane-repaired-plank-bronze-nails": {
+      "description": "Repairs a fishing crane in Port Piscarilius for Construction and Crafting experience. Cranes later break again and can be repaired repeatedly.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fishing_Crane#Repaired"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fishing-crane-repaired-oak-plank-bronze-nails": {
+      "description": "Repairs a fishing crane in Port Piscarilius for Construction and Crafting experience. Cranes later break again and can be repaired repeatedly.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fishing_Crane#Repaired"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fishing-crane-repaired-teak-plank-bronze-nails": {
+      "description": "Repairs a fishing crane in Port Piscarilius for Construction and Crafting experience. Cranes later break again and can be repaired repeatedly.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fishing_Crane#Repaired"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-fishing-crane-repaired-mahogany-plank-bronze-nails": {
+      "description": "Repairs a fishing crane in Port Piscarilius for Construction and Crafting experience. Cranes later break again and can be repaired repeatedly.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fishing_Crane#Repaired"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-floor-decoration": {
+      "description": "Decorates the throne room floor. It has no trapping effect when the lever is pulled.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Floor_decoration"
+      ],
+      "checked": "2026-11-16"
+    },
+    "furnace-amenity": {
+      "description": "Builds an island furnace for smelting ores.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Furnace_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-glove-rack": {
+      "description": "Supplies red and blue boxing gloves for house boxing matches.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Glove_rack"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-greater-magic-cage": {
+      "description": "Traps players on the throne room floor. Its controls can release them, drop them into an oubliette, or teleport them away.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Greater_magic_cage"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-greater-teleport-focus": {
+      "description": "Configures the destinations of portals in your portal chamber. This version changes the appearance, not the available destinations.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Greater_teleport_focus"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-greenman-carving-construction": {
+      "description": "A woodland-spirit carving displayed as a wall decoration.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Greenman_carving_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-greenman-statue-construction": {
+      "description": "A woodland-spirit statue displayed as a garden decoration.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Greenman_statue_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-half-built-loom": {
+      "description": "Completes the Museum Camp loom on Fossil Island so it can be used for Crafting.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Half-built_Loom"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-hangman": {
+      "description": "A letter-guessing game for house visitors. Complete the hidden word before the hangman figure is finished.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hangman"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-jester": {
+      "description": "Starts an emote-copying contest. The first player to copy ten of the jester's emotes wins.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Jester"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-league-accomplishments-scroll": {
+      "description": "Shows the owner's league statistics, past rankings and league-first achievements.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/League_accomplishments_scroll"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-league-statue": {
+      "description": "A decorative statue in the league hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/League_statue"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-lesser-magic-cage": {
+      "description": "Traps players on the throne room floor, with options to release them or drop them into an oubliette below.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Lesser_magic_cage"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-lunar-altar": {
+      "description": "Switches between the Lunar and standard spellbooks. Lunar Diplomacy is required to use Lunar spells.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Lunar_altar"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-coins": {
+      "description": "Displays a pile of coins as an achievement gallery decoration.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_coins"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-emblem": {
+      "description": "Displays your Last Man Standing decorative emblem as an achievement gallery trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_emblem"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mounted-head-getting-ahead": {
+      "description": "Mounts the quest head in Gordon and Mary's house during Getting Ahead. It cannot be built in your own house.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mounted_Head_(Getting_Ahead)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-mythical-cape-mounted": {
+      "description": "Displays your mythical cape and provides a teleport to the Myths' Guild.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mythical_cape_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-oak-outfit-stand": {
+      "description": "Displays a league outfit in your league hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Oak_outfit_stand"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-obelisk-construction": {
+      "description": "Teleports to a Wilderness obelisk. Destinations are random until the hard Wilderness Diary is completed; it does not provide a return teleport home.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Obelisk_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-occult-altar-upgrade-ancient-altar": {
+      "description": "Upgrades the existing altar to let you switch between all four spellbooks. Each spellbook must already be unlocked.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Occult_altar"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-occult-altar-upgrade-dark-altar": {
+      "description": "Upgrades the existing altar to let you switch between all four spellbooks. Each spellbook must already be unlocked.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Occult_altar"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-occult-altar-upgrade-lunar-altar": {
+      "description": "Upgrades the existing altar to let you switch between all four spellbooks. Each spellbook must already be unlocked.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Occult_altar"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-old-man-s-coffin-construction": {
+      "description": "Builds the coffin in the Wise Old Man's house used to stage his death during Making Friends with My Arm.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Old_man%27s_coffin_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-ornate-trophy-pedestal": {
+      "description": "Displays a league trophy on a decorative pedestal.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ornate_trophy_pedestal"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-ornate-undead-combat-dummy": {
+      "description": "A maximum-hit test dummy with selectable monster types, allowing you to test different equipment bonuses.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ornate_undead_combat_dummy"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-pet-list": {
+      "description": "Shows which pets you own.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pet_list"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-pluming-stand": {
+      "description": "Paints eligible full helms with your family crest after you learn it from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pluming_stand"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-pumpkin-construction": {
+      "description": "A garden pumpkin that dispenses novelty candy. The candy makes your character speak but gives no gameplay bonus.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pumpkin_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-raging-echoes-rug-construction": {
+      "description": "A decorative rug with a Raging Echoes League design.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Raging_echoes_rug_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-ranging-pedestals": {
+      "description": "Raised platforms for duelling visitors with Ranged or Magic; melee cannot reach between them.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ranging_pedestals"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-repair-bench": {
+      "description": "Restores broken arrows and broken staves to usable items.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Repair_bench"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-ring-of-stones-museum-camp": {
+      "description": "Builds a well at the Museum Camp on Fossil Island, providing a water source.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ring_of_Stones#Museum_camp"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-s-t-a-s-h-chart": {
+      "description": "Lists STASH locations and shows which units you have built and filled.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/S.t.a.s.h_chart"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-scrying-pool": {
+      "description": "Configures house portals and previews their destinations. Wilderness and boat destinations show nearby player counts instead of a view.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Scrying_pool"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-servant-s-money-bag": {
+      "description": "Stores coins and automatically pays your hired servant's wages, reducing payment interruptions.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Servant%27s_money_bag"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-shield-easel": {
+      "description": "Paints eligible full helms and kiteshields with your family crest after you learn it from Sir Renitee.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shield_easel"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-silverlight-mounted": {
+      "description": "Displays Silverlight as a quest hall sword trophy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Silverlight_(mounted)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-spice-rack": {
+      "description": "Stores the brown, orange, red and yellow spices used for spicy stews. Withdrawn doses are placed in new shakers.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Spice_rack"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-spirit-tree-fairy-ring": {
+      "description": "Combines access to the spirit tree and fairy ring networks in one hotspot. Travel unlocks still apply.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Spirit_tree_%26_fairy_ring"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-steel-cage": {
+      "description": "Traps players standing on the throne room floor when the lever is pulled.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Steel_cage"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teleport-focus": {
+      "description": "Configures the destinations of portals in your portal chamber. Attuning destinations requires additional runes.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teleport_focus"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-teleport-trap": {
+      "description": "Teleports a visitor who fails to avoid it into an oubliette, or elsewhere in the dungeon if no oubliette exists.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Teleport_trap"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tip-jar": {
+      "description": "Lets visitors give coins or platinum tokens to the house owner.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tip_jar"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tool-store-1": {
+      "description": "Supplies unlimited saws, hammers, chisels and shears.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tool_store_1"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tool-store-2": {
+      "description": "Supplies unlimited buckets, knives, spades and tinderboxes.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tool_store_2"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tool-store-3": {
+      "description": "Supplies unlimited brown aprons, glassblowing pipes and needles.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tool_store_3"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tool-store-4": {
+      "description": "Supplies jewellery moulds for amulets, necklaces, rings, holy symbols, bracelets and tiaras.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tool_store_4"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-tool-store-5": {
+      "description": "Supplies farming tools including rakes, spades, trowels, seed dibbers, watering cans and secateurs.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tool_store_5"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-topiary-bush": {
+      "description": "Can be sculpted with secateurs into the shape of a boss you have defeated.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Topiary_bush"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-trailblazer-globe-construction": {
+      "description": "Displays a spinning globe in the league hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Trailblazer_globe_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-trailblazer-rug-construction": {
+      "description": "A decorative rug with a Trailblazer League design.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Trailblazer_rug_(Construction)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-trapdoor": {
+      "description": "Drops players from the throne room floor into the oubliette below when the lever is pulled.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Trapdoor"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-treasure-hunt": {
+      "description": "Starts a house game where players use a warmer-or-colder treasure stone to find a hidden fairy.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Treasure_hunt"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-trophy-pedestal": {
+      "description": "Displays a league trophy in your league hall.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Trophy_pedestal"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-undead-combat-dummy": {
+      "description": "Shows your maximum hit while acting as an undead, demonic and Slayer-task target for equipment bonuses.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Undead_combat_dummy"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-weapons-rack": {
+      "description": "Supplies practice equipment for your combat room, including a wooden sword and shield.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Weapons_rack"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-whetstone": {
+      "description": "Repairs broken arrows, broken staves and rusty swords.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Whetstone"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-windchimes": {
+      "description": "Playable chimes that add a musical sound to your chapel.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Windchimes"
+      ],
+      "checked": "2026-11-16"
+    },
+    "table-wooden-larder": {
+      "description": "Supplies unlimited milk and tea leaves for cooking and brewing tea.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wooden_larder"
+      ],
+      "checked": "2026-11-16"
+    },
+    "loom-amenity": {
+      "description": "Builds an island loom for weaving yarn, willow branches and jute fibres.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Loom_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "potter-s-wheel-amenity": {
+      "description": "Builds an island pottery wheel for shaping clay items.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Potter's_wheel_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "pottery-oven-amenity": {
+      "description": "Builds an island pottery oven for firing clay items.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pottery_oven_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "rowboat-amenity": {
+      "description": "Unlocks a rowboat route between an island and the mainland, avoiding the need to sail to its mooring point.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rowboat_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "spinning-wheel-amenity": {
+      "description": "Builds an island spinning wheel for making thread and other spun materials.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Spinning_wheel_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    },
+    "water-pump-amenity": {
+      "description": "Builds an island water source for filling containers.",
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Water_pump_(amenity)"
+      ],
+      "checked": "2026-11-16"
+    }
+  },
+  "method": "Original concise summaries of OSRS Wiki item and room documentation. Shared-function summaries apply to cosmetic tiers and recipe variants; sources identify the item page. Existing specific descriptions are retained."
+}

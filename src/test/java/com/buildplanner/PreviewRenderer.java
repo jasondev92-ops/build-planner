@@ -58,6 +58,11 @@ public final class PreviewRenderer
                 BufferedImage example=new BufferedImage(242,800,BufferedImage.TYPE_INT_RGB);
                 Graphics2D graphics=example.createGraphics();v.printAll(graphics);graphics.dispose();
                 ImageIO.write(example,"png",new File(dir,"materials-example.png"));
+                v.configureReleaseNotice("0.1.8-beta",()->{});
+                for(int i=0;i<4;i++)layout(v);
+                BufferedImage notice=new BufferedImage(242,800,BufferedImage.TYPE_INT_RGB);
+                Graphics2D noticeGraphics=notice.createGraphics();v.printAll(noticeGraphics);noticeGraphics.dispose();
+                ImageIO.write(notice,"png",new File(dir,"update-notice.png"));
             }catch(Exception ex){throw new RuntimeException(ex);}
         });
     }

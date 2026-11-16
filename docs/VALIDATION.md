@@ -1,3 +1,13 @@
+# 0.1.9 update — 16 November 2026
+
+61 JUnit tests pass, compiled to Java 11 bytecode against RuneLite 1.13.3. New tests exercise real Swing release-notice dismissal and acknowledgement, automatic material cards with unknown and known counts/prices, manual Have all controls, and catalogue-wide placeholder removal with functional-description spot checks. The original 57 tests still pass.
+
+The independent source audit still covers all 960 table rows, 33 upgrade totals, 326 material names and 500 room mappings. A before/after catalogue comparison confirms only description strings changed; IDs, materials, requirements, sources, stats and dependencies are identical. Description overrides are explicit and reapplied by the catalogue generator.
+
+Real Swing previews were inspected at 242 × 800. No live game login or full Gradle build was run here. The verification harness uses pinned RuneLite 1.13.3 dependencies; the development Gradle launcher continues to resolve latest.release. The existing launcher unchecked-varargs warning remains.
+
+Only the separate lastSeenVersion configuration key is added. Project persistence keys and schema are unchanged; no account information or saved plans are included.
+
 # 0.1.8 update — 15 November 2026
 
 57 JUnit tests pass with Java 11 bytecode against RuneLite 1.13.3. New tests exercise actual Swing room selection, category reset, independent per-build materials, quantities, full upgrade chains, merged additions and completion/undo. Collapse/expand tests verify independent cards, preserved collapse state after merged additions and room filtering, and unchanged project requirements. Catalogue checks cover shared-room furniture, excluded world/Sailing recipes and the full unfiltered catalogue. The independent data audit validates 500 room mappings across 24 room types alongside the existing 960-row, 33-upgrade-total and 326-material checks.

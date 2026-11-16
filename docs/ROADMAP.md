@@ -1,8 +1,7 @@
-# Next update
+# 0.1.9 development update
 
-Requested by Jason on 15 November 2026; deliberately deferred from 0.1.8:
+Implemented: List summary/material cards, permanent Info release notes, a dismissible per-version sidebar notice, and function descriptions replacing generated placeholders and generic island amenities.
 
-- Add a permanent What's new section, plus a dismissible notice shown once per version when the plugin panel is opened. Store the last-seen version in plugin configuration; do not interrupt gameplay with a modal popup.
-- Replace generic recipe descriptions with concise, useful descriptions of what each construction does. Verify details against the specific OSRS Wiki item page, write original summaries, retain source links/attribution, and include meaningful effects or limitations where supported.
+Before release: test in the live RuneLite client, including dismissal/restart, configuration-profile switching, narrow panel layout, automatic bank counts and manual counts. Submit this version separately after the pending 0.1.8 review; its Hub manifest is unchanged.
 
-0.1.8 delivers per-build materials, room filtering and collapsible Plan cards first.
+Future maintenance: refine descriptions and stats as game mechanics change, and extend verified sprite coverage. Do not infer new recipes or output quantities from UI labels.

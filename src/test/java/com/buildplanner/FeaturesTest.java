@@ -153,7 +153,7 @@ public class FeaturesTest
     {
         assertEquals(739,catalogue.search("","Construction","All boats").size());
         assertEquals(182,catalogue.search("","Sailing","All boats").size());
-        assertEquals("0.1.8-beta",ReleaseInfo.version());
+        assertEquals("0.1.9-beta",ReleaseInfo.version());
         assertEquals("https://github.com/jasondev92-ops/build-planner/issues/new/choose",ReleaseInfo.feedbackUrl());
     }
     @Test public void freshProfilesDoNotInheritAnotherProfilesSavedPlan()
@@ -203,6 +203,79 @@ public class FeaturesTest
             v.selectCategory("Construction");assertTrue(v.roomFilterEnabled());
             assertEquals(739,v.recipeList().getModel().getSize());
         });
+    }
+    @Test public void releaseNoticeOnlyAcknowledgesExplicitAction() throws Exception
+    {
+        SwingUtilities.invokeAndWait(() -> {
+            java.util.concurrent.atomic.AtomicInteger acknowledgements=new java.util.concurrent.atomic.AtomicInteger();
+            PlannerView v=new PlannerView(gson,catalogue,Planner.fresh(catalogue),()->{},s->{});
+            v.configureReleaseNotice(null,acknowledgements::incrementAndGet);
+            assertTrue(v.releaseNoticeVisible()); assertEquals(0,acknowledgements.get());
+            v.setSize(242,800);for(int i=0;i<4;i++)PreviewRenderer.layout(v);
+            assertVisibleButtonBounds(v,"Dismiss");assertVisibleButtonBounds(v,"What's new");
+            assertTrue(clickButton(v,"Dismiss"));
+            assertFalse(v.releaseNoticeVisible()); assertEquals(1,acknowledgements.get());
+            v.configureReleaseNotice(ReleaseInfo.version(),acknowledgements::incrementAndGet);
+            assertFalse(v.releaseNoticeVisible()); assertEquals(1,acknowledgements.get());
+            v.configureReleaseNotice("0.1.8-beta",acknowledgements::incrementAndGet);
+            assertTrue(v.releaseNoticeVisible());
+            assertTrue(clickButton(v,"What's new"));
+            assertEquals(3,v.selectedTab()); assertFalse(v.releaseNoticeVisible());
+            assertEquals(2,acknowledgements.get());
+            assertTrue(ReleaseInfo.changes().contains(ReleaseInfo.version()));
+        });
+    }
+    @Test public void materialCardsPreserveUnknownAndKnownCountsAndPrices() throws Exception
+    {
+        SwingUtilities.invokeAndWait(() -> {
+            Planner p=Planner.fresh(catalogue);p.add("oak-chair",2,false);
+            PlannerView v=new PlannerView(gson,catalogue,p,()->{},s->{});v.selectTab(2);
+            assertNotNull(named(v,"materialSummary"));
+            assertTrue(namedText(v,"materialCard:Oak plank").contains("Missing: refresh bank/inventory"));
+            assertFalse(namedText(v,"materialCard:Oak plank").contains("Ready"));
+            v.updateSupplies(new Supplies.Snapshot(Map.of(8778,2L),Map.of(8778,1L),true,1L,
+                Map.of(8778,500L),Set.of(),1L,"Test prices"));
+            String text=namedText(v,"materialCard:Oak plank");
+            assertTrue(text.contains("×4"));assertTrue(text.contains("Bank 2"));assertTrue(text.contains("Inventory 1"));
+            assertTrue(text.contains("Missing 1"));assertTrue(text.contains("Each: 500 gp"));
+            assertTrue(text.contains("Missing cost: 500 gp"));
+            assertTrue(v.shoppingListText().contains("Need 4"));
+        });
+    }
+    @Test public void manualMaterialCardCanMarkAllOwned() throws Exception
+    {
+        SwingUtilities.invokeAndWait(() -> {
+            Planner p=Planner.fresh(catalogue);p.add("oak-chair",2,false);p.current().manualCounts=true;
+            PlannerView v=new PlannerView(gson,catalogue,p,()->{},s->{});v.selectTab(2);
+            assertTrue(clickButton(named(v,"materialCard:Oak plank"),"Have all"));
+            assertEquals(Long.valueOf(4),p.current().owned.get("Oak plank"));
+            assertTrue(namedText(v,"materialCard:Oak plank").contains("Ready"));
+            assertTrue(namedText(v,"materialCard:Oak plank").contains("Have 4"));
+        });
+    }
+    @Test public void descriptionsExplainFunctionsWithoutPlaceholderText()
+    {
+        for(Recipe r:catalogue.search("","All","All boats")) {
+            assertNotNull(r.description);assertFalse(r.description.isBlank());
+            assertFalse(r.id,r.description.startsWith("Build or make"));
+            assertFalse(r.id,r.description.contains("An island amenity built at a dedicated hotspot"));
+        }
+        assertTrue(catalogue.get("table-armour-stand").description.contains("Smithing"));
+        assertTrue(catalogue.get("table-spirit-tree-construction").description.contains("network"));
+        assertTrue(catalogue.get("table-oak-tree-construction").description.contains("cannot be chopped"));
+        assertTrue(catalogue.get("table-mythical-cape-mounted").description.contains("teleport"));
+    }
+    private static void assertVisibleButtonBounds(java.awt.Component c,String text)
+    {
+        if(c instanceof javax.swing.JButton && text.equals(((javax.swing.JButton)c).getText())) {
+            java.awt.Component child=c;
+            while(child.getParent()!=null) {
+                assertTrue(text,child.getWidth()>0 && child.getHeight()>0);
+                assertTrue(text,child.getY()>=0 && child.getY()+child.getHeight()<=child.getParent().getHeight());
+                child=child.getParent();
+            }
+        }
+        if(c instanceof java.awt.Container)for(java.awt.Component child:((java.awt.Container)c).getComponents())assertVisibleButtonBounds(child,text);
     }
     private static String namedText(java.awt.Component component, String name)
     {

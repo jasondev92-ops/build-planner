@@ -99,6 +99,8 @@ public final class BuildPlannerPlugin extends Plugin
                 if (image == null) ready.accept(null);
                 else image.onLoaded(() -> ready.accept(image));
             });
+        view.configureReleaseNotice(config.getConfiguration(GROUP, "lastSeenVersion"),
+            () -> config.setConfiguration(GROUP, "lastSeenVersion", ReleaseInfo.version()));
         publishPlan(planner);
         view.updateLevels(construction, sailing);
         view.updateSupplies(snapshot);

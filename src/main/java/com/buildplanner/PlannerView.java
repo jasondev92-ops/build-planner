@@ -40,6 +40,7 @@ public final class PlannerView extends JPanel
     // Presentation state only; weak keys avoid retaining removed builds or old profiles.
     private final java.util.Map<Planner.Entry, Boolean> collapsed = new java.util.WeakHashMap<>();
     private final JPanel materials = stack();
+    private final JPanel releaseNotice = new JPanel(new BorderLayout(0, 3));
     private final JLabel status = new JLabel(" ");
     private final JTabbedPane tabs = new JTabbedPane();
     private final JButton add;
@@ -82,6 +83,7 @@ public final class PlannerView extends JPanel
         header.add(area("Recipes & shopping lists\nConstruction & Sailing"));
         projects.setMaximumSize(new Dimension(Integer.MAX_VALUE, 28)); header.add(projects);
         header.add(row(button("New", this::newProject), button("Rename", this::renameProject), button("Delete", this::deleteProject)));
+        releaseNotice.setVisible(false); header.add(releaseNotice);
         add(header, BorderLayout.NORTH);
         projects.addActionListener(e -> {
             if (!refreshing && projects.getSelectedItem() != null) {
@@ -162,6 +164,10 @@ public final class PlannerView extends JPanel
         tabs.addTab("Find", find); tabs.addTab("Plan", scroll(plan)); tabs.addTab("List", scroll(materials));
         JPanel help = stack();
         help.add(area("Build Planner " + ReleaseInfo.version()));
+        JPanel news = card();
+        JTextArea newsTitle = area("WHAT'S NEW"); newsTitle.setFont(newsTitle.getFont().deriveFont(Font.BOLD));
+        news.add(newsTitle); news.add(area(ReleaseInfo.changes()));
+        help.add(news); help.add(Box.createVerticalStrut(8));
         if (!ReleaseInfo.feedbackUrl().isEmpty())
             help.add(button("Suggestions & bug reports", () -> openLink.accept(ReleaseInfo.feedbackUrl())));
         help.add(area("CATALOGUE COVERAGE\n921 recipe/build-action entries from the supplied Construction experience table, including 182 Sailing entries. All 960 source rows accounted for: 921 recipes, 33 upgrade totals represented by chains, and six activities without material recipes. Snapshot checked 23 October 2026.\n\n649 named game-icon mappings; 272 entries show Image not yet verified. Some entries are alternate methods or cosmetics. Quantities mean build/crafting actions, not guaranteed output-item counts. Crafted components are not expanded automatically. This covers the supplied table, not every recipe in the game.\n\nAutomatic counts use your bank and inventory after opening the bank this session. Manual mode retains counts set aside per project. Ship cargo, pouches, and other special storage are not scanned. Counts are not reservations across projects. Prices are cached estimates, not guaranteed offers. Projects are saved in your RuneLite configuration profile and may follow its sync settings. Development and Plugin Hub installations using the same profile share those saved projects. A profile without saved planner data starts with an empty project.\n\nBring a hammer and saw for ordinary builds. Check the linked source for room, quest, hotspot and operating requirements. Level marks check your current boosted levels; a question mark means unavailable. Crystal saw and other tool bonuses, quests and other skill requirements are not checked. Island docking requirements are listed in the item notes.\n\nEach planned line represents a separate build. Avoid selecting both a full upgrade chain and its lower steps unless you intend to build both. Generic house nails are listed separately from fixed-metal Sailing nails. Bring extras for bending.\n\nMark complete removes a whole planned line from remaining materials; Undo restores it. Manual owned counts are not deducted automatically. Enable Automatic bank highlighting through the gear beside Build Planner in RuneLite settings. Highlighting follows unfinished builds in the selected project.\n\nThis plugin performs no gameplay actions."));
@@ -186,6 +192,40 @@ public final class PlannerView extends JPanel
         public int getScrollableBlockIncrement(Rectangle r, int o, int d) { return Math.max(16, r.height - 16); }
         public boolean getScrollableTracksViewportWidth() { return true; }
         public boolean getScrollableTracksViewportHeight() { return false; }
+    }
+    private static JPanel card()
+    {
+        JPanel card = stack();
+        card.setBackground(new Color(34, 36, 39));
+        card.setBorder(BorderFactory.createCompoundBorder(
+            BorderFactory.createLineBorder(new Color(65, 68, 72), 1, true),
+            BorderFactory.createEmptyBorder(7, 7, 7, 7)));
+        return card;
+    }
+    private static JSeparator divider()
+    {
+        JSeparator line = new JSeparator();
+        line.setMaximumSize(new Dimension(Integer.MAX_VALUE, 1));
+        line.setForeground(new Color(65, 68, 72));
+        return line;
+    }
+    /** Notice stays inside the sidebar and is acknowledged only by an explicit user action. */
+    void configureReleaseNotice(String lastSeen, Runnable acknowledge)
+    {
+        releaseNotice.removeAll();
+        releaseNotice.setVisible(ReleaseInfo.isNewFor(lastSeen));
+        if (!releaseNotice.isVisible()) return;
+        releaseNotice.add(new JLabel("Updated to v" + ReleaseInfo.version()), BorderLayout.NORTH);
+        Runnable dismiss = () -> {
+            acknowledge.run();
+            releaseNotice.setVisible(false); revalidate(); repaint();
+        };
+        releaseNotice.add(row(button("What's new", () -> {
+            dismiss.run(); tabs.setSelectedIndex(3);
+            JScrollPane info = (JScrollPane) tabs.getComponentAt(3);
+            SwingUtilities.invokeLater(() -> info.getVerticalScrollBar().setValue(0));
+        }), button("Dismiss", dismiss)), BorderLayout.SOUTH);
+        revalidate(); repaint();
     }
     private static JPanel row(Component... components)
     {
@@ -391,11 +431,7 @@ public final class PlannerView extends JPanel
             Recipe r = catalogue.get(e.recipeId);
             if (!"All rooms".equals(planRoom.getSelectedItem()) && !r.rooms.contains(planRoom.getSelectedItem())) continue;
             shown++;
-            JPanel card = stack();
-            card.setBackground(new Color(34, 36, 39));
-            card.setBorder(BorderFactory.createCompoundBorder(
-                BorderFactory.createLineBorder(new Color(65, 68, 72), 1, true),
-                BorderFactory.createEmptyBorder(7, 7, 7, 7)));
+            JPanel card = card();
             JPanel heading = new JPanel(new BorderLayout(4, 0)); heading.setOpaque(false);
             JTextArea title = area(r.label()); title.setFont(title.getFont().deriveFont(Font.BOLD, 13f));
             heading.add(title, BorderLayout.CENTER);
@@ -464,10 +500,14 @@ public final class PlannerView extends JPanel
     { return java.time.Instant.ofEpochMilli(millis).atZone(java.time.ZoneId.systemDefault()).format(java.time.format.DateTimeFormatter.ofPattern("HH:mm:ss")); }
     private String materialText(Supplies.Row m)
     {
+        return m.name+"\nNeed "+m.required+"\n"+materialDetails(m);
+    }
+    private String materialDetails(Supplies.Row m)
+    {
         boolean manual=planner.current().manualCounts;
-        String text=m.name+"\nNeed "+m.required;
-        if (manual) text+="  ·  Have "+m.owned;
-        else text+="\nBank "+(supplies.bankAt==0?"?":m.bank)+"  ·  Inventory "+(supplies.inventoryKnown?m.inventory:"?");
+        String text;
+        if (manual) text="Have "+m.owned;
+        else text="Bank "+(supplies.bankAt==0?"?":m.bank)+"  ·  Inventory "+(supplies.inventoryKnown?m.inventory:"?");
         text+="\n"+(m.countsKnown?(m.missing==0?"Ready":"Missing "+m.missing):"Missing: refresh bank/inventory");
         if (Supplies.ANY_NAILS.equals(m.name) && !manual) text+="\nCounts exclude nails reserved for fixed-metal recipes.";
         if (m.unitPrice>0) {
@@ -491,39 +531,53 @@ public final class PlannerView extends JPanel
     {
         materialsDirty=false;
         materials.removeAll();
-        materials.add(area("COMBINED MATERIALS"));
         JComboBox<String> mode=new JComboBox<>(new String[]{"Automatic: bank + inventory", "Manual: set aside"});
         mode.setFont(mode.getFont().deriveFont(11f));
         mode.setMaximumSize(new Dimension(Integer.MAX_VALUE,28));
         mode.setSelectedIndex(planner.current().manualCounts?1:0);
         mode.addActionListener(e -> { planner.current().manualCounts=mode.getSelectedIndex()==1; changed(); });
-        materials.add(mode);
-        materials.add(area(countStatus()));
-        materials.add(button("Copy shopping list", () -> {
+        materials.add(mode); materials.add(Box.createVerticalStrut(8));
+        JPanel summary = card(); summary.setName("materialSummary");
+        JTextArea summaryTitle = area("COMBINED MATERIALS");
+        summaryTitle.setFont(summaryTitle.getFont().deriveFont(Font.BOLD, 13f));
+        summary.add(summaryTitle); summary.add(area(countStatus()));
+        summary.add(button("Copy shopping list", () -> {
             Toolkit.getDefaultToolkit().getSystemClipboard().setContents(new StringSelection(shoppingListText()), null);
             status.setText("Shopping list copied");
         }));
         List<Supplies.Row> rows=supplyCalculator.calculate(planner.materials(),planner.current().manualCounts,supplies);
-        if (rows.isEmpty()) materials.add(area("Add recipes to see your shopping list."));
+        if (rows.isEmpty()) summary.add(area("Add recipes to see your shopping list."));
         else {
+            summary.add(Box.createVerticalStrut(7)); summary.add(divider());
             JTextArea total=area(Supplies.summary(rows));
-            total.setFont(total.getFont().deriveFont(Font.BOLD)); materials.add(total);
-            materials.add(area(supplies.priceSource+"\n"+(supplies.priceAt>0?"Cache checked "+time(supplies.priceAt):"Prices load after login")+"\nEstimates only; fees and extra tools excluded."));
+            total.setName("materialTotals");
+            total.setFont(total.getFont().deriveFont(Font.BOLD)); summary.add(total);
+            summary.add(area(supplies.priceSource+"\n"+(supplies.priceAt>0?"Cache checked "+time(supplies.priceAt):"Prices load after login")+"\nEstimates only; fees and extra tools excluded."));
         }
+        materials.add(summary); materials.add(Box.createVerticalStrut(9));
         for (Supplies.Row m : rows)
         {
-            JPanel card = stack(); card.setBorder(BorderFactory.createEmptyBorder(5, 2, 5, 2));
-            JTextArea label = area(materialText(m));
+            JPanel card = card(); card.setName("materialCard:" + m.name);
+            JPanel heading = new JPanel(new BorderLayout(5, 0)); heading.setOpaque(false);
+            JTextArea title = area(m.name); title.setFont(title.getFont().deriveFont(Font.BOLD, 13f));
+            JLabel needed = new JLabel("×" + m.required, SwingConstants.RIGHT);
+            needed.setVerticalAlignment(SwingConstants.TOP);
+            needed.setBorder(BorderFactory.createEmptyBorder(4, 0, 4, 0));
+            heading.add(title, BorderLayout.CENTER); heading.add(needed, BorderLayout.EAST);
+            card.add(heading); card.add(divider());
+            JTextArea label = area(materialDetails(m));
             if (m.countsKnown && m.missing == 0) label.setForeground(new Color(77, 165, 127)); card.add(label);
             if (planner.current().manualCounts) card.add(row(button("Set have", () -> {
                 String v = JOptionPane.showInputDialog(this, "How many have you set aside?", m.owned);
                 if (v != null) { planner.owned(m.name, Long.parseLong(v.strip())); changed(); }
             }), button("Have all", () -> { planner.owned(m.name, m.required); changed(); })));
-            materials.add(card);
+            materials.add(card); materials.add(Box.createVerticalStrut(9));
         }
         materials.add(Box.createVerticalGlue()); materials.revalidate(); materials.repaint();
     }
     // Package-private hooks for real-component UI regression tests.
+    boolean releaseNoticeVisible() { return releaseNotice.isVisible(); }
+    int selectedTab() { return tabs.getSelectedIndex(); }
     void selectPlanRoom(String name) { planRoom.setSelectedItem(name); }
     void selectRoom(String name) { room.setSelectedItem(name); }
     void selectCategory(String name) { category.setSelectedItem(name); }
