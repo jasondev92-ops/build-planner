@@ -153,7 +153,7 @@ public class FeaturesTest
     {
         assertEquals(739,catalogue.search("","Construction","All boats").size());
         assertEquals(182,catalogue.search("","Sailing","All boats").size());
-        assertEquals("0.1.7-beta",ReleaseInfo.version());
+        assertEquals("0.1.8-beta",ReleaseInfo.version());
         assertEquals("https://github.com/jasondev92-ops/build-planner/issues/new/choose",ReleaseInfo.feedbackUrl());
     }
     @Test public void freshProfilesDoNotInheritAnotherProfilesSavedPlan()
@@ -176,4 +176,128 @@ public class FeaturesTest
         assertEquals(3, restored.current().entries.get(0).quantity);
         assertEquals(Long.valueOf(4), restored.current().owned.get("Oak plank"));
     }
+    @Test public void roomFilterIncludesSharedFurnitureAndExcludesOtherActivities()
+    {
+        assertEquals(24,catalogue.rooms().size());
+        assertEquals(Set.of("Parlour"),Set.copyOf(catalogue.get("oak-chair").rooms));
+        assertEquals(Set.of("Parlour","Quest hall","Study"),Set.copyOf(catalogue.get("table-oak-bookcase").rooms));
+        assertEquals(Set.of("oak-chair","table-oak-armchair"),catalogue.search("oak chair","All","All boats","Parlour").stream().map(r -> r.id).collect(java.util.stream.Collectors.toSet()));
+        assertEquals(2,catalogue.search("oak chair","Construction","All boats","Parlour").size());
+        assertTrue(catalogue.search("","Sailing","All boats","Kitchen").isEmpty());
+        assertFalse(catalogue.get("table-oak-chair-mahogany-homes").rooms.contains("Parlour"));
+        assertEquals(921,catalogue.search("","All","All boats","All rooms").size());
+        assertFalse(catalogue.get("table-boundary-stones").rooms.contains("Superior garden"));
+        assertTrue(catalogue.get("table-marble-wall").rooms.containsAll(java.util.List.of("Formal garden","Superior garden")));
+        assertFalse(catalogue.get("table-brown-rug").rooms.contains("League hall"));
+        assertTrue(catalogue.get("table-rug").rooms.contains("League hall"));
+    }
+    @Test public void roomDropdownCombinesWithSearchAndResetsForSailing() throws Exception
+    {
+        SwingUtilities.invokeAndWait(() -> {
+            PlannerView v=new PlannerView(gson,catalogue,Planner.fresh(catalogue),()->{},s->{});
+            v.selectRoom("Parlour");v.searchFor("Oak chair");
+            assertEquals(2,v.recipeList().getModel().getSize());
+            v.selectRoom("Kitchen");assertEquals(0,v.recipeList().getModel().getSize());
+            v.searchFor("");v.selectCategory("Sailing");
+            assertFalse(v.roomFilterEnabled());assertEquals(182,v.recipeList().getModel().getSize());
+            v.selectCategory("Construction");assertTrue(v.roomFilterEnabled());
+            assertEquals(739,v.recipeList().getModel().getSize());
+        });
+    }
+    private static String namedText(java.awt.Component component, String name)
+    {
+        if (name.equals(component.getName())) return componentText(component);
+        if (component instanceof java.awt.Container)
+            for (java.awt.Component child:((java.awt.Container)component).getComponents()) {
+                String text=namedText(child,name);if(text!=null)return text;
+            }
+        return null;
+    }
+    private static String componentText(java.awt.Component c)
+    {
+        if(c instanceof javax.swing.JTextArea)return ((javax.swing.JTextArea)c).getText();
+        if(c instanceof javax.swing.JLabel)return ((javax.swing.JLabel)c).getText();
+        if(c instanceof java.awt.Container) {
+            java.awt.Container container=(java.awt.Container)c;
+            if(container.getLayout() instanceof java.awt.BorderLayout) {
+                java.awt.BorderLayout layout=(java.awt.BorderLayout)container.getLayout();
+                java.awt.Component amount=layout.getLayoutComponent(java.awt.BorderLayout.EAST);
+                java.awt.Component material=layout.getLayoutComponent(java.awt.BorderLayout.CENTER);
+                if(amount instanceof javax.swing.JLabel && material instanceof javax.swing.JTextArea)
+                    return componentText(amount)+" × "+componentText(material);
+            }
+            StringBuilder text=new StringBuilder();
+            for(java.awt.Component child:container.getComponents())text.append(componentText(child)).append('\n');
+            return text.toString();
+        }
+        return "";
+    }
+    private static java.awt.Component named(java.awt.Component c,String name)
+    {
+        if(name.equals(c.getName()))return c;
+        if(c instanceof java.awt.Container)for(java.awt.Component child:((java.awt.Container)c).getComponents()) {
+            java.awt.Component found=named(child,name);if(found!=null)return found;
+        }
+        return null;
+    }
+    @Test public void collapsedCardsStayCollapsedAcrossRefreshAndRoomFiltering() throws Exception
+    {
+        SwingUtilities.invokeAndWait(() -> {
+            Planner p=Planner.fresh(catalogue);p.add("oak-chair",2,false);p.add("gilded-altar",1,false);
+            PlannerView v=new PlannerView(gson,catalogue,p,()->{},s->{});
+            assertTrue(named(v,"planBody:oak-chair").isVisible());
+            ((javax.swing.JButton)named(v,"planToggle:oak-chair")).doClick();
+            assertFalse(named(v,"planBody:oak-chair").isVisible());
+            assertTrue(named(v,"planBody:gilded-altar").isVisible());
+            v.searchFor("Oak chair");v.chooseRecipe("oak-chair");v.addSelected();
+            assertFalse(named(v,"planBody:oak-chair").isVisible());
+            assertTrue(namedText(v,"planMaterials:oak-chair").contains("6 × Oak plank"));
+            int all=p.materials().size();
+            v.selectPlanRoom("Chapel");assertNull(named(v,"planBody:oak-chair"));
+            assertNotNull(named(v,"planBody:gilded-altar"));assertEquals(all,p.materials().size());
+            v.selectPlanRoom("All rooms");assertFalse(named(v,"planBody:oak-chair").isVisible());
+            ((javax.swing.JButton)named(v,"planToggle:oak-chair")).doClick();
+            assertTrue(named(v,"planBody:oak-chair").isVisible());
+            assertTrue(componentText(v).contains("Parlour"));
+            assertTrue(componentText(v).contains("Chapel"));
+        });
+    }
+    @Test public void planCardsShowSeparateQuantityAndChainMaterials() throws Exception
+    {
+        SwingUtilities.invokeAndWait(() -> {
+            Planner p=Planner.fresh(catalogue);p.add("oak-chair",3,false);p.add("ornate-jewellery-box",2,true);
+            PlannerView v=new PlannerView(gson,catalogue,p,()->{},s->{});
+            String chair=namedText(v,"planMaterials:oak-chair");
+            assertTrue(chair.contains("Total for 3 builds / actions"));
+            assertTrue(chair.contains("6 × Oak plank"));assertFalse(chair.contains("Gold leaf"));
+            String chain=namedText(v,"planMaterials:ornate-jewellery-box");
+            p.requirements("ornate-jewellery-box",2,true).forEach((name,n)->assertTrue(chain.contains(n+" × "+name)));
+            assertTrue(chain.contains("6 × Games necklace(8)"));
+        });
+    }
+    @Test public void planCardRefreshesAfterAddingAndCompleting() throws Exception
+    {
+        SwingUtilities.invokeAndWait(() -> {
+            Planner p=Planner.fresh(catalogue);p.add("oak-chair",1,false);
+            PlannerView v=new PlannerView(gson,catalogue,p,()->{},s->{});
+            v.searchFor("Oak chair");v.chooseRecipe("oak-chair");v.addSelected();
+            assertTrue(namedText(v,"planMaterials:oak-chair").contains("4 × Oak plank"));
+            clickButton(v,"Mark complete");
+            assertTrue(namedText(v,"planMaterials:oak-chair").contains("Materials (completed):"));
+            assertTrue(p.materials().isEmpty());
+            clickButton(v,"Undo completion");
+            assertTrue(namedText(v,"planMaterials:oak-chair").contains("Materials needed:"));
+            assertEquals(4L,p.materials().get(0).required);
+        });
+    }
+    private static boolean clickButton(java.awt.Component component,String label)
+    {
+        if(component instanceof javax.swing.JButton && label.equals(((javax.swing.JButton)component).getText())) {
+            ((javax.swing.JButton)component).doClick();return true;
+        }
+        if(component instanceof java.awt.Container)
+            for(java.awt.Component child:((java.awt.Container)component).getComponents())if(clickButton(child,label))return true;
+        return false;
+    }
+
 }

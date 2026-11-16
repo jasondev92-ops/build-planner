@@ -32,3 +32,13 @@ materials={m for r in recipes for m in r['materials']}
 assert all(mapping.get(m) for m in materials)
 assert len(materials)==326
 print('960 source rows accounted for; all 33 upgrade totals match; all 326 material names mapped.')
+
+room_data=json.loads((root/'tools/recipe-rooms.json').read_text())['recipes']
+assert set(room_data).issubset(byid)
+allowed=set('Achievement gallery|Bedroom|Chapel|Combat room|Costume room|Dining room|Dungeon|Formal garden|Games room|Garden|Kitchen|League hall|Menagerie|Oubliette|Parlour|Portal chamber|Portal nexus|Quest hall|Skill hall|Study|Superior garden|Throne room|Treasure room|Workshop'.split('|'))
+assert {room for rooms in room_data.values() for room in rooms}==allowed
+for r in recipes:
+    assert r['rooms']==room_data.get(r['id'],[]), r['id']
+    assert len(r['rooms'])==len(set(r['rooms']))
+    if r['category']=='Sailing' or 'Mahogany Homes' in r['name']: assert not r['rooms'], r['id']
+print(f'{len(room_data)} furniture recipes mapped across {len(allowed)} player-owned house room types.')

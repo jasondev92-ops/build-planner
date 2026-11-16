@@ -8,6 +8,7 @@ public final class Recipe
     public String id;
     public String name;
     public String category;
+    public java.util.List<String> rooms = java.util.Collections.emptyList();
     public int construction;
     public int sailing;
     public String boat;

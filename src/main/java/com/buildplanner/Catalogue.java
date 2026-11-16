@@ -23,6 +23,9 @@ public final class Catalogue
                 || r.materials == null || r.materials.isEmpty() || r.checked == null
                 || r.source == null || !r.source.startsWith("https://oldschool.runescape.wiki/w/"))
                 throw new IllegalArgumentException("Invalid recipe");
+            if (r.rooms == null) r.rooms = Collections.emptyList();
+            if (r.rooms.stream().anyMatch(room -> room == null || room.isBlank()))
+                throw new IllegalArgumentException("Invalid rooms: " + r.id);
             for (Map.Entry<String, Long> m : r.materials.entrySet())
                 if (m.getKey() == null || m.getKey().isBlank() || m.getValue() == null || m.getValue() <= 0)
                     throw new IllegalArgumentException("Invalid materials: " + r.id);
@@ -66,9 +69,20 @@ public final class Catalogue
 
     public List<Recipe> search(String query, String category, String boat)
     {
+        return search(query, category, boat, "All rooms");
+    }
+
+    public List<String> rooms()
+    {
+        return byId.values().stream().flatMap(r -> r.rooms.stream()).distinct().sorted().collect(Collectors.toList());
+    }
+
+    public List<Recipe> search(String query, String category, String boat, String room)
+    {
         String[] words = query.strip().toLowerCase(Locale.ROOT).split("\\s+");
         return byId.values().stream()
             .filter(r -> "All".equals(category) || r.category.equals(category) || ("Construction".equals(category) && "House".equals(r.category)))
+            .filter(r -> "All rooms".equals(room) || r.rooms.contains(room))
             .filter(r -> "All boats".equals(boat) || r.boat.equals("Any") || r.boat.equals(boat))
             .filter(r -> {
                 String hay = (r.label() + " " + r.category + " " + String.join(" ", r.materials.keySet())).toLowerCase(Locale.ROOT);

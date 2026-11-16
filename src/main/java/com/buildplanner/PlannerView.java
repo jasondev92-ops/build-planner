@@ -21,6 +21,7 @@ public final class PlannerView extends JPanel
     private final JTextField search = new JTextField();
     private final JComboBox<String> category = new JComboBox<>(new String[]{"All", "Sailing", "Construction"});
     private final JComboBox<String> boat = new JComboBox<>(new String[]{"All boats", "Raft", "Skiff", "Sloop"});
+    private final JComboBox<String> room = new JComboBox<>();
     private final DefaultListModel<Recipe> results = new DefaultListModel<>();
     private final JList<Recipe> list = new JList<>(results);
     private final JLabel count = new JLabel();
@@ -35,6 +36,9 @@ public final class PlannerView extends JPanel
     private final JCheckBox scratch = new JCheckBox("Include earlier upgrades");
     private final JSpinner quantity = new JSpinner(new SpinnerNumberModel(1, 1, Planner.MAX_QUANTITY, 1));
     private final JPanel plan = stack();
+    private final JComboBox<String> planRoom = new JComboBox<>();
+    // Presentation state only; weak keys avoid retaining removed builds or old profiles.
+    private final java.util.Map<Planner.Entry, Boolean> collapsed = new java.util.WeakHashMap<>();
     private final JPanel materials = stack();
     private final JLabel status = new JLabel(" ");
     private final JTabbedPane tabs = new JTabbedPane();
@@ -90,6 +94,11 @@ public final class PlannerView extends JPanel
         filters.add(new JLabel("Search name or material"));
         search.setMaximumSize(new Dimension(Integer.MAX_VALUE, 28)); filters.add(search);
         filters.add(row(category, boat));
+        room.addItem("All rooms");
+        catalogue.rooms().forEach(room::addItem);
+        room.setMaximumSize(new Dimension(Integer.MAX_VALUE, 28));
+        room.setToolTipText("Filter player-owned house furniture by room. All rooms includes other Construction and Sailing recipes.");
+        filters.add(room);
         shortcut.setMaximumSize(new Dimension(Integer.MAX_VALUE, 28));
         shortcut.setToolTipText("Checks current boosted levels or supplies for one recipe step; other unlocks still apply.");
         filters.add(shortcut); filters.add(count); find.add(filters, BorderLayout.NORTH);
@@ -137,7 +146,19 @@ public final class PlannerView extends JPanel
             public void changedUpdate(DocumentEvent e) { filter(); }
         });
         shortcut.addActionListener(e -> filter());
-        category.addActionListener(e -> filter()); boat.addActionListener(e -> filter());
+        room.addActionListener(e -> filter());
+        category.addActionListener(e -> {
+            boolean house = !"Sailing".equals(category.getSelectedItem());
+            room.setEnabled(house);
+            if (!house) room.setSelectedIndex(0);
+            filter();
+        });
+        boat.addActionListener(e -> filter());
+        planRoom.addItem("All rooms");
+        catalogue.rooms().forEach(planRoom::addItem);
+        planRoom.setMaximumSize(new Dimension(Integer.MAX_VALUE, 28));
+        planRoom.setToolTipText("Show planned builds for this room. The combined List still includes the entire project.");
+        planRoom.addActionListener(e -> refreshPlan());
         tabs.addTab("Find", find); tabs.addTab("Plan", scroll(plan)); tabs.addTab("List", scroll(materials));
         JPanel help = stack();
         help.add(area("Build Planner " + ReleaseInfo.version()));
@@ -190,7 +211,12 @@ public final class PlannerView extends JPanel
         @Override public Dimension getPreferredSize()
         {
             int width = getParent() != null && getParent().getWidth() > 0 ? getParent().getWidth() - 6 : 195;
-            setSize(Math.max(80, width), Short.MAX_VALUE);
+            if (getParent() != null && getParent().getLayout() instanceof BorderLayout) {
+                BorderLayout layout = (BorderLayout)getParent().getLayout();
+                Component east = layout.getLayoutComponent(BorderLayout.EAST);
+                if (east != null) width -= east.getPreferredSize().width + layout.getHgap();
+            }
+            setSize(Math.max(40, width), Short.MAX_VALUE);
             Dimension size = super.getPreferredSize();
             return new Dimension(width, size.height);
         }
@@ -228,7 +254,7 @@ public final class PlannerView extends JPanel
     private void filter()
     {
         String selected = list.getSelectedValue() == null ? null : list.getSelectedValue().id;
-        List<Recipe> found = catalogue.search(search.getText(), (String) category.getSelectedItem(), (String) boat.getSelectedItem());
+        List<Recipe> found = catalogue.search(search.getText(), (String) category.getSelectedItem(), (String) boat.getSelectedItem(), (String) room.getSelectedItem());
         if (shortcut.getSelectedIndex() == 1)
             found.removeIf(r -> construction < r.construction || (r.sailing > 0 && sailing < r.sailing));
         if (shortcut.getSelectedIndex() == 2) found.removeIf(r -> !hasMaterials(r));
@@ -357,20 +383,67 @@ public final class PlannerView extends JPanel
     private void refreshPlan()
     {
         plan.removeAll();
-        plan.add(area("Each line is a separate build. Mark complete finishes the entire quantity; Undo restores it. Full chains include earlier steps."));
-        if (planner.current().entries.isEmpty()) plan.add(area("Your project is empty. Find a recipe, choose a quantity, then add it here."));
+        plan.add(planRoom);
+        plan.add(Box.createVerticalStrut(8));
+        int shown = 0;
         for (Planner.Entry e : planner.current().entries)
         {
-            Recipe r = catalogue.get(e.recipeId); JPanel card = stack();
-            card.setBorder(BorderFactory.createCompoundBorder(BorderFactory.createEmptyBorder(4, 2, 4, 2), BorderFactory.createEtchedBorder()));
-            card.add(area((e.completed ? "✓ COMPLETED\n" : "") + r.label() + "\n" + (e.fromScratch ? "From scratch" : "This step only") + (r.previous != null && !e.fromScratch ? "\nRequires existing " + catalogue.get(r.previous).name : "")));
-            card.add(row(new JLabel("Qty: " + e.quantity), button("Change", () -> {
+            Recipe r = catalogue.get(e.recipeId);
+            if (!"All rooms".equals(planRoom.getSelectedItem()) && !r.rooms.contains(planRoom.getSelectedItem())) continue;
+            shown++;
+            JPanel card = stack();
+            card.setBackground(new Color(34, 36, 39));
+            card.setBorder(BorderFactory.createCompoundBorder(
+                BorderFactory.createLineBorder(new Color(65, 68, 72), 1, true),
+                BorderFactory.createEmptyBorder(7, 7, 7, 7)));
+            JPanel heading = new JPanel(new BorderLayout(4, 0)); heading.setOpaque(false);
+            JTextArea title = area(r.label()); title.setFont(title.getFont().deriveFont(Font.BOLD, 13f));
+            heading.add(title, BorderLayout.CENTER);
+            JLabel copies = new JLabel("×" + e.quantity); copies.setVerticalAlignment(SwingConstants.TOP);
+            heading.add(copies, BorderLayout.EAST); card.add(heading);
+            JTextArea location = area(r.rooms.isEmpty() ? ("Sailing".equals(r.category) ? "Sailing" : "Other construction") : String.join(" · ", r.rooms));
+            location.setForeground(new Color(170, 174, 178)); card.add(location);
+            if (e.completed) card.add(area("✓ Completed"));
+
+            JPanel body = stack(); body.setOpaque(false); body.setName("planBody:" + r.id);
+            JSeparator divider = new JSeparator(); divider.setMaximumSize(new Dimension(Integer.MAX_VALUE, 1));
+            body.add(divider); body.add(Box.createVerticalStrut(5));
+            JPanel required = stack(); required.setOpaque(false); required.setName("planMaterials:" + r.id);
+            JTextArea label = area(e.completed ? "Materials (completed):" : "Materials needed:");
+            label.setFont(label.getFont().deriveFont(Font.BOLD)); required.add(label);
+            if (e.quantity > 1) required.add(area("Total for " + e.quantity + " builds / actions"));
+            planner.requirements(e.recipeId, e.quantity, e.fromScratch).forEach((name, n) -> {
+                JPanel line = new JPanel(new BorderLayout(6, 0)); line.setOpaque(false);
+                JTextArea material = area(name); line.add(material, BorderLayout.CENTER);
+                JLabel amount = new JLabel(Long.toString(n), SwingConstants.RIGHT);
+                amount.setVerticalAlignment(SwingConstants.TOP);
+                amount.setBorder(BorderFactory.createEmptyBorder(4, 0, 4, 0));
+                line.add(amount, BorderLayout.EAST); required.add(line);
+            });
+            body.add(required);
+            body.add(area(e.fromScratch ? "Includes earlier upgrades" : "This step only"));
+            if (r.previous != null && !e.fromScratch) body.add(area("Requires existing " + catalogue.get(r.previous).name));
+            body.add(row(button("Quantity", () -> {
                 String v = JOptionPane.showInputDialog(this, "New quantity", e.quantity);
                 if (v != null) { planner.quantity(e, Integer.parseInt(v.strip())); changed(); }
             }), button("Remove", () -> { planner.remove(e); changed(); })));
-            card.add(button(e.completed ? "Undo completion" : "Mark complete", () -> { planner.complete(e, !e.completed); changed(); }));
-            plan.add(card);
+            JButton complete = button(e.completed ? "Undo completion" : "Mark complete", () -> { planner.complete(e, !e.completed); changed(); });
+            complete.setToolTipText("Complete or restore the entire quantity for this build."); body.add(complete);
+            body.setVisible(!collapsed.getOrDefault(e, false)); card.add(body);
+            JButton toggle = button(body.isVisible() ? "▴ Collapse" : "▾ Expand", () -> {});
+            toggle.setName("planToggle:" + r.id);
+            toggle.getAccessibleContext().setAccessibleName("Expand or collapse " + r.label());
+            toggle.addActionListener(event -> {
+                boolean hide = body.isVisible(); collapsed.put(e, hide); body.setVisible(!hide);
+                toggle.setText(hide ? "▾ Expand" : "▴ Collapse");
+                card.revalidate(); plan.revalidate(); plan.repaint();
+            });
+            toggle.setMaximumSize(new Dimension(Integer.MAX_VALUE, 26)); card.add(Box.createVerticalStrut(5)); card.add(toggle);
+            plan.add(card); plan.add(Box.createVerticalStrut(9));
         }
+        if (shown == 0) plan.add(area(planner.current().entries.isEmpty()
+            ? "Your project is empty. Find a recipe, choose a quantity, then add it here."
+            : "No planned builds in this room. Choose All rooms to see your whole project."));
         plan.add(Box.createVerticalGlue()); plan.revalidate(); plan.repaint();
     }
     public void updateSupplies(Supplies.Snapshot next)
@@ -451,6 +524,10 @@ public final class PlannerView extends JPanel
         materials.add(Box.createVerticalGlue()); materials.revalidate(); materials.repaint();
     }
     // Package-private hooks for real-component UI regression tests.
+    void selectPlanRoom(String name) { planRoom.setSelectedItem(name); }
+    void selectRoom(String name) { room.setSelectedItem(name); }
+    void selectCategory(String name) { category.setSelectedItem(name); }
+    boolean roomFilterEnabled() { return room.isEnabled(); }
     void selectShortcut(int index) { shortcut.setSelectedIndex(index); }
     String levelText() { return levels.getText(); }
     String pictureTooltip() { return picture.getToolTipText(); }

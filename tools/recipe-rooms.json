@@ -1,0 +1,1623 @@
+{
+  "checked": "2026-11-15",
+  "scope": "Player-owned house furniture; crafted inventory items and world construction remain under All rooms. Dungeon includes corridor, junction and stairs layouts.",
+  "sources": [
+    "https://oldschool.runescape.wiki/w/Hotspot",
+    "https://oldschool.runescape.wiki/w/Rug_space",
+    "https://oldschool.runescape.wiki/w/Seating_space",
+    "https://oldschool.runescape.wiki/w/Curtain_space",
+    "https://oldschool.runescape.wiki/w/Gilded_decoration",
+    "https://oldschool.runescape.wiki/w/Dungeon_(Construction)",
+    "https://oldschool.runescape.wiki/w/Oubliette",
+    "https://oldschool.runescape.wiki/w/Treasure_room",
+    "https://oldschool.runescape.wiki/w/Formal_garden",
+    "https://oldschool.runescape.wiki/w/Superior_garden",
+    "https://oldschool.runescape.wiki/w/League_hall",
+    "https://oldschool.runescape.wiki/w/Chapel",
+    "https://oldschool.runescape.wiki/w/Fence_space",
+    "https://oldschool.runescape.wiki/w/Update:Varlamore:_The_Final_Dawn_Out_Now"
+  ],
+  "recipes": {
+    "4-poster": [
+      "Bedroom"
+    ],
+    "table-abyssal-demon-head-mounted-mahogany-display-head-trophy-stuffed-abyssal-head": [
+      "Skill hall"
+    ],
+    "table-abyssal-demon-head-mounted-gilded-display-stuffed-abyssal-head": [
+      "Skill hall"
+    ],
+    "table-adamantite-armour-construction": [
+      "Skill hall"
+    ],
+    "table-advanced-arena": [
+      "Menagerie"
+    ],
+    "table-alchemical-chart": [
+      "Study"
+    ],
+    "table-alchemical-hydra-heads-mounted": [
+      "Skill hall"
+    ],
+    "table-amulet-of-glory-mounted": [
+      "Quest hall"
+    ],
+    "table-ancient-altar": [
+      "Achievement gallery"
+    ],
+    "table-anti-dragon-shield-mounted": [
+      "Quest hall"
+    ],
+    "table-archery-target": [
+      "Games room"
+    ],
+    "table-armillary-sphere": [
+      "Study"
+    ],
+    "table-armour-stand": [
+      "Workshop"
+    ],
+    "table-asgarnian-ale-barrel": [
+      "Kitchen"
+    ],
+    "table-astronomical-chart": [
+      "Study"
+    ],
+    "table-baby-red-dragon-construction": [
+      "Dungeon",
+      "Oubliette"
+    ],
+    "table-balance-beam": [
+      "Combat room"
+    ],
+    "table-banner-easel": [
+      "Workshop"
+    ],
+    "table-banner-stand": [
+      "League hall"
+    ],
+    "basic-jewellery-box": [
+      "Achievement gallery"
+    ],
+    "table-basilisk-head-mounted-teak-display-head-trophy-stuffed-basilisk-head": [
+      "Skill hall"
+    ],
+    "table-basilisk-head-mounted-mahogany-display-head-trophy-stuffed-basilisk-head": [
+      "Skill hall"
+    ],
+    "table-basilisk-head-mounted-gilded-display-stuffed-basilisk-head": [
+      "Skill hall"
+    ],
+    "table-beehive-construction": [
+      "Garden"
+    ],
+    "table-beer-barrel": [
+      "Kitchen"
+    ],
+    "table-bell-pull": [
+      "Dining room"
+    ],
+    "table-bells": [
+      "Chapel"
+    ],
+    "bench-with-lathe": [
+      "Workshop"
+    ],
+    "bench-with-vice": [
+      "Workshop"
+    ],
+    "table-bluebells": [
+      "Formal garden"
+    ],
+    "table-bob-icon": [
+      "Chapel"
+    ],
+    "table-bone-cage": [
+      "Oubliette"
+    ],
+    "table-boss-lair-display": [
+      "Achievement gallery"
+    ],
+    "table-boundary-stones": [
+      "Formal garden"
+    ],
+    "table-boxing-ring": [
+      "Combat room"
+    ],
+    "table-brown-rug": [
+      "Bedroom",
+      "Chapel",
+      "Parlour",
+      "Portal nexus"
+    ],
+    "table-bush": [
+      "Garden"
+    ],
+    "table-candles-construction": [
+      "Dungeon",
+      "Oubliette",
+      "Treasure room"
+    ],
+    "table-cape-hanger": [
+      "Achievement gallery"
+    ],
+    "table-cape-of-legends-mounted": [
+      "Quest hall"
+    ],
+    "table-carved-oak-bench": [
+      "Dining room"
+    ],
+    "carved-oak-magic-wardrobe": [
+      "Costume room"
+    ],
+    "table-carved-oak-table": [
+      "Dining room"
+    ],
+    "table-carved-teak-bench": [
+      "Dining room",
+      "Throne room"
+    ],
+    "carved-teak-magic-wardrobe": [
+      "Costume room"
+    ],
+    "carved-teak-table": [
+      "Dining room"
+    ],
+    "cat-basket": [
+      "Kitchen"
+    ],
+    "cat-blanket": [
+      "Kitchen"
+    ],
+    "celestial-globe": [
+      "Study"
+    ],
+    "table-chef-s-delight-barrel": [
+      "Kitchen"
+    ],
+    "table-cider-barrel": [
+      "Kitchen"
+    ],
+    "table-clay-attack-stone": [
+      "Games room"
+    ],
+    "table-clay-fireplace": [
+      "Bedroom",
+      "Dining room",
+      "Parlour"
+    ],
+    "cloth-altar": [
+      "Chapel"
+    ],
+    "table-cockatrice-head-mounted-teak-display-head-trophy-stuffed-cockatrice-head": [
+      "Skill hall"
+    ],
+    "table-cockatrice-head-mounted-mahogany-display-head-trophy-stuffed-cockatrice-head": [
+      "Skill hall"
+    ],
+    "table-cockatrice-head-mounted-gilded-display-stuffed-cockatrice-head": [
+      "Skill hall"
+    ],
+    "combat-dummy": [
+      "Combat room"
+    ],
+    "combat-ring": [
+      "Combat room"
+    ],
+    "table-consecrated-house": [
+      "Menagerie"
+    ],
+    "table-crafting-table-1": [
+      "Workshop"
+    ],
+    "table-crafting-table-2": [
+      "Workshop"
+    ],
+    "table-crafting-table-3": [
+      "Workshop"
+    ],
+    "table-crafting-table-4": [
+      "Workshop"
+    ],
+    "table-crawling-hand-mounted-teak-display-head-trophy-stuffed-crawling-hand": [
+      "Skill hall"
+    ],
+    "table-crawling-hand-mounted-mahogany-display-head-trophy-stuffed-crawling-hand": [
+      "Skill hall"
+    ],
+    "table-crawling-hand-mounted-gilded-display-stuffed-crawling-hand": [
+      "Skill hall"
+    ],
+    "crude-wooden-chair": [
+      "Parlour"
+    ],
+    "crystal-ball": [
+      "Study"
+    ],
+    "table-crystal-of-power": [
+      "Study"
+    ],
+    "table-crystal-throne": [
+      "Throne room"
+    ],
+    "crystalline-portal-nexus": [
+      "Portal nexus"
+    ],
+    "table-curtains": [
+      "Bedroom",
+      "Dining room",
+      "Parlour",
+      "Portal nexus"
+    ],
+    "table-cushioned-basket": [
+      "Kitchen"
+    ],
+    "table-cw-armour-1": [
+      "Skill hall"
+    ],
+    "table-cw-armour-2": [
+      "Skill hall"
+    ],
+    "table-cw-armour-3": [
+      "Skill hall"
+    ],
+    "table-daffodils": [
+      "Formal garden"
+    ],
+    "table-dagannoth-construction": [
+      "Treasure room"
+    ],
+    "table-dark-altar-construction": [
+      "Achievement gallery"
+    ],
+    "table-darklight-mounted": [
+      "Quest hall"
+    ],
+    "table-dartboard": [
+      "Games room"
+    ],
+    "table-deadman-rug": [
+      "Bedroom",
+      "Chapel",
+      "Dungeon",
+      "Parlour",
+      "Portal nexus",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "table-decorative-blood": [
+      "Dungeon",
+      "Oubliette",
+      "Treasure room"
+    ],
+    "table-decorative-pipe": [
+      "Dungeon",
+      "Oubliette",
+      "Treasure room"
+    ],
+    "table-decorative-rock": [
+      "Garden"
+    ],
+    "table-decorative-window": [
+      "Chapel"
+    ],
+    "table-demon-construction": [
+      "Treasure room"
+    ],
+    "table-demon-lectern": [
+      "Study"
+    ],
+    "table-demonic-throne": [
+      "Throne room"
+    ],
+    "table-desecrated-house": [
+      "Menagerie"
+    ],
+    "table-desert-habitat": [
+      "Menagerie"
+    ],
+    "table-dock-leaf": [
+      "Garden"
+    ],
+    "table-dragon-bitter-barrel": [
+      "Kitchen"
+    ],
+    "table-dungeon-entrance": [
+      "Formal garden",
+      "Garden"
+    ],
+    "table-eagle-lectern": [
+      "Study"
+    ],
+    "table-elemental-sphere": [
+      "Study"
+    ],
+    "table-elena-portrait": [
+      "Quest hall"
+    ],
+    "table-excalibur-mounted": [
+      "Quest hall"
+    ],
+    "table-exit-portal-iron-bar": [
+      "Formal garden",
+      "Garden"
+    ],
+    "table-exit-portal-iron-bar-annihilation-exit-portal-blueprints": [
+      "Formal garden",
+      "Garden"
+    ],
+    "table-extra-weapons-rack": [
+      "Combat room"
+    ],
+    "table-fairy-ring-construction": [
+      "Superior garden"
+    ],
+    "table-fancy-hedge": [
+      "Formal garden"
+    ],
+    "fancy-jewellery-box": [
+      "Achievement gallery"
+    ],
+    "table-fancy-range": [
+      "Kitchen"
+    ],
+    "fancy-rejuvenation-pool": [
+      "Superior garden"
+    ],
+    "table-fancy-teak-dresser": [
+      "Bedroom"
+    ],
+    "table-fencing-ring": [
+      "Combat room"
+    ],
+    "table-fern-big-plant": [
+      "Garden"
+    ],
+    "table-fern-small-plant": [
+      "Garden"
+    ],
+    "table-firepit": [
+      "Kitchen"
+    ],
+    "table-firepit-with-hook": [
+      "Kitchen"
+    ],
+    "table-firepit-with-pot": [
+      "Kitchen"
+    ],
+    "table-flame-pit": [
+      "Oubliette"
+    ],
+    "table-floor-decoration": [
+      "Throne room"
+    ],
+    "table-forest-habitat": [
+      "Menagerie"
+    ],
+    "table-garden-fence": [
+      "Formal garden"
+    ],
+    "table-gazebo": [
+      "Formal garden"
+    ],
+    "table-giant-dwarf-portrait": [
+      "Quest hall"
+    ],
+    "table-gilded-4-poster": [
+      "Bedroom"
+    ],
+    "table-gilded-adventure-log": [
+      "Achievement gallery"
+    ],
+    "gilded-altar": [
+      "Chapel"
+    ],
+    "gilded-bench": [
+      "Dining room"
+    ],
+    "gilded-cape-rack": [
+      "Costume room"
+    ],
+    "gilded-clock": [
+      "Bedroom"
+    ],
+    "gilded-decoration": [
+      "Combat room",
+      "Dining room",
+      "Throne room"
+    ],
+    "gilded-display": [
+      "Skill hall"
+    ],
+    "gilded-dresser": [
+      "Bedroom"
+    ],
+    "gilded-magic-wardrobe": [
+      "Costume room"
+    ],
+    "gilded-portal-nexus": [
+      "Portal nexus"
+    ],
+    "table-gilded-throne": [
+      "Throne room"
+    ],
+    "table-gilded-wardrobe": [
+      "Bedroom"
+    ],
+    "table-globe": [
+      "Study"
+    ],
+    "table-glorious-arena": [
+      "Menagerie"
+    ],
+    "table-glove-rack": [
+      "Combat room"
+    ],
+    "table-gnome-bench": [
+      "Superior garden"
+    ],
+    "table-gnome-child-icon-construction": [
+      "Chapel"
+    ],
+    "table-gold-candlesticks": [
+      "Chapel"
+    ],
+    "table-gold-sink": [
+      "Kitchen"
+    ],
+    "table-grassland-habitat": [
+      "Menagerie"
+    ],
+    "table-greater-magic-cage": [
+      "Throne room"
+    ],
+    "table-greater-magical-balance": [
+      "Games room"
+    ],
+    "table-greater-teleport-focus": [
+      "Portal chamber"
+    ],
+    "table-greenman-carving-construction": [
+      "Combat room",
+      "Dining room",
+      "Throne room"
+    ],
+    "table-greenman-statue-construction": [
+      "Formal garden",
+      "Garden"
+    ],
+    "table-greenman-s-ale-barrel": [
+      "Kitchen"
+    ],
+    "table-grid-master-icon": [
+      "Chapel"
+    ],
+    "table-guard-dog-construction": [
+      "Dungeon",
+      "Oubliette"
+    ],
+    "table-guthix-icon": [
+      "Chapel"
+    ],
+    "table-guthix-symbol": [
+      "Chapel"
+    ],
+    "table-hanging-skeleton": [
+      "Dungeon",
+      "Oubliette",
+      "Treasure room"
+    ],
+    "table-hangman": [
+      "Games room"
+    ],
+    "table-hellhound-construction": [
+      "Dungeon",
+      "Oubliette"
+    ],
+    "table-hobgoblin-guard": [
+      "Dungeon",
+      "Oubliette"
+    ],
+    "hoop-and-stick": [
+      "Games room"
+    ],
+    "table-huge-plant": [
+      "Garden"
+    ],
+    "table-huge-spider": [
+      "Dungeon",
+      "Oubliette"
+    ],
+    "imp-statue": [
+      "Garden"
+    ],
+    "incense-burner-mahogany": [
+      "Chapel"
+    ],
+    "incense-burner-marble": [
+      "Chapel"
+    ],
+    "incense-burner-oak": [
+      "Chapel"
+    ],
+    "infernal-chart": [
+      "Study"
+    ],
+    "table-iron-railings": [
+      "Formal garden"
+    ],
+    "table-isafdar-painting": [
+      "Quest hall"
+    ],
+    "table-jester": [
+      "Games room"
+    ],
+    "table-kalphite-queen-head-mounted-gilded-display-stuffed-kq-head": [
+      "Skill hall"
+    ],
+    "table-kalphite-queen-head-mounted-gilded-display-stuffed-kq-head-tattered": [
+      "Skill hall"
+    ],
+    "table-kalphite-soldier-construction": [
+      "Treasure room"
+    ],
+    "table-karamja-painting": [
+      "Quest hall"
+    ],
+    "table-kbd-head-mounted": [
+      "Skill hall"
+    ],
+    "table-king-arthur-portrait": [
+      "Quest hall"
+    ],
+    "table-kitchen-table": [
+      "Kitchen"
+    ],
+    "table-kurask-head-mounted-mahogany-display-head-trophy-stuffed-kurask-head": [
+      "Skill hall"
+    ],
+    "table-kurask-head-mounted-gilded-display-stuffed-kurask-head": [
+      "Skill hall"
+    ],
+    "table-large-fountain": [
+      "Formal garden"
+    ],
+    "table-large-leaf-bush": [
+      "Garden"
+    ],
+    "table-large-map": [
+      "Quest hall"
+    ],
+    "table-large-oak-bed": [
+      "Bedroom"
+    ],
+    "table-large-orrery": [
+      "Study"
+    ],
+    "table-large-oven": [
+      "Kitchen"
+    ],
+    "table-large-statue": [
+      "Chapel"
+    ],
+    "table-large-teak-bed": [
+      "Bedroom"
+    ],
+    "table-league-accomplishments-scroll": [
+      "League hall"
+    ],
+    "table-league-statue": [
+      "League hall"
+    ],
+    "table-lesser-magic-cage": [
+      "Throne room"
+    ],
+    "table-lesser-magical-balance": [
+      "Games room"
+    ],
+    "limestone-altar": [
+      "Chapel"
+    ],
+    "table-limestone-attack-stone": [
+      "Games room"
+    ],
+    "table-limestone-spiral-staircase": [
+      "Dungeon",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "table-lumbridge-painting": [
+      "Quest hall"
+    ],
+    "table-lunar-altar": [
+      "Achievement gallery"
+    ],
+    "table-lunar-globe": [
+      "Study"
+    ],
+    "table-magic-chest": [
+      "Treasure room"
+    ],
+    "table-magic-tree-construction": [
+      "Garden"
+    ],
+    "magical-cape-rack": [
+      "Costume room"
+    ],
+    "table-mahogany-adventure-log": [
+      "Achievement gallery"
+    ],
+    "mahogany-altar": [
+      "Chapel"
+    ],
+    "mahogany-armchair": [
+      "Parlour"
+    ],
+    "mahogany-armour-case": [
+      "Costume room"
+    ],
+    "mahogany-bench": [
+      "Dining room",
+      "Throne room"
+    ],
+    "mahogany-bookcase": [
+      "Parlour",
+      "Quest hall",
+      "Study"
+    ],
+    "mahogany-cape-rack": [
+      "Costume room"
+    ],
+    "mahogany-chest": [
+      "Games room"
+    ],
+    "mahogany-demon-lectern": [
+      "Study"
+    ],
+    "mahogany-display-fishing-trophy": [
+      "Skill hall"
+    ],
+    "mahogany-display-head-trophy": [
+      "Skill hall"
+    ],
+    "mahogany-dresser": [
+      "Bedroom"
+    ],
+    "mahogany-eagle-lectern": [
+      "Study"
+    ],
+    "mahogany-fancy-dress-box": [
+      "Costume room"
+    ],
+    "mahogany-feeder": [
+      "Menagerie"
+    ],
+    "table-mahogany-house": [
+      "Menagerie"
+    ],
+    "mahogany-ladder": [
+      "Oubliette"
+    ],
+    "mahogany-lever": [
+      "Throne room"
+    ],
+    "mahogany-magic-wardrobe": [
+      "Costume room"
+    ],
+    "mahogany-outfit-stand": [
+      "League hall"
+    ],
+    "mahogany-portal": [
+      "Portal chamber"
+    ],
+    "mahogany-prize-chest": [
+      "Treasure room"
+    ],
+    "mahogany-scratching-post": [
+      "Menagerie"
+    ],
+    "mahogany-table": [
+      "Dining room"
+    ],
+    "mahogany-telescope": [
+      "Study"
+    ],
+    "mahogany-throne": [
+      "Throne room"
+    ],
+    "mahogany-toy-box": [
+      "Costume room"
+    ],
+    "mahogany-trapdoor": [
+      "Throne room"
+    ],
+    "mahogany-treasure-chest": [
+      "Costume room"
+    ],
+    "mahogany-trophy-case": [
+      "League hall"
+    ],
+    "mahogany-wardrobe": [
+      "Bedroom"
+    ],
+    "table-man-trap": [
+      "Dungeon"
+    ],
+    "table-maple-tree-construction": [
+      "Garden"
+    ],
+    "table-marble-adventure-log": [
+      "Achievement gallery"
+    ],
+    "marble-altar": [
+      "Chapel"
+    ],
+    "table-marble-attack-stone": [
+      "Games room"
+    ],
+    "marble-cape-rack": [
+      "Costume room"
+    ],
+    "table-marble-decorative-bench": [
+      "Superior garden"
+    ],
+    "table-marble-door": [
+      "Dungeon",
+      "Treasure room"
+    ],
+    "table-marble-fireplace": [
+      "Bedroom",
+      "Dining room",
+      "Parlour"
+    ],
+    "table-marble-lectern": [
+      "Study"
+    ],
+    "marble-magic-wardrobe": [
+      "Costume room"
+    ],
+    "table-marble-portal": [
+      "Portal chamber"
+    ],
+    "marble-portal-nexus": [
+      "Portal nexus"
+    ],
+    "table-marble-spiral": [
+      "Dungeon",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "table-marble-staircase": [
+      "Dungeon",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "table-marble-trap": [
+      "Dungeon"
+    ],
+    "table-marble-wall": [
+      "Formal garden",
+      "Superior garden"
+    ],
+    "table-marigolds-construction": [
+      "Formal garden"
+    ],
+    "table-medium-balance": [
+      "Games room"
+    ],
+    "table-medium-map": [
+      "Quest hall"
+    ],
+    "table-medium-statue": [
+      "Chapel"
+    ],
+    "table-miscellanians-portrait": [
+      "Quest hall"
+    ],
+    "table-mithril-armour-construction": [
+      "Skill hall"
+    ],
+    "table-morytania-painting": [
+      "Quest hall"
+    ],
+    "table-mounted-bass-oak-display-stuffed-big-bass": [
+      "Skill hall"
+    ],
+    "table-mounted-bass-teak-display-fishing-trophy-stuffed-big-bass": [
+      "Skill hall"
+    ],
+    "table-mounted-bass-mahogany-display-fishing-trophy-stuffed-big-bass": [
+      "Skill hall"
+    ],
+    "table-mounted-coins": [
+      "Achievement gallery"
+    ],
+    "mounted-digsite-pendant": [
+      "Portal nexus"
+    ],
+    "table-mounted-emblem": [
+      "Achievement gallery"
+    ],
+    "table-mounted-giant-blue-krill-teak-display-fishing-trophy-stuffed-giant-blue-krill": [
+      "Skill hall"
+    ],
+    "table-mounted-giant-blue-krill-mahogany-display-fishing-trophy-stuffed-giant-blue-krill": [
+      "Skill hall"
+    ],
+    "table-mounted-golden-haddock-teak-display-fishing-trophy-stuffed-golden-haddock": [
+      "Skill hall"
+    ],
+    "table-mounted-golden-haddock-mahogany-display-fishing-trophy-stuffed-golden-haddock": [
+      "Skill hall"
+    ],
+    "table-mounted-harpoonfish-teak-display-fishing-trophy-stuffed-big-harpoonfish": [
+      "Skill hall"
+    ],
+    "table-mounted-harpoonfish-mahogany-display-fishing-trophy-stuffed-big-harpoonfish": [
+      "Skill hall"
+    ],
+    "table-mounted-huge-halibut": [
+      "Skill hall"
+    ],
+    "table-mounted-orangefin-teak-display-fishing-trophy-stuffed-orangefin": [
+      "Skill hall"
+    ],
+    "table-mounted-orangefin-mahogany-display-fishing-trophy-stuffed-orangefin": [
+      "Skill hall"
+    ],
+    "table-mounted-purplefin": [
+      "Skill hall"
+    ],
+    "table-mounted-shark": [
+      "Skill hall"
+    ],
+    "table-mounted-swift-marlin": [
+      "Skill hall"
+    ],
+    "table-mounted-swordfish-teak-display-fishing-trophy-stuffed-big-swordfish": [
+      "Skill hall"
+    ],
+    "table-mounted-swordfish-mahogany-display-fishing-trophy-stuffed-big-swordfish": [
+      "Skill hall"
+    ],
+    "mounted-xeric-s-talisman": [
+      "Portal nexus"
+    ],
+    "table-mythical-cape-mounted": [
+      "Quest hall"
+    ],
+    "table-nature-house": [
+      "Menagerie"
+    ],
+    "table-nice-hedge": [
+      "Formal garden"
+    ],
+    "table-nice-tree": [
+      "Garden"
+    ],
+    "oak-altar": [
+      "Chapel"
+    ],
+    "table-oak-and-steel-cage": [
+      "Oubliette"
+    ],
+    "table-oak-armchair": [
+      "Parlour"
+    ],
+    "oak-armour-case": [
+      "Costume room"
+    ],
+    "table-oak-bed": [
+      "Bedroom"
+    ],
+    "table-oak-bench": [
+      "Dining room"
+    ],
+    "table-oak-bookcase": [
+      "Parlour",
+      "Quest hall",
+      "Study"
+    ],
+    "table-oak-cage": [
+      "Oubliette"
+    ],
+    "oak-cape-rack": [
+      "Costume room"
+    ],
+    "oak-chair": [
+      "Parlour"
+    ],
+    "oak-chest": [
+      "Treasure room"
+    ],
+    "oak-clock": [
+      "Bedroom"
+    ],
+    "oak-dining-table": [
+      "Dining room"
+    ],
+    "oak-display": [
+      "Skill hall"
+    ],
+    "oak-door": [
+      "Dungeon",
+      "Treasure room"
+    ],
+    "oak-drawers": [
+      "Bedroom"
+    ],
+    "table-oak-dresser": [
+      "Bedroom"
+    ],
+    "oak-fancy-dress-box": [
+      "Costume room"
+    ],
+    "table-oak-feeder": [
+      "Menagerie"
+    ],
+    "table-oak-house": [
+      "Menagerie"
+    ],
+    "oak-kitchen-table": [
+      "Kitchen"
+    ],
+    "oak-ladder": [
+      "Oubliette"
+    ],
+    "oak-larder": [
+      "Kitchen"
+    ],
+    "oak-lectern": [
+      "Study"
+    ],
+    "oak-lever": [
+      "Throne room"
+    ],
+    "oak-magic-wardrobe": [
+      "Costume room"
+    ],
+    "table-oak-outfit-stand": [
+      "League hall"
+    ],
+    "table-oak-prize-chest": [
+      "Games room"
+    ],
+    "table-oak-scratching-post": [
+      "Menagerie"
+    ],
+    "table-oak-shaving-stand": [
+      "Bedroom"
+    ],
+    "table-oak-shelves-1": [
+      "Kitchen"
+    ],
+    "table-oak-shelves-2": [
+      "Kitchen"
+    ],
+    "table-oak-staircase": [
+      "Dungeon",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "table-oak-telescope": [
+      "Study"
+    ],
+    "table-oak-throne": [
+      "Throne room"
+    ],
+    "oak-toy-box": [
+      "Costume room"
+    ],
+    "oak-trapdoor": [
+      "Throne room"
+    ],
+    "oak-treasure-chest": [
+      "Costume room"
+    ],
+    "table-oak-tree-construction": [
+      "Garden"
+    ],
+    "oak-trophy-case": [
+      "League hall"
+    ],
+    "oak-wall-decoration": [
+      "Combat room",
+      "Dining room",
+      "Throne room"
+    ],
+    "oak-wardrobe": [
+      "Bedroom"
+    ],
+    "oak-workbench": [
+      "Workshop"
+    ],
+    "table-obelisk-construction": [
+      "Superior garden"
+    ],
+    "table-obsidian-decorative-bench": [
+      "Superior garden"
+    ],
+    "table-obsidian-fence": [
+      "Superior garden"
+    ],
+    "table-occult-altar-upgrade-ancient-altar": [
+      "Achievement gallery"
+    ],
+    "table-occult-altar-upgrade-dark-altar": [
+      "Achievement gallery"
+    ],
+    "table-occult-altar-upgrade-lunar-altar": [
+      "Achievement gallery"
+    ],
+    "table-opulent-curtains": [
+      "Bedroom",
+      "Dining room",
+      "Parlour",
+      "Portal nexus"
+    ],
+    "table-opulent-rug": [
+      "Bedroom",
+      "Chapel",
+      "Dungeon",
+      "League hall",
+      "Parlour",
+      "Portal nexus",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "table-opulent-table": [
+      "Dining room"
+    ],
+    "organ": [
+      "Chapel"
+    ],
+    "ornamental-globe": [
+      "Study"
+    ],
+    "ornate-banner-stand": [
+      "League hall"
+    ],
+    "ornate-jewellery-box": [
+      "Achievement gallery"
+    ],
+    "ornate-league-statue": [
+      "League hall"
+    ],
+    "ornate-rejuvenation-pool": [
+      "Superior garden"
+    ],
+    "table-ornate-trophy-pedestal": [
+      "League hall"
+    ],
+    "table-ornate-undead-combat-dummy": [
+      "Combat room"
+    ],
+    "table-otherworldly-theme": [
+      "Superior garden"
+    ],
+    "table-pet-list": [
+      "Menagerie"
+    ],
+    "table-picket-fence": [
+      "Formal garden"
+    ],
+    "table-plant": [
+      "Garden"
+    ],
+    "table-pluming-stand": [
+      "Workshop"
+    ],
+    "table-polar-habitat": [
+      "Menagerie"
+    ],
+    "table-pond": [
+      "Garden"
+    ],
+    "table-posh-bell-pull": [
+      "Dining room"
+    ],
+    "table-posh-fountain": [
+      "Formal garden"
+    ],
+    "table-pump-and-drain": [
+      "Kitchen"
+    ],
+    "table-pump-and-tub": [
+      "Kitchen"
+    ],
+    "table-pumpkin-construction": [
+      "Garden"
+    ],
+    "quest-list": [
+      "Achievement gallery"
+    ],
+    "table-raging-echoes-curtains-construction": [
+      "Bedroom",
+      "Dining room",
+      "Parlour",
+      "Portal nexus"
+    ],
+    "table-raging-echoes-rug-construction": [
+      "Bedroom",
+      "Chapel",
+      "Dungeon",
+      "League hall",
+      "Parlour",
+      "Portal nexus",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "table-ranging-pedestals": [
+      "Combat room"
+    ],
+    "table-redwood-fence": [
+      "Superior garden"
+    ],
+    "table-reeds": [
+      "Garden"
+    ],
+    "rejuvenation-pool": [
+      "Superior garden"
+    ],
+    "table-repair-bench": [
+      "Workshop"
+    ],
+    "restoration-pool": [
+      "Superior garden"
+    ],
+    "revitalisation-pool": [
+      "Superior garden"
+    ],
+    "table-rocking-chair": [
+      "Parlour"
+    ],
+    "table-rocnar": [
+      "Oubliette"
+    ],
+    "table-rope-bell-pull": [
+      "Dining room"
+    ],
+    "table-rosemary-construction": [
+      "Formal garden"
+    ],
+    "table-roses": [
+      "Formal garden"
+    ],
+    "table-rug": [
+      "Bedroom",
+      "Chapel",
+      "Dungeon",
+      "League hall",
+      "Parlour",
+      "Portal nexus",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "table-rune-case-1-elemental": [
+      "Skill hall"
+    ],
+    "table-rune-case-2-low-catalytic": [
+      "Skill hall"
+    ],
+    "table-rune-case-3-high-catalytic": [
+      "Skill hall"
+    ],
+    "table-rune-dragon-construction": [
+      "Treasure room"
+    ],
+    "table-runite-armour-construction": [
+      "Skill hall"
+    ],
+    "table-s-t-a-s-h-chart": [
+      "Study"
+    ],
+    "table-saradomin-icon": [
+      "Chapel"
+    ],
+    "table-saradomin-symbol": [
+      "Chapel"
+    ],
+    "table-scrying-pool": [
+      "Portal chamber"
+    ],
+    "table-servant-s-money-bag": [
+      "Bedroom"
+    ],
+    "table-shaving-stand": [
+      "Bedroom"
+    ],
+    "table-shield-easel": [
+      "Workshop"
+    ],
+    "table-shoe-box": [
+      "Bedroom"
+    ],
+    "table-short-plant": [
+      "Garden"
+    ],
+    "table-shuttered-window": [
+      "Chapel"
+    ],
+    "table-silverlight-mounted": [
+      "Quest hall"
+    ],
+    "table-simple-arena": [
+      "Menagerie"
+    ],
+    "table-sink": [
+      "Kitchen"
+    ],
+    "table-skeleton-guard": [
+      "Dungeon",
+      "Oubliette"
+    ],
+    "table-skeleton-throne": [
+      "Throne room"
+    ],
+    "table-skull-torches": [
+      "Dungeon",
+      "Oubliette",
+      "Treasure room"
+    ],
+    "table-small-box-hedge": [
+      "Formal garden"
+    ],
+    "table-small-fern": [
+      "Garden"
+    ],
+    "table-small-fountain": [
+      "Formal garden"
+    ],
+    "table-small-map": [
+      "Quest hall"
+    ],
+    "table-small-orrery": [
+      "Study"
+    ],
+    "table-small-oven": [
+      "Kitchen"
+    ],
+    "table-small-statue": [
+      "Chapel"
+    ],
+    "table-spice-rack": [
+      "Kitchen"
+    ],
+    "table-spike-trap": [
+      "Dungeon"
+    ],
+    "table-spiked-cage": [
+      "Oubliette"
+    ],
+    "table-spikes": [
+      "Oubliette"
+    ],
+    "table-spirit-tree-construction": [
+      "Superior garden"
+    ],
+    "table-spirit-tree-fairy-ring": [
+      "Superior garden"
+    ],
+    "table-stained-glass": [
+      "Chapel"
+    ],
+    "table-steel-cage": [
+      "Throne room"
+    ],
+    "table-steel-cage-oubliette": [
+      "Oubliette"
+    ],
+    "table-steel-candlesticks": [
+      "Chapel"
+    ],
+    "table-steel-dragon-construction": [
+      "Treasure room"
+    ],
+    "steel-framed-workbench": [
+      "Workshop"
+    ],
+    "table-steel-range": [
+      "Kitchen"
+    ],
+    "table-steel-torches": [
+      "Chapel"
+    ],
+    "table-steel-plated-door": [
+      "Dungeon",
+      "Treasure room"
+    ],
+    "table-stone-fireplace": [
+      "Bedroom",
+      "Dining room",
+      "Parlour"
+    ],
+    "table-stone-wall": [
+      "Formal garden"
+    ],
+    "table-sunflower": [
+      "Formal garden"
+    ],
+    "table-tall-box-hedge": [
+      "Formal garden"
+    ],
+    "table-tall-fancy-hedge": [
+      "Formal garden"
+    ],
+    "table-tall-plant": [
+      "Garden"
+    ],
+    "table-tangle-vine": [
+      "Dungeon"
+    ],
+    "teak-altar": [
+      "Chapel"
+    ],
+    "teak-armchair": [
+      "Parlour"
+    ],
+    "teak-armour-case": [
+      "Costume room"
+    ],
+    "table-teak-bed": [
+      "Bedroom"
+    ],
+    "teak-cape-rack": [
+      "Costume room"
+    ],
+    "teak-chest": [
+      "Treasure room"
+    ],
+    "teak-clock": [
+      "Bedroom"
+    ],
+    "teak-demon-lectern": [
+      "Study"
+    ],
+    "teak-dining-bench": [
+      "Dining room"
+    ],
+    "teak-display-fishing-trophy": [
+      "Skill hall"
+    ],
+    "teak-display-head-trophy": [
+      "Skill hall"
+    ],
+    "teak-drawers": [
+      "Bedroom"
+    ],
+    "table-teak-dresser": [
+      "Bedroom"
+    ],
+    "table-teak-eagle-lectern": [
+      "Study"
+    ],
+    "teak-fancy-dress-box": [
+      "Costume room"
+    ],
+    "table-teak-feeder": [
+      "Menagerie"
+    ],
+    "table-teak-garden-bench": [
+      "Superior garden"
+    ],
+    "table-teak-house": [
+      "Menagerie"
+    ],
+    "teak-kitchen-table": [
+      "Kitchen"
+    ],
+    "teak-ladder": [
+      "Oubliette"
+    ],
+    "teak-larder": [
+      "Kitchen"
+    ],
+    "table-teak-lever": [
+      "Throne room"
+    ],
+    "teak-magic-wardrobe": [
+      "Costume room"
+    ],
+    "table-teak-portal": [
+      "Portal chamber"
+    ],
+    "table-teak-prize-chest": [
+      "Games room"
+    ],
+    "teak-scratching-post": [
+      "Menagerie"
+    ],
+    "teak-shelves-1": [
+      "Kitchen"
+    ],
+    "teak-shelves-2": [
+      "Kitchen"
+    ],
+    "teak-staircase": [
+      "Dungeon",
+      "Quest hall",
+      "Skill hall"
+    ],
+    "teak-table": [
+      "Dining room"
+    ],
+    "teak-telescope": [
+      "Study"
+    ],
+    "teak-throne": [
+      "Throne room"
+    ],
+    "teak-toy-box": [
+      "Costume room"
+    ],
+    "table-teak-trapdoor": [
+      "Throne room"
+    ],
+    "teak-treasure-chest": [
+      "Costume room"
+    ],
+    "teak-wall-decoration": [
+      "Combat room",
+      "Dining room",
+      "Throne room"
+    ],
+    "teak-wardrobe": [
+      "Bedroom"
+    ],
+    "table-teleport-focus": [
+      "Portal chamber"
+    ],
+    "table-teleport-trap": [
+      "Dungeon"
+    ],
+    "table-tentacle-pool": [
+      "Oubliette"
+    ],
+    "table-the-desert-painting": [
+      "Quest hall"
+    ],
+    "table-thistle-construction": [
+      "Garden"
+    ],
+    "table-thorny-hedge": [
+      "Formal garden"
+    ],
+    "table-tip-jar": [
+      "Garden"
+    ],
+    "table-tok-xil-construction": [
+      "Treasure room"
+    ],
+    "table-tool-store-1": [
+      "Workshop"
+    ],
+    "table-tool-store-2": [
+      "Workshop"
+    ],
+    "table-tool-store-3": [
+      "Workshop"
+    ],
+    "table-tool-store-4": [
+      "Workshop"
+    ],
+    "table-tool-store-5": [
+      "Workshop"
+    ],
+    "table-topiary-bush": [
+      "Superior garden"
+    ],
+    "table-topiary-hedge": [
+      "Formal garden"
+    ],
+    "table-torches-construction": [
+      "Dungeon",
+      "Oubliette",
+      "Treasure room"
+    ],
+    "table-torn-curtains": [
+      "Bedroom",
+      "Dining room",
+      "Parlour",
+      "Portal nexus"
+    ],
+    "table-trailblazer-globe-construction": [
+      "League hall"
+    ],
+    "table-trailblazer-rug-construction": [
+      "League hall"
+    ],
+    "table-trapdoor": [
+      "Throne room"
+    ],
+    "table-treasure-hunt": [
+      "Games room"
+    ],
+    "table-tree-construction": [
+      "Garden"
+    ],
+    "table-troll-construction": [
+      "Dungeon",
+      "Oubliette"
+    ],
+    "table-trophy-pedestal": [
+      "League hall"
+    ],
+    "table-undead-combat-dummy": [
+      "Combat room"
+    ],
+    "table-volcanic-habitat": [
+      "Menagerie"
+    ],
+    "table-volcanic-theme": [
+      "Superior garden"
+    ],
+    "table-vorkath-s-head-mounted": [
+      "Skill hall"
+    ],
+    "table-weapons-rack": [
+      "Combat room"
+    ],
+    "table-whetstone": [
+      "Workshop"
+    ],
+    "table-willow-tree-construction": [
+      "Garden"
+    ],
+    "table-windchimes": [
+      "Chapel"
+    ],
+    "table-wood-dining-table": [
+      "Dining room"
+    ],
+    "table-wooden-bed": [
+      "Bedroom"
+    ],
+    "table-wooden-bench": [
+      "Dining room"
+    ],
+    "table-wooden-bookcase": [
+      "Parlour",
+      "Quest hall",
+      "Study"
+    ],
+    "table-wooden-chair": [
+      "Parlour"
+    ],
+    "table-wooden-crate": [
+      "Treasure room"
+    ],
+    "table-wooden-fence": [
+      "Formal garden"
+    ],
+    "table-wooden-larder": [
+      "Kitchen"
+    ],
+    "table-wooden-shelves-1": [
+      "Kitchen"
+    ],
+    "table-wooden-shelves-2": [
+      "Kitchen"
+    ],
+    "table-wooden-shelves-3": [
+      "Kitchen"
+    ],
+    "table-wooden-torches": [
+      "Chapel"
+    ],
+    "wooden-workbench": [
+      "Workshop"
+    ],
+    "table-yew-tree-construction": [
+      "Garden"
+    ],
+    "table-zamorak-icon": [
+      "Chapel"
+    ],
+    "table-zamorak-symbol": [
+      "Chapel"
+    ],
+    "table-zen-theme": [
+      "Superior garden"
+    ]
+  }
+}

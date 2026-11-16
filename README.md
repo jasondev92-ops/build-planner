@@ -1,4 +1,4 @@
-# Build Planner — 0.1.7 beta
+# Build Planner — 0.1.8 beta
 
 A RuneLite sidebar for Construction and Sailing recipes, saved projects, combined materials, bank/inventory counts and estimated costs.
 
@@ -6,7 +6,15 @@ A RuneLite sidebar for Construction and Sailing recipes, saved projects, combine
 
 The version appears in the header's upper-right corner. The subtitle is **Construction & Sailing**. Use **Info → Suggestions & bug reports** to open [the feedback forms](https://github.com/jasondev92-ops/build-planner/issues/new/choose).
 
-**Validation:** Java 11 bytecode compiled against RuneLite 1.13.3; 52 automated tests pass. All 33 source upgrade totals match the planner's expanded requirements; all 326 material names have bank-item mappings. 649 entries have named game-icon mappings; 272 explicitly show “Image not yet verified”. The previously tested features remain, but this expanded catalogue still needs live-game acceptance testing. Available in the RuneLite Plugin Hub following review of the initial release.
+**Validation:** Java 11 bytecode compiled against RuneLite 1.13.3; 57 automated tests pass. All 33 source upgrade totals match the planner's expanded requirements; all 326 material names have bank-item mappings. 649 entries have named game-icon mappings; 272 explicitly show “Image not yet verified”. The previously tested features remain, but this expanded catalogue still needs live-game acceptance testing. Available in the RuneLite Plugin Hub following review of the initial release.
+
+## Changes in 0.1.8
+
+- Plan has clearly separated cards with bold titles, quantities, room labels, right-aligned material amounts and independent Expand/Collapse controls. Collapse state lasts while the panel remains open; it is not stored in saved projects. A separate Plan room filter hides cards without changing the combined List.
+- Plan cards show materials beneath each build, multiplied by its quantity and including earlier upgrades when selected. Completed cards retain a labelled reference breakdown; List continues to total unfinished builds only.
+- Find includes an **All rooms** dropdown with 24 player-owned house room types. Shared furniture appears in each applicable room. Selecting Sailing resets and disables the room filter; All rooms retains the entire catalogue.
+- Room metadata covers 500 furniture recipes. Dungeon combines its corridor, junction and stairs layouts. Crafted inventory items, Mahogany Homes and world construction remain under All rooms.
+- Existing saved plans and recipe IDs are unchanged. The new UI was tested locally; live-game acceptance is still needed before submitting this update.
 
 ## Changes in 0.1.7
 
@@ -57,7 +65,7 @@ See `docs/AUTOMATIC-SUPPLIES.md` for the acceptance checklist and mapping source
 
 ## What works
 
-- Search names and materials; filter Construction/Sailing and boat size.
+- Search names and materials; filter Construction/Sailing, boat size and house room.
 - 921 bundled entries: 182 Sailing and 739 other Construction entries.
 - Separate raft/skiff/sloop quantities for core boat parts.
 - Create, rename, switch and delete saved projects.
@@ -104,7 +112,7 @@ Build is pinned to RuneLite 1.13.3 for reproducibility. If that client is outdat
 
 - `src/main/java/com/buildplanner`: plugin, Swing UI, catalogue and planning logic.
 - `src/main/resources/com/buildplanner/recipes.json`: bundled recipes with source URLs.
-- `src/test/java/com/buildplanner`: 52 tests, development launcher and real Swing preview renderer.
+- `src/test/java/com/buildplanner`: 57 tests, development launcher and real Swing preview renderer.
 - `tools/catalogue.py`: reproducible catalogue generator (Python standard library only).
 - `tools/verify.py`: alternate compiler/test route used here with a Java 17 runtime and checksum-verified dependencies.
 - `docs/VALIDATION.md`: exact checks and remaining local acceptance steps.

@@ -22,8 +22,8 @@ public final class PreviewRenderer
                 for(String key:new String[]{"Panel.background","Viewport.background","TextArea.background","List.background","TextField.background","ComboBox.background","TabbedPane.background","Button.background","CheckBox.background","Spinner.background"}) UIManager.put(key,new Color(42,44,47));
                 for(String key:new String[]{"Label.foreground","TextArea.foreground","List.foreground","TextField.foreground","ComboBox.foreground","TabbedPane.foreground","Button.foreground","CheckBox.foreground","Spinner.foreground"})UIManager.put(key,new Color(223,223,223));
                 UIManager.put("TabbedPane.selected",new Color(61,77,77));
-                Catalogue c=Catalogue.load(new Gson());Planner p=Planner.fresh(c);p.rename("Sloop upgrades");
-                p.add("mahogany-cargo-hold",1,false);p.add("mithril-salvaging-hook",2,false);p.add("mithril-helm-sloop",1,false);
+                Catalogue c=Catalogue.load(new Gson());Planner p=Planner.fresh(c);p.rename("House upgrades");
+                p.add("gilded-altar",1,false);p.add("table-armour-stand",2,false);p.add("mahogany-cargo-hold",1,false);
                 p.owned("Mahogany plank",12);p.owned("Mithril nails",64);
                 String recipeId = args.length > 1 ? args[1] : "mahogany-cargo-hold";
                 BufferedImage suppliedImage = args.length > 2 ? ImageIO.read(new File(args[2])) : null;
@@ -44,6 +44,11 @@ public final class PreviewRenderer
                     v.selectTab(tab);for(int i=0;i<4;i++)layout(v);
                     BufferedImage img=new BufferedImage(242,800,BufferedImage.TYPE_INT_RGB);Graphics2D g=img.createGraphics();v.printAll(g);g.dispose();ImageIO.write(img,"png",new File(dir,"panel-"+tab+".png"));
                 }
+                v.selectTab(0);v.searchFor("");v.selectRoom("Kitchen");
+                for(int i=0;i<4;i++)layout(v);
+                BufferedImage rooms=new BufferedImage(242,800,BufferedImage.TYPE_INT_RGB);
+                Graphics2D roomGraphics=rooms.createGraphics();v.printAll(roomGraphics);roomGraphics.dispose();
+                ImageIO.write(rooms,"png",new File(dir,"room-filter.png"));
                 // Explicit sample data for layout inspection, not fetched/live prices.
                 v.updateSupplies(new Supplies.Snapshot(java.util.Map.of(8782,10L,4822,64L,32889,9L),
                     java.util.Map.of(8782,2L),true,System.currentTimeMillis(),

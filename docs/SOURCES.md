@@ -47,3 +47,7 @@ Quantities refer to building each selected component, not buying a whole boat. S
 - https://repo.runelite.net/net/runelite/client/1.13.3/client-1.13.3.pom — dependency/version verification.
 
 Original code only references the APIs; no RuneLite game-client source is copied into this project. Gradle wrapper files retain their upstream notices.
+
+## Room filter (15 November 2026)
+
+`tools/recipe-rooms.json` records explicit recipe-ID memberships and source URLs; `tools/catalogue.py` merges them into the bundled catalogue. Membership was checked against OSRS Wiki room/hotspot tables, including Rug space, Curtain space, Seating space, Fence space and the Varlamore: The Final Dawn announcement. Shared-room exceptions are explicit: Brown rug excludes the halls/dungeon; Trailblazer rug belongs to League hall; standard bookcases belong to Parlour/Quest hall/Study; only Marble wall is shared between Formal and Superior gardens. Dungeon combines its corridor, junction and stair layouts. No automatic name-based room inference runs in the plugin. Inventory crafting and world activities remain under All rooms.

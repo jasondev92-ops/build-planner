@@ -1,3 +1,9 @@
+# 0.1.8 update — 15 November 2026
+
+57 JUnit tests pass with Java 11 bytecode against RuneLite 1.13.3. New tests exercise actual Swing room selection, category reset, independent per-build materials, quantities, full upgrade chains, merged additions and completion/undo. Collapse/expand tests verify independent cards, preserved collapse state after merged additions and room filtering, and unchanged project requirements. Catalogue checks cover shared-room furniture, excluded world/Sailing recipes and the full unfiltered catalogue. The independent data audit validates 500 room mappings across 24 room types alongside the existing 960-row, 33-upgrade-total and 326-material checks.
+
+Real Swing Plan and Find previews inspected at 242 × 800. No live-game or full Gradle run was performed here. Existing launcher unchecked-varargs warning remains. Saved-state schema, recipe IDs and configuration keys are unchanged.
+
 # 0.1.7 update
 
 52 tests pass. A populated saved plan restores when its profile data is supplied; null, empty and whitespace profile data each produce a separate empty My builds project with no entries or owned counts. Production resources contain only recipes, material mappings and release metadata. No personal saved plans are bundled. Removed the obsolete unreviewed notice; saved-state keys and schema are unchanged.
