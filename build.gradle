@@ -6,7 +6,7 @@ repositories {
     }
     mavenCentral()
 }
-def runeLiteVersion = findProperty('runeliteVersion') ?: '1.13.3'
+def runeLiteVersion = findProperty('runeliteVersion') ?: 'latest.release'
 dependencies {
     compileOnly "net.runelite:client:${runeLiteVersion}"
     testImplementation "net.runelite:client:${runeLiteVersion}"

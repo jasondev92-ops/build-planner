@@ -96,7 +96,7 @@ Nothing needs installing today. When ready:
 
 The `run` task starts a development RuneLite client. It does not inject anything into an already-running client. A JAR produced by the build is a compiled plugin artifact, **not a standalone application**. Do not expect double-clicking it or dropping it into a random plugin folder to install it. Use the included development launcher until Plugin Hub review is complete.
 
-Build is pinned to RuneLite 1.13.3 for reproducibility. If that client is outdated when you test, use `gradlew.bat -PruneliteVersion=latest.release test run` and recheck compatibility. The Unix equivalent is `./gradlew`.
+Development launches use RuneLite latest.release to follow game updates. The optional -PruneLiteVersion override and tools/verify.py retain pinned verification support. If that client is outdated when you test, use `gradlew.bat -PruneliteVersion=latest.release test run` and recheck compatibility. The Unix equivalent is `./gradlew`.
 
 ## Planning correctly
 
